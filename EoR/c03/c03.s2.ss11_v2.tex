@@ -1,0 +1,58 @@
+\subsection{平均シグナル}\label{c3.s3.ss1}
+赤方偏移した21cm線を全天に亙って観測することにより、平均的な宇宙の熱史を
+知ることができると期待されている。特に再イオン化のシグナル（Lyman-$\alpha$線
+$\cdot$X線の効き始めと光量、再電離の開始時期と期間、標準モデルを越えた加熱源の有無）は
+SKA-low (40GHz-200MHz)、晴れ上がり時の再結合線はSKA-midでのターゲットとなっ
+ている。（イントロダクション参照）
+
+全天の観測については、SKAのような大規模な干渉計システムは原理的には必要で
+はなく、既にsystematic dominatedな観測になっており、実際にCoRE, EDGES,
+LEDA, DARE, SARAS, SCI-HI, ZEBRAなどの観測が実施$\cdot$計画されている。最
+新の観測の一例としてSCI-HIによる結果を示す\cite{2014ApJ...782L...9V}。
+図(\ref{fig:ichiki.fig.1})の緑色によるデータがGlobal Sky Model \cite{2008MNRAS.388..247D}によって
+前景放射を推定し差し引いた結果のパワーであり、線は再イオン化シグナルの
+モデル計算（３種類）である。ここでの主な系統誤差は前景放射の差し引きの残
+差およびアンテナシステムのself radio-frequency interference (RFI)である
+と議論されている\cite{2014ApJ...782L...9V}。
+
+\begin{figure}[!bp]
+\begin{minipage}[c]{0.49\linewidth}
+\centering
+{\includegraphics[width=\linewidth]{EoR/c03/c03.s2.f23.eps}}
+\end{minipage}
+\begin{minipage}[c]{0.49\linewidth}
+\centering
+{\includegraphics[width=\linewidth]{EoR/c03/c03.s2.f24.eps}}
+\end{minipage}
+\caption{Sonda Cosmologica de las Islas para la Deteccion de Hidrogeno
+ Neutro (SCI-HI) による観測例。}
+\label{fig:ichiki.fig.1}
+\end{figure}
+
+さて、ではなぜ干渉計システムであるSKAの望遠鏡で天の平均的なシグナルが観測
+対象となるのだろうか？これについては干渉計システムを干渉計として用いず観
+測する利点として以下のような議論がある。
+\begin{itemize}
+ \item 全天シグナル観測の最大の系統誤差はモードカップリング（周波数毎のビームの違いによっ
+       て空間方向の揺らぎが周波数方向の揺らぎと混ざる）であり、これを取
+       り除く手法としてSKAの干渉計モードが有効。
+ \item 干渉計システムによる詳細観測を行うターゲット赤方偏移をまず平均シ
+       グナルから探る。
+ \item 温度のゼロ点を測る（干渉計モードで得られたパワースペクトルは吸収
+       によるものなのか、放射なのか）。
+\end{itemize}
+SKAをどのように用いるかについては大きく分けて二通りが考えられている。す
+なわち、直径35mのstationを一つの望遠鏡として用いる方法で、視野が5x5平方
+度と比較的狭くなるため前景放射の差し引きはしやすくなるが、モードカップリ
+ングが複雑になる。またはstationにある一つのアンテナだけを望遠鏡として用
+いる方法で、この場合はモードカップリングは減るものの、視野が90x90平方度
+と広くなり前景放射の差し引きは難しくなる。
+
+また、干渉計は一般にall-sky signalには感度がないが、食を起こしている天体
+（例えば月）があれば、のっぺりした全天シグナルに空間的な構造が生じること
+になり観測が可能となる。特に、月はほぼ一様な230Kの黒体輻射だと期待されて
+いるので、これを基準に全天シグナルを測ることができる。実際LOFARによる実
+験により、問題になると思われていた地球のRFI反射波は長基線($\gtrsim 100\lambda$)観測によりモデル化し差し引けそう
+であること、SKA程度のfilling factorがあれば数日の観測時間で検出可能であ
+ることが明らかにされている。
+

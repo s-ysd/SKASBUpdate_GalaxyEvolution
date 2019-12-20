@@ -1,0 +1,1313 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.7.20)  30 SEP 2019 16:18
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**SKAJP_Science_Book_2020
+(./SKAJP_Science_Book_2020.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/01/01> patch level 0)
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/jreport.cls
+Document Class: jreport 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 677.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count91
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 142.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 94.
+)
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen123
+\WF@size=\dimen124
+\c@WF@wrappedlines=\count92
+\WF@box=\box41
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (./natbib.sty
+Package: natbib 1998/07/14 6.8c (PWD)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 467.
+\c@NAT@ctr=\count93
+)
+(./revsymb.sty
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+\c@tracingmulticols=\count94
+\mult@box=\box42
+\multicol@leftmargin=\dimen125
+\c@unbalance=\count95
+\c@collectmore=\count96
+\doublecol@number=\count97
+\multicoltolerance=\count98
+\multicolpretolerance=\count99
+\full@width=\dimen126
+\page@free=\dimen127
+\premulticols=\dimen128
+\postmulticols=\dimen129
+\multicolsep=\skip45
+\multicolbaselineskip=\skip46
+\partial@page=\box43
+\last@line=\box44
+\maxbalancingoverflow=\dimen130
+\mult@rightbox=\box45
+\mult@grightbox=\box46
+\mult@gfirstbox=\box47
+\mult@firstbox=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\c@columnbadness=\count100
+\c@finalcolumnbadness=\count101
+\last@try=\dimen131
+\multicolovershoot=\dimen132
+\multicolundershoot=\dimen133
+\mult@nat@firstbox=\box66
+\colbreak@box=\box67
+\mc@col@check@num=\count102
+)
+(./multirow.sty
+\bigstrutjot=\dimen134
+) (./aas_macros.sty)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen135
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen136
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count103
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count104
+\leftroot@=\count105
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count106
+\DOTSCASE@=\count107
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box68
+\strutbox@=\box69
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count108
+\c@MaxMatrixCols=\count109
+\dotsspace@=\muskip11
+\c@parentequation=\count110
+\dspbrk@lvl=\count111
+\tag@help=\toks18
+\row@=\count112
+\column@=\count113
+\maxfields@=\count114
+\andhelp@=\toks19
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks20
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldmincho=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is not available.
+Package pdftexcmds Info: \pdf@ifprimitive is not available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen144
+\Hy@linkcounter=\count115
+\Hy@pagecounter=\count116
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count117
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 4319.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4319.
+Package hyperref Info: Option `bookmarksnumbered' set `false' on input line 431
+9.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4694.
+\c@Hy@tempcnt=\count118
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen145
+\Fld@menulength=\count119
+\Field@Width=\dimen146
+\Fld@charsize=\dimen147
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count120
+\c@Item=\count121
+\c@Hfootnote=\count122
+)
+
+Package hyperref Message: Driver: hdvipdfm.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hdvipdfm.def
+File: hdvipdfm.def 2012/11/06 v6.83m Hyperref driver for dvipdfm
+\pdfm@box=\box70
+\c@Hy@AnnotLevel=\count123
+\HyField@AnnotCount=\count124
+\Fld@listcount=\count125
+\c@bookmark@seq@number=\count126
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip50
+)
+(./SKAJP_Science_Book_2020.aux
+
+Package natbib Warning: Citation `2014ApJ...780...13I' multiply defined.
+
+
+Package natbib Warning: Citation `2006PhR...433..181F' multiply defined.
+
+
+Package natbib Warning: Citation `2006ApJ...652....6Y' multiply defined.
+
+
+LaTeX Warning: Label `dispersion' multiply defined.
+
+
+Package natbib Warning: Citation `2013ApJ...767..150A' multiply defined.
+
+
+Package natbib Warning: Citation `2014MNRAS.440..134A' multiply defined.
+
+
+Package natbib Warning: Citation `2014MNRAS.439.1596D' multiply defined.
+
+
+Package natbib Warning: Citation `1993ApJ...411..170E' multiply defined.
+
+
+Package natbib Warning: Citation `2015ApJ...798....6F' multiply defined.
+
+
+Package natbib Warning: Citation `1995A&A...304....1H' multiply defined.
+
+
+Package natbib Warning: Citation `2014ApJ...790..123A' multiply defined.
+
+
+Package natbib Warning: Citation `2014PASJ...66...65A' multiply defined.
+
+
+Package natbib Warning: Citation `2005Natur.434...50H' multiply defined.
+
+
+Package natbib Warning: Citation `2012AJ....143...96J' multiply defined.
+
+
+Package natbib Warning: Citation `2007Sci...318..777L' multiply defined.
+
+
+Package natbib Warning: Citation `2006Natur.439..817M' multiply defined.
+
+
+Package natbib Warning: Citation `ARKG2013' multiply defined.
+
+
+Package natbib Warning: Citation `ARKG2013' multiply defined.
+
+)
+\openout1 = `SKAJP_Science_Book_2020.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+ (I search kanjifont definition file: . . ) (I search font definition file: .
+. . . . . . . )
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\AtBeginShipoutBox=\box71
+Package hyperref Info: Link coloring OFF on input line 37.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count127
+)
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
+
+(./introduction/frontpage.tex
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+File: introduction/Book_cover.eps Graphic file (type eps)
+ <introduction/Book_cover.eps> [1
+
+]) [1]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 42.
+
+(./SKAJP_Science_Book_2020.toc
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2
+
+] [3]
+[4] [5]
+
+LaTeX Font Warning: Font shape `JT1/mc/m/sc' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 597.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/sc' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 597.
+
+[6])
+\tf@toc=\write3
+\openout3 = `SKAJP_Science_Book_2020.toc'.
+
+ [7]
+第 1 章
+(./introduction/introduction.s1.tex
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 9.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
+ [1
+
+] [2]
+File: introduction/c01.s1.f1.eps Graphic file (type eps)
+ <introduction/c01.s1.f1.eps>)
+(./introduction/introduction.s2.tex [3] [4] [5] [6]
+File: introduction/c01.s2.f1.eps Graphic file (type eps)
+
+<introduction/c01.s2.f1.eps> [7]) (./introduction/introduction.s3.tex [8]
+(I search kanjifont definition file: . . ) (I search font definition file: . .
+. . . . . . )
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 59.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 Phase 1 Con-cept of Op-er-a-tions (re-vi-sion
+ B): []$\OT1/pcr/m/n/9 http : / / astronomers . skatelescope . org /
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 67--69
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 Phase 1 Sci-ence Pri-or-ity Out-come: []$\OT1
+/pcr/m/n/9 http : / / astronomers . skatelescope . org / wp-[]content /
+ []
+
+
+Overfull \hbox (14.92227pt too wide) in paragraph at lines 67--69
+\OT1/pcr/m/n/9 uploads / 2014 / 10 / SKA-[]TEL-[]SKO-[]0000122-[]SCI-[]REQ-[]RE
+-[]01-[]SKA1SciencePrioritiesOutcome .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 Phase 1 Level 1 (Sys-tem) Re-quire-ments Spec
+-i-fi-ca-tion (re-vi-sion 5): []$\OT1/pcr/m/n/9 http :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+\OT1/pcr/m/n/9 / / astronomers . skatelescope . org / wp-[]content / uploads / 
+2015 / 02 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
+\OT1/pcr/m/n/9 SKA-[]TEL-[]SKO-[]0000008-[]AG-[]REQ-[]SRS-[]Rev05-[]SKA1 _ Leve
+l _ 1 _ System _ Requirement _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 Phase 1 Sci-en-tific Use Cases (lat-est draft
+): []$\OT1/pcr/m/n/9 http : / / astronomers . skatelescope . org /
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 82--84
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 SWG As-sess-ment Work-shop Sum-mary: Con-tin-
+uum: []$\OT1/pcr/m/n/9 https : / / indico . skatelescope . org /
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 85--87
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 SWG As-sess-ment Work-shop Sum-mary: Cos-mol-
+ogy: []$\OT1/pcr/m/n/9 https : / / indico . skatelescope . org /
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 88--90
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 SWG As-sess-ment Work-shop Sum-mary: Cra-dle 
+of Life: []$\OT1/pcr/m/n/9 https : / / indico . skatelescope . org /
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 97--99
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 SWG As-sess-ment Work-shop Sum-mary: Mag-neti
+sm: []$\OT1/pcr/m/n/9 https : / / indico . skatelescope . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+\OT1/pcr/m/n/9 uploads / 2014 / 11 / SKA-[]TEL-[]SKO-[]0000002-[]AG-[]BD-[]DD-[
+]01-[]SKA1 _ System _ Baseline _ Design _
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 112--114
+[]\JY1/mc/m/n/9 ★ \OT1/ptm/m/n/9 Project Ex-e-cu-tion Plan: []$\OT1/pcr/m/n/9 
+http : / / www . skatelescope . org / uploaded / 38221 _ SKA _ Project _
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 128.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 128.
+) [9] [10]
+第 2 章
+(./EoR/EoR.s1.tex (./EoR/c03/c03.s1.tex [11
+
+] [12]
+File: EoR/c03/c03.s1.f1.eps Graphic file (type eps)
+ <EoR/c03/c03.s1.f1.eps>
+File: EoR/c03/c03.s1.f2.eps Graphic file (type eps)
+
+<EoR/c03/c03.s1.f2.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13]
+
+LaTeX Warning: Text page 14 contains only floats.
+
+[14] [15]
+File: EoR/c03/c03.s1.f3a.eps Graphic file (type eps)
+ <EoR/c03/c03.s1.f3a.eps>
+File: EoR/c03/c03.s1.f3b.eps Graphic file (type eps)
+ <EoR/c03/c03.s1.f3b.eps>
+File: EoR/c03/c03.s1.f4a.eps Graphic file (type eps)
+
+<EoR/c03/c03.s1.f4a.eps>
+File: EoR/c03/c03.s1.f4b.eps Graphic file (type eps)
+ <EoR/c03/c03.s1.f4b.eps> [16] [17] [18] [19] [20]
+[21])) (./EoR/EoR.s2.tex (./EoR/c03/c03.s2.ss1.tex [22] [23])
+(./EoR/c03/c03.s2.ss2.tex
+File: EoR/c03/c03.s2.f1a.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f1a.eps>
+File: EoR/c03/c03.s2.f1b.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f1b.eps>
+File: EoR/c03/c03.s2.f2.eps Graphic file (type eps)
+
+<EoR/c03/c03.s2.f2.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24] [25] [26]) (./EoR/c03/c03.s2.ss3.tex
+File: EoR/c03/c03.s2.f3.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f3.eps>
+File: EoR/c03/c03.s2.f4.eps Graphic file (type eps)
+
+<EoR/c03/c03.s2.f4.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: EoR/c03/c03.s2.f5.eps Graphic file (type eps)
+<EoR/c03/c03.s2.f5.eps>
+File: EoR/c03/c03.s2.f6.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f6.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27] [28] [29]) (./EoR/c03/c03.s2.ss4.tex [30]
+File: EoR/c03/c03.s2.f7.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f7.eps>
+File: EoR/c03/c03.s2.f8.eps Graphic file (type eps)
+
+<EoR/c03/c03.s2.f8.eps>
+File: EoR/c03/c03.s2.f9.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f9.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./EoR/c03/c03.s2.ss5.tex [31]
+
+LaTeX Warning: Text page 32 contains only floats.
+
+[32]
+File: EoR/c03/c03.s2.f10.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f10.eps> [33] [34]) (./EoR/c03/c03.s2.ss6.tex
+
+Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
+d on input line 31.
+
+[35]
+File: EoR/c03/c03.s2.f11.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f11.eps>
+Overfull \hbox (15.5126pt too wide) in paragraph at lines 65--66
+ [][] 
+ []
+
+File: EoR/c03/c03.s2.f12.eps Graphic file (type eps)
+<EoR/c03/c03.s2.f12.eps>
+Overfull \hbox (13.40474pt too wide) in paragraph at lines 71--72
+ [][] 
+ []
+
+File: EoR/c03/c03.s2.f13.eps Graphic file (type eps)
+<EoR/c03/c03.s2.f13.eps>
+Overfull \hbox (15.5126pt too wide) in paragraph at lines 78--79
+ [][] 
+ []
+
+File: EoR/c03/c03.s2.f14.eps Graphic file (type eps)
+<EoR/c03/c03.s2.f14.eps>) (./EoR/c03/c03.s2.ss7.tex [36] [37] [38] [39])
+(./EoR/c03/c03.s2.ss8.tex [40]
+File: EoR/c03/c03.s2.f16.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f16.eps>
+File: EoR/c03/c03.s2.f17.eps Graphic file (type eps)
+
+<EoR/c03/c03.s2.f17.eps>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41]) (./EoR/c03/c03.s2.ss9.tex [42] [43]) (./EoR/c03/c03.s2.ss10.tex [44]
+File: EoR/c03/c03.s2.f18.eps Graphic file (type eps)
+
+<EoR/c03/c03.s2.f18.eps>
+File: EoR/c03/c03.s2.f19.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f19.eps>
+Overfull \hbox (2.0805pt too wide) in paragraph at lines 60--75
+[]$[]$ $[]$ 
+ []
+
+File: EoR/c03/c03.s2.f20.eps Graphic file (type eps)
+<EoR/c03/c03.s2.f20.eps>
+File: EoR/c03/c03.s2.f21.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f21.eps>
+File: EoR/c03/c03.s2.f22.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f22.eps>
+Overfull \hbox (2.0805pt too wide) in paragraph at lines 100--111
+[]$[]$ $[]$ 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45] [46]) (./EoR/c03/c03.s2.ss11.tex [47]
+File: EoR/c03/c03.s2.f23.eps Graphic file (type eps)
+ <EoR/c03/c03.s2.f23.eps>
+File: EoR/c03/c03.s2.f24.eps Graphic file (type eps)
+
+<EoR/c03/c03.s2.f24.eps>)) (./EoR/EoR.s3.tex (./EoR/c03/c03.s3.ss1.tex [48]
+[49]
+File: EoR/c03/c03.s3.f1.eps Graphic file (type eps)
+ <EoR/c03/c03.s3.f1.eps>) (./EoR/c03/c03.s3.ss2.tex [50] [51])
+(./EoR/c03/c03.s3.ss3.tex [52] [53] [54])) (./EoR/EoR.bib.tex [55] [56
+
+]
+[57]) (./EoR/EoR.author.tex [58]) [59]
+第 3 章
+(./cosmology/cosmology.s1.tex
+File: cosmology/Planck_history_of_Universe_Crop_orig.eps Graphic file (type eps
+)
+
+<cosmology/Planck_history_of_Universe_Crop_orig.eps>
+File: cosmology/Planck_CMB_Mollweide_4k_2.eps Graphic file (type eps)
+
+<cosmology/Planck_CMB_Mollweide_4k_2.eps>
+File: cosmology/component_univ.eps Graphic file (type eps)
+ <cosmology/component_univ.eps>
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 16--31
+[]$[]$ $[]$ 
+ []
+
+[60
+
+] [61]
+Overfull \hbox (16.31912pt too wide) in paragraph at lines 123--155
+ [] 
+ []
+
+[62] [63]
+File: cosmology/SDSS_BOSS_DR11_BAO.eps Graphic file (type eps)
+ <cosmology/SDSS_BOSS_DR11_BAO.eps>
+File: cosmology/butterfly_colour_smallerscales.eps Graphic file (type eps)
+
+<cosmology/butterfly_colour_smallerscales.eps>
+Overfull \hbox (9.16101pt too wide) in paragraph at lines 241--260
+[]$[]$   $[]$ 
+ []
+
+[64] [65] [66] [67] [68] [69]) (./cosmology/cosmology.s2.tex [70] [71]
+File: cosmology/BAO_constraint.eps Graphic file (type eps)
+
+<cosmology/BAO_constraint.eps>
+File: cosmology/f2.eps Graphic file (type eps)
+ <cosmology/f2.eps>
+Overfull \hbox (20.29413pt too wide) in paragraph at lines 93--110
+[]$[]$ $[]$ 
+ []
+
+[72] [73]
+File: cosmology/Fig3new.eps Graphic file (type eps)
+ <cosmology/Fig3new.eps>
+File: cosmology/RSD_fs8.eps Graphic file (type eps)
+ <cosmology/RSD_fs8.eps>
+Overfull \hbox (20.29413pt too wide) in paragraph at lines 277--296
+[]$[]$ $[]$ 
+ []
+
+[74] [75] [76]
+Overfull \hbox (3.61539pt too wide) in paragraph at lines 468--481
+\JY1/mc/m/sc/10.95 るときには [] 式の $\OMS/cmsy/m/n/10.95 A$ \JY1/mc/m/sc/10.9
+5 は保存し 、 スム ージングスケ ールを $\OML/cmm/m/it/10.95 R[]$ \JY1/mc/m/sc/1
+0.95 としたとき 、 $\OMS/cmsy/m/n/10.95 A[]\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10
+.95 z; R[]\OT1/cmr/m/n/10.95 )\OML/cmm/m/it/10.95 R[] \OT1/cmr/m/n/10.95 =
+ []
+
+[77]
+File: cosmology/fnl.eps Graphic file (type eps)
+ <cosmology/fnl.eps>
+File: cosmology/fig5.eps Graphic file (type eps)
+ <cosmology/fig5.eps>
+Overfull \hbox (20.28719pt too wide) in paragraph at lines 528--548
+[]$[]$ $[]$ 
+ []
+
+[78] [79] [80] [81]
+File: cosmology/WL_power.eps Graphic file (type eps)
+ <cosmology/WL_power.eps>
+File: cosmology/WL_constraint.eps Graphic file (type eps)
+ <cosmology/WL_constraint.eps>
+Overfull \hbox (20.28719pt too wide) in paragraph at lines 755--774
+[]$[]$ $[]$ 
+ []
+
+File: cosmology/lensing_ellipse.eps Graphic file (type eps)
+<cosmology/lensing_ellipse.eps> [82] [83] [84]
+File: cosmology/cluster_21cm.eps Graphic file (type eps)
+ <cosmology/cluster_21cm.eps>
+File: cosmology/cluster_SZ-21cm.eps Graphic file (type eps)
+
+<cosmology/cluster_SZ-21cm.eps>
+Overfull \hbox (2.0805pt too wide) in paragraph at lines 1015--1031
+[]$[]$ $[]$ 
+ []
+
+[85] [86]
+File: cosmology/foundation_fig.eps Graphic file (type eps)
+ <cosmology/foundation_fig.eps> [87]) (./cosmology/cosmology.s3.tex
+[88] [89]
+File: cosmology/sigma_fNL_nTracer.eps Graphic file (type eps)
+ <cosmology/sigma_fNL_nTracer.eps>
+File: cosmology/sigma_fNL_survey.eps Graphic file (type eps)
+ <cosmology/sigma_fNL_survey.eps>
+Overfull \hbox (20.29413pt too wide) in paragraph at lines 95--114
+[]$[]$ $[]$ 
+ []
+
+File: cosmology/sigma_fNL_future.eps Graphic file (type eps)
+<cosmology/sigma_fNL_future.eps> [90] [91] [92]
+File: cosmology/CMB+21cm_v2.eps Graphic file (type eps)
+ <cosmology/CMB+21cm_v2.eps>
+[93] [94]
+File: cosmology/hierarchy_ellipse_v3.eps Graphic file (type eps)
+ <cosmology/hierarchy_ellipse_v3.eps> [95])
+(./cosmology/cosmology.bib.tex [96]
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 9.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 9.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+[]\OT1/ptm/m/n/9 Adam, R., \OT1/ptm/m/it/9 et al. \OT1/ptm/m/n/9 [Planck Col-la
+b-o-ra-tion], 2014,
+ []
+
+[97
+
+]) (./cosmology/cosmology.author.tex [98]) [99]
+第 4 章
+(./galaxy/galaxy.s1.tex [100
+
+] [101]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 157.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 157.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 157.
+ [102] [103] [104]
+File: galaxy/h2form.eps Graphic file (type eps)
+ <galaxy/h2form.eps>
+[105] [106] [107]
+File: galaxy/Leroy08.eps Graphic file (type eps)
+ <galaxy/Leroy08.eps>
+Overfull \hbox (20.92607pt too wide) in paragraph at lines 361--362
+[]\OT1/ptm/m/n/10.95 21 cm \JY1/mc/m/sc/10.95 で観測される \OT1/ptm/m/n/10.95 H
+\OT1/ptm/m/sc/10.95 i \JY1/mc/m/sc/10.95 ガスは光学的に薄く、 次の関係式を用い
+て視線方向の輝線強度 （$\OML/cmm/m/it/10.95 I[] [][]$\OT1/ptm/m/n/10.95 ]\JY1/m
+c/m/sc/10.95 ）
+ []
+
+[108]
+File: galaxy/Sancisi.eps Graphic file (type eps)
+ <galaxy/Sancisi.eps> [109] [110] [111] [112] [113] [114] [115]
+Overfull \hbox (1.49074pt too wide) in paragraph at lines 632--635
+ []\OT1/ptm/b/n/10.95 (ii) \JY1/gt/m/n/10.95 星形成効率 \OT1/ptm/b/n/10.95 ([]S
+chimi-novich et al.[], []2010[])[] $\OML/cmm/m/it/10.95 M[]$\JY1/mc/m/sc/10.95 
+、 $\OML/cmm/m/it/10.95 ^^V[]$\JY1/mc/m/sc/10.95 、 \OT1/ptm/m/n/10.95 NUV$\OMS
+/cmsy/m/n/10.95 ^^@\OML/cmm/m/it/10.95 r$\JY1/mc/m/sc/10.95 、 $\OML/cmm/m/it/1
+0.95 C$ \JY1/mc/m/sc/10.95 に反比例する \OT1/ptm/m/n/10.95 spe-cific SFR ($[] \
+OT1/cmr/m/n/10.95 =
+ []
+
+[116] [117] [118]
+File: galaxy/tau21cm.eps Graphic file (type eps)
+ <galaxy/tau21cm.eps> [119]) (./galaxy/galaxy.s1.5.tex
+[120] [121] [122]
+File: galaxy/murphy_f3.eps Graphic file (type eps)
+ <galaxy/murphy_f3.eps>) (./galaxy/galaxy.s2.tex [123]
+[124] [125]
+File: galaxy/lagos_HI_H2a.eps Graphic file (type eps)
+ <galaxy/lagos_HI_H2a.eps> [126]
+File: galaxy/oonk_rrl.eps Graphic file (type eps)
+ <galaxy/oonk_rrl.eps> [127]
+[128]) (./galaxy/galaxy.s3.tex [129] [130] [131]
+File: galaxy/schiminovich2007.eps Graphic file (type eps)
+ <galaxy/schiminovich2007.eps>
+
+LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 155.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 155.
+
+[132]
+File: galaxy/KS_relation.eps Graphic file (type eps)
+ <galaxy/KS_relation.eps> [133] [134]
+File: galaxy/Inttau_v3.eps Graphic file (type eps)
+ <galaxy/Inttau_v3.eps> [135]
+[136]) (./galaxy/galaxy.bib.tex [137] [138
+
+] [139] [140])
+(./galaxy/galaxy.author.tex [141]) [142]
+第 5 章
+(./pulsar/pulsar.s1.tex
+File: pulsar/ppdotdiagram.ps Graphic file (type eps)
+ <pulsar/ppdotdiagram.ps> [143
+
+] [144] [145] [146]
+File: pulsar/binary_pulsar.eps Graphic file (type eps)
+
+<pulsar/binary_pulsar.eps> [147] [148] [149]
+File: pulsar/nanoshot2.epsi Graphic file (type eps)
+ <pulsar/nanoshot2.epsi>)
+(./pulsar/pulsar.s2.tex [150] [151]
+File: pulsar/pulsar.keane.fig1.eps Graphic file (type eps)
+ <pulsar/pulsar.keane.fig1.eps> [152]
+[153]
+File: pulsar/FIG_GW_SMBH.eps Graphic file (type eps)
+ <pulsar/FIG_GW_SMBH.eps> [154] [155]
+File: pulsar/fig_Kramer.ps Graphic file (type eps)
+ <pulsar/fig_Kramer.ps> [156]
+[157] [158]
+File: pulsar/kumamoto.eps Graphic file (type eps)
+ <pulsar/kumamoto.eps> [159] [160]) (./pulsar/pulsar.s3.tex [161]
+[162]
+File: pulsar/drm-l.eps Graphic file (type eps)
+ <pulsar/drm-l.eps>
+File: pulsar/BSS-drml.eps Graphic file (type eps)
+ <pulsar/BSS-drml.eps>
+File: pulsar/UPl350.eps Graphic file (type eps)
+ <pulsar/UPl350.eps> [163]
+[164] [165] [166]) (./pulsar/pulsar.bib.tex [167] [168
+
+])
+(./pulsar/pulsar.author.tex [169]) [170]
+第 6 章
+(./magnetism/magnetism.s1.tex [171
+
+]
+File: magnetism/c06.s1.ss1.f1.eps Graphic file (type eps)
+ <magnetism/c06.s1.ss1.f1.eps> [172]
+[173] [174]
+File: magnetism/c06.s1.ss1.f2.eps Graphic file (type eps)
+ <magnetism/c06.s1.ss1.f2.eps> [175]
+File: magnetism/c06.s1.ss1.f3.eps Graphic file (type eps)
+ <magnetism/c06.s1.ss1.f3.eps>
+[176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186]
+File: magnetism/c06.s1.ss6.f1.eps Graphic file (type eps)
+
+<magnetism/c06.s1.ss6.f1.eps>
+File: magnetism/c06.s1.ss7.f1.eps Graphic file (type eps)
+ <magnetism/c06.s1.ss7.f1.eps> [187] [188]
+[189]
+File: magnetism/c06.s1.ss8.f1.eps Graphic file (type eps)
+ <magnetism/c06.s1.ss8.f1.eps> [190] [191]
+File: magnetism/c06.s1.ss8.f2.eps Graphic file (type eps)
+ <magnetism/c06.s1.ss8.f2.eps>)
+(./magnetism/magnetism.s2.tex [192] [193]
+File: magnetism/c06.s2.ss1.f1.eps Graphic file (type eps)
+ <magnetism/c06.s2.ss1.f1.eps>
+[194] [195] [196] [197]
+File: magnetism/c06.s2.ss3.f1.eps Graphic file (type eps)
+ <magnetism/c06.s2.ss3.f1.eps>
+File: magnetism/c06.s2.ss3.f2.eps Graphic file (type eps)
+
+<magnetism/c06.s2.ss3.f2.eps> [198] [199] [200] [201]
+File: magnetism/c06.s2.ss4.f1.eps Graphic file (type eps)
+
+<magnetism/c06.s2.ss4.f1.eps> [202]
+File: magnetism/c06.s2.ss4.f2.eps Graphic file (type eps)
+ <magnetism/c06.s2.ss4.f2.eps> [203]
+[204]
+Overfull \hbox (4.97595pt too wide) in paragraph at lines 304--305
+ []\JY1/gt/m/n/10.95 電波ハロ ー[] \JY1/mc/m/sl/10.95 電波ハロ ーの大きさは \OT
+1/ptm/m/n/10.95 Mpc \JY1/mc/m/sl/10.95 にもなるが 、 表面輝度は小さく \OT1/ptm/
+m/n/10.95 (1.4 GHz \JY1/mc/m/sl/10.95 で $\OMS/cmsy/m/n/10.95 ^^X \OML/cmm/m/it
+/10.95 ^^V\OT1/cmr/m/n/10.95 Jy []arcsec[]$\OT1/ptm/m/n/10.95 )\JY1/mc/m/sl/10.
+95 、
+ []
+
+[205]
+File: magnetism/c06.s2.ss6.f1.eps Graphic file (type eps)
+ <magnetism/c06.s2.ss6.f1.eps> [206] [207]) (./magnetism/magnetism.s3.tex
+[208] [209] [210] [211] [212] [213] [214] [215] [216] [217]
+File: magnetism/c06.s3.ss9.f1.eps Graphic file (type eps)
+
+<magnetism/c06.s3.ss9.f1.eps> [218]
+File: magnetism/c06.s3.ss9.f2.eps Graphic file (type eps)
+ <magnetism/c06.s3.ss9.f2.eps> [219]
+File: magnetism/c06.s3.ss10.f1a.eps Graphic file (type eps)
+
+<magnetism/c06.s3.ss10.f1a.eps>
+File: magnetism/c06.s3.ss10.f1b.eps Graphic file (type eps)
+ <magnetism/c06.s3.ss10.f1b.eps>
+Overfull \hbox (2.0805pt too wide) in paragraph at lines 259--268
+[]$[]$ $[]$ 
+ []
+
+File: magnetism/c06.s3.ss11.f1.eps Graphic file (type eps)
+<magnetism/c06.s3.ss11.f1.eps> [220] [221] [222] [223]
+File: magnetism/c06.s3.ss13.f1.eps Graphic file (type eps)
+
+<magnetism/c06.s3.ss13.f1.eps> [224]) (./magnetism/magnetism.bib.tex [225]
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]\OT1/ptm/m/n/9 Banfield, J. et al. 2014, MN-RAS, ac-cepted
+ []
+
+[226
+
+] [227]
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+[]\OT1/ptm/m/n/9 Saga, S., Shi-raishi, M., & Ichiki, K. 2014,
+ []
+
+[228]) (./magnetism/magnetism.author.tex [229]) [230]
+第 7 章
+(./astrometry/astrometry.tex [231
+
+]
+File: astrometry/Pleiades_distance_2014.eps Graphic file (type eps)
+ <astrometry/Pleiades_distance_2014.eps>
+Underfull \hbox (badness 2020) in paragraph at lines 87--87
+[][][]\JY1/mc/m/sc/9 上記プレアデス星団までの距離についても 、 \OT1/ptm/m/n/9 G
+aia \JY1/mc/m/sc/9 の元で再検証されるはずである 。 ただし 、 \OT1/ptm/m/n/9 Ba-
+sic An-
+ []
+
+[232]
+File: astrometry/SKA_astrometry_scheme_J.eps Graphic file (type eps)
+ <astrometry/SKA_astrometry_scheme_J.eps> [233]
+Overfull \hbox (5.33368pt too wide) in paragraph at lines 165--175
+[]\JY1/mc/m/sl/10.95 一方 、 輝度温度が低い熱的放射源も高精度天体位置計測の対象
+として考慮すべきである 。 $\OML/cmm/m/it/10.95 B[] \OMS/cmsy/m/n/10.95 ^^T$\OT1
+/ptm/m/n/10.95 100
+ []
+
+[234]
+File: astrometry/VLBI_calibration.eps Graphic file (type eps)
+ <astrometry/VLBI_calibration.eps> [235] [236]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[237]
+File: astrometry/SKASA_stations_2011.eps Graphic file (type eps)
+ <astrometry/SKASA_stations_2011.eps>
+File: astrometry/SKA_and_GVN.eps Graphic file (type eps)
+ <astrometry/SKA_and_GVN.eps>
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 350--355
+[][] [] 
+ []
+
+[238] [239]
+Overfull \hbox (4.22629pt too wide) in paragraph at lines 412--418
+\JY1/mc/m/sl/10.95 く、 シミ ュ レ ーシ ョ ンソフトウ ェ アの整備を進めていると
+ころである 。 具体的には 、 \OT1/ptm/m/n/10.95 ARIS(Astronomical
+ []
+
+File: astrometry/135_Memo_QSOs.eps Graphic file (type eps)
+<astrometry/135_Memo_QSOs.eps>
+File: astrometry/SKA_calibrators.eps Graphic file (type eps)
+ <astrometry/SKA_calibrators.eps> [240] [241]
+File: astrometry/SKA_pulsars_simulation_2011.eps Graphic file (type eps)
+
+<astrometry/SKA_pulsars_simulation_2011.eps> [242]
+File: astrometry/Reid_2014.eps Graphic file (type eps)
+ <astrometry/Reid_2014.eps>
+File: astrometry/Barros_2013_RotCurv.eps Graphic file (type eps)
+
+<astrometry/Barros_2013_RotCurv.eps>
+Overfull \hbox (2.0819pt too wide) in paragraph at lines 563--567
+[]|  []
+ []
+
+
+Overfull \hbox (18.38737pt too wide) in paragraph at lines 555--570
+[]$[]$   $[]$ 
+ []
+
+[243]
+File: astrometry/OH_spectra_Etoka.eps Graphic file (type eps)
+ <astrometry/OH_spectra_Etoka.eps>
+File: astrometry/OH_LF_Etoka.eps Graphic file (type eps)
+ <astrometry/OH_LF_Etoka.eps>
+File: astrometry/GASKAP_field.eps Graphic file (type eps)
+
+<astrometry/GASKAP_field.eps> [244] [245] [246] [247] [248] [249] [250]
+File: astrometry/CMZ.eps Graphic file (type eps)
+
+<astrometry/CMZ.eps>
+File: astrometry/JASMINE_field_lb.eps Graphic file (type eps)
+ <astrometry/JASMINE_field_lb.eps>
+File: astrometry/JASMINE_field_xy.eps Graphic file (type eps)
+
+<astrometry/JASMINE_field_xy.eps>
+Overfull \hbox (4.16118pt too wide) in paragraph at lines 913--926
+[]$[]$   $[]$ 
+ []
+
+[251]
+File: astrometry/bekki_MCs.eps Graphic file (type eps)
+ <astrometry/bekki_MCs.eps> [252] [253] [254] [255] [256] [257] [258
+
+]
+[259]) [260]
+第 8 章
+(./ISM/ISM.s1.tex [261
+
+] [262]
+
+LaTeX Font Warning: Font shape `JT1/mc/bx/sc' undefined
+(Font)              using `JT1/mc/bx/n' instead on input line 69.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/bx/sc' undefined
+(Font)              using `JY1/mc/bx/n' instead on input line 69.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 69.
+LaTeX Font Info:    Font shape `JT1/mc/bx/sc' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `JY1/mc/bx/sc' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
+[263] [264]
+File: ISM/c08.s1.ss2.f1.eps Graphic file (type eps)
+ <ISM/c08.s1.ss2.f1.eps>
+File: ISM/c08.s1.ss2.f2.eps Graphic file (type eps)
+ <ISM/c08.s1.ss2.f2.eps> [265] [266]
+[267] [268]
+File: ISM/c08.s1.ss3.f1.eps Graphic file (type eps)
+ <ISM/c08.s1.ss3.f1.eps>) (./ISM/ISM.s2.tex [269]
+Underfull \hbox (badness 1286) in paragraph at lines 65--66
+[]\OT1/ptm/m/n/10 Synergies be-tween SKA and ALMA: ob-ser-va-tions of Nearby
+ []
+
+
+LaTeX Warning: Float too large for page by 29.00171pt on input line 76.
+
+) (./ISM/ISM.s3.tex [270] [271]
+LaTeX Font Info:    Font shape `JT1/mc/bx/sc' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `JY1/mc/bx/sc' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 42.
+ [272] [273] [274]
+File: ISM/c08.s3.ss6.f1.eps Graphic file (type eps)
+ <ISM/c08.s3.ss6.f1.eps>)
+(./ISM/ISM.bib.tex [275] [276]) (./ISM/ISM.author.tex [277
+
+]) [278]
+第 9 章
+(./transients/transients.tex (./transients/transients.s1.tex
+(./transients/transients.s1.introduction.tex [279
+
+]
+File: transients/transients.phasespace.eps Graphic file (type eps)
+
+<transients/transients.phasespace.eps> [280] [281])
+(./transients/transients.s1.sn.tex
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 15.
+
+File: transients/transients.s1.sn-class.eps Graphic file (type eps)
+<transients/transients.s1.sn-class.eps>
+File: transients/transients.s1.ccsn.eps Graphic file (type eps)
+ <transients/transients.s1.ccsn.eps>
+Overfull \hbox (2.08049pt too wide) in paragraph at lines 16--24
+[]$[]$ $[]$ 
+ []
+
+[282]) (./transients/transients.s1.grb.tex [283]
+File: transients/transients.GRB-afterglow.eps Graphic file (type eps)
+
+<transients/transients.GRB-afterglow.eps>) (./transients/transients.s1.tde.tex)
+(./transients/transients.s1.frb.tex [284])
+(./transients/transients.s1.unknowns.tex [285] [286]))
+(./transients/transients.s2.tex
+Overfull \hbox (8.57497pt too wide) in paragraph at lines 11--37
+ [][] 
+ []
+
+(./transients/transients.s2.fender.tex [287]
+File: transients/transients.s2.fender.commensal.eps Graphic file (type eps)
+
+<transients/transients.s2.fender.commensal.eps> [288] [289])
+(./transients/transients.s2.akahori.tex [290] [291] [292] [293] [294])
+(./transients/transients.s2.wilkinson.tex [295] [296]))
+(./transients/transients.s3.tex (./transients/transients.s3.sn.tex [297]
+[298] [299]) (./transients/transients.s3.snr.tex [300])
+(./transients/transients.s3.grb.tex [301] [302])
+(./transients/transients.s3.magnetars.tex) (./transients/transients.s3.agn.tex
+[303]
+File: transients/transients.s3.agn.fig1.eps Graphic file (type eps)
+ <transients/transients.s3.agn.fig1.eps>)
+(./transients/transients.s3.gw.tex
+File: transients/transients.s3.gw.nasu.eps Graphic file (type eps)
+ <transients/transients.s3.gw.nasu.eps>
+[304]) (./transients/transients.s3.frb.magnetism.tex [305])
+(./transients/transients.s3.unknowns.tex
+File: transients/transients.s3.unknowns.rate.eps Graphic file (type eps)
+
+<transients/transients.s3.unknowns.rate.eps> [306]
+LaTeX Font Info:    Try loading font information for U+euf on input line 55.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+) [307] [308])
+(./transients/transients.s3.requirements.tex [309] [310]))
+(./transients/transients.bib.tex [311] [312
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 403--406
+[][]$\OT1/pcr/m/n/9 http : / / www . defense . gov / transcripts /
+ []
+
+) (./transients/transients.author.tex [313])) [314]
+第 10 章
+(./star-formation/star-formation.s1.tex)
+(./star-formation/star-formation.s2.tex)
+(./star-formation/star-formation.s3.tex)
+(./star-formation/star-formation.bib.tex [315
+
+])
+(./star-formation/star-formation.author.tex [316
+
+]) [317]
+第 11 章
+(./planets/planets.s1.tex) (./planets/planets.s2.tex) (./planets/planets.s3.tex
+) (./planets/planets.bib.tex [318
+
+]) (./planets/planets.author.tex [319
+
+])
+[320]
+第 12 章
+(./conclusion/conclusion.s1.tex [321
+
+]) (./conclusion/conclusion.s2.tex [322]
+[323])
+
+Package natbib Warning: There were multiply defined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
+[324]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
+ (./SKAJP_Science_Book_2020.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 143.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 143.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
+ ) 
+Here is how much of TeX's memory you used:
+ 8532 strings out of 493777
+ 128930 string characters out of 6151334
+ 290618 words of memory out of 5000000
+ 11487 multiletter control sequences out of 15000+600000
+ 47936 words of font info for 156 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 29i,15n,27p,2036b,1069s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on SKAJP_Science_Book_2020.dvi (332 pages, 2249336 bytes).
