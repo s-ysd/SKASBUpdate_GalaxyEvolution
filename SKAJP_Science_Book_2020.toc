@@ -1,750 +1,750 @@
-\contentsline {chapter}{\numberline {第1章}序章}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}SKA計画の概要}{1}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}はじめに}{1}{subsection.1.1.1}
-\contentsline {paragraph}{概要}{1}{section*.2}
-\contentsline {subsection}{\numberline {1.1.2}科学的な動機}{1}{subsection.1.1.2}
-\contentsline {paragraph}{センチ波・メートル波とは}{1}{section*.3}
-\contentsline {paragraph}{センチ波・メートル波の可能性}{1}{section*.4}
-\contentsline {paragraph}{SKAの科学目標}{2}{section*.5}
-\contentsline {subsection}{\numberline {1.1.3}科学要求と技術要求}{2}{subsection.1.1.3}
-\contentsline {paragraph}{科学要求}{2}{section*.6}
-\contentsline {paragraph}{技術要求}{3}{section*.7}
-\contentsline {paragraph}{要求の実現にむけて}{3}{section*.8}
-\contentsline {section}{\numberline {1.2}国際的なSKA計画の歩み}{4}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}組織}{4}{subsection.1.2.1}
-\contentsline {paragraph}{参加国}{4}{section*.9}
-\contentsline {paragraph}{SKA機構}{4}{section*.10}
-\contentsline {paragraph}{Science Working Groups (SWG)とFocus groups (FG)}{5}{section*.11}
-\contentsline {paragraph}{Work Package Consortia (WPC)}{5}{section*.12}
-\contentsline {subsection}{\numberline {1.2.2}建設地}{6}{subsection.1.2.2}
-\contentsline {paragraph}{建設地の決定}{6}{section*.13}
-\contentsline {paragraph}{アフリカの計画}{6}{section*.14}
-\contentsline {paragraph}{オセアニアの計画}{6}{section*.15}
-\contentsline {subsection}{\numberline {1.2.3}スケジュール(SKA1とSKA2)}{6}{subsection.1.2.3}
-\contentsline {paragraph}{建設スケジュール}{6}{section*.16}
-\contentsline {paragraph}{Re-Baselining Submissions (RBS)}{6}{section*.17}
-\contentsline {paragraph}{国際SKAサイエンスブック2015}{7}{section*.18}
-\contentsline {paragraph}{優先的な科学目標}{7}{section*.19}
-\contentsline {subsection}{\numberline {1.2.4}今後について}{8}{subsection.1.2.4}
-\contentsline {paragraph}{主要科学観測計画}{8}{section*.20}
-\contentsline {paragraph}{仮デザイン審査(PDR)を経て詳細設計へ}{8}{section*.21}
-\contentsline {section}{\numberline {1.3}我が国のSKA計画の歩み}{8}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}これまでの活動状況}{8}{subsection.1.3.1}
-\contentsline {paragraph}{我が国の参加の意義}{8}{section*.22}
-\contentsline {paragraph}{日本SKAコンソーシアム}{8}{section*.23}
-\contentsline {paragraph}{科学検討班}{9}{section*.24}
-\contentsline {subsection}{\numberline {1.3.2}本書について}{9}{subsection.1.3.2}
-\contentsline {paragraph}{編纂の経緯}{9}{section*.25}
-\contentsline {paragraph}{本書の範囲}{9}{section*.26}
-\contentsline {paragraph}{各章の内容}{9}{section*.27}
-\contentsline {chapter}{\numberline {第2章}宇宙再電離}{11}{chapter.2}
-\contentsline {section}{\numberline {2.1}未解決のサイエンス}{11}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}宇宙晴れ上がりから暗黒時代}{11}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}暗黒時代の終焉と再電離期の始まり}{11}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}21cm線}{12}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}熱進化の歴史 ～大局的なシグナル～}{13}{subsection.2.1.4}
-\contentsline {subsubsection}{(1) $z\gtrsim 100$, $T_{{\rm K}}=T_{{\rm S}}\le T_{\gamma }$ (衝突によるカップリング期)}{13}{section*.28}
-\contentsline {subsubsection}{(2) $35\lesssim z\lesssim 100$, $T_{\rm K}<T_{{\rm S}}<T_{\gamma }$ (衝突によるカップリングが切れる頃)}{13}{section*.29}
-\contentsline {subsubsection}{(3) $z\sim 35$, $T_{\rm K}<T_{{\rm S}}\sim T_{\gamma }$ (衝突によるカップリングが切れた後)}{13}{section*.30}
-\contentsline {subsubsection}{(4) $25\lesssim z \lesssim 35$, $T_{\rm K}<T_{{\rm S}}<T_{\gamma }→T_{\rm K}\simeq T_{{\rm S}}<T_{\gamma }$ (Wouthuysen-Field カップリング期)}{13}{section*.31}
-\contentsline {subsubsection}{(5) $16\lesssim z \lesssim 25$, $T_{\rm K}=T_{{\rm S}}<T_{\gamma }→T_{\rm K}=T_{{\rm S}}>T_{\gamma }$ (X線による加熱期)}{15}{section*.32}
-\contentsline {subsubsection}{(6) $7\lesssim z \lesssim 16$, $T_{\rm K}=T_{{\rm S}}\gg T_{\gamma }$ (再電離期)}{15}{section*.33}
-\contentsline {subsection}{\numberline {2.1.5}WF効果, X線加熱, 再電離のソース}{15}{subsection.2.1.5}
-\contentsline {subsubsection}{(1)種族III星 $\&$ 種族II星}{15}{section*.34}
-\contentsline {subsubsection}{(2)Mini-quasar $\&$ AGN}{15}{section*.35}
-\contentsline {subsubsection}{(3) X-ray binaries}{16}{section*.36}
-\contentsline {subsection}{\numberline {2.1.6}輝度温度を通した観測}{16}{subsection.2.1.6}
-\contentsline {subsubsection}{パワースペクトル}{16}{section*.37}
-\contentsline {subsubsection}{他の観測量}{16}{section*.38}
-\contentsline {subsection}{\numberline {2.1.7}21cm線シグナルに対する前景放射}{19}{subsection.2.1.7}
-\contentsline {paragraph}{銀河系放射}{19}{section*.39}
-\contentsline {paragraph}{系外電波天体}{20}{section*.40}
-\contentsline {paragraph}{計算コスト}{20}{section*.41}
-\contentsline {subsection}{\numberline {2.1.8}現在の制限}{20}{subsection.2.1.8}
-\contentsline {subsubsection}{ガン-ピーターソンの谷}{20}{section*.42}
-\contentsline {subsubsection}{CMB散乱の光学的厚み}{21}{section*.43}
-\contentsline {subsubsection}{IGM温度}{21}{section*.44}
-\contentsline {subsubsection}{ガンマ線バースト}{21}{section*.45}
-\contentsline {subsubsection}{高赤方編移銀河}{21}{section*.46}
-\contentsline {subsubsection}{近赤外線}{21}{section*.47}
-\contentsline {subsubsection}{X線}{21}{section*.48}
-\contentsline {subsubsection}{SKAパスファインダー}{22}{section*.49}
-\contentsline {subsubsection}{GMRT}{22}{section*.50}
-\contentsline {subsubsection}{MWA}{22}{section*.51}
-\contentsline {subsubsection}{PAPER}{22}{section*.52}
-\contentsline {subsubsection}{LOFAR}{22}{section*.53}
-\contentsline {section}{\numberline {2.2}国際SKAのサイエンス}{22}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}再電離の物理}{22}{subsection.2.2.1}
-\contentsline {subsubsection}{導入}{22}{section*.54}
-\contentsline {subsubsection}{電離過程への洞察}{23}{section*.55}
-\contentsline {subsubsection}{原始銀河内において再電離に関連する諸過程}{24}{section*.56}
-\contentsline {subsubsection}{銀河間物質での電離過程}{24}{section*.57}
-\contentsline {subsection}{\numberline {2.2.2}再電離期のモデリングとSKAへ向けたシミュレーション}{25}{subsection.2.2.2}
-\contentsline {subsubsection}{現存するモデリングの要旨}{26}{section*.58}
-\contentsline {subsubsection}{SKAへ向けたシミュレーション}{27}{section*.59}
-\contentsline {subsection}{\numberline {2.2.3}初代銀河、Lyman-$\alpha $とX線強度の揺らぎ、スピン温度}{27}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}SKA1-lowによる再電離期の電離領域の撮像}{30}{subsection.2.2.4}
-\contentsline {subsubsection}{導入}{30}{section*.60}
-\contentsline {subsubsection}{準数値的再電離計算}{31}{section*.61}
-\contentsline {subsubsection}{電離領域と銀河形成}{31}{section*.62}
-\contentsline {subsubsection}{シミュレーション結果のSKA1-lowによる模擬観測}{31}{section*.63}
-\contentsline {subsubsection}{まとめ}{31}{section*.64}
-\contentsline {subsection}{\numberline {2.2.5}撮像観測}{33}{subsection.2.2.5}
-\contentsline {subsubsection}{撮像による解析}{34}{section*.65}
-\contentsline {subsubsection}{撮像によるサイエンス}{35}{section*.66}
-\contentsline {subsection}{\numberline {2.2.6}21cm forest}{35}{subsection.2.2.6}
-\contentsline {paragraph}{観測されるスペクトル}{36}{section*.67}
-\contentsline {paragraph}{シミュレーション結果}{36}{section*.68}
-\contentsline {paragraph}{要約および議論}{36}{section*.69}
-\contentsline {subsection}{\numberline {2.2.7}HIデータを用いたCDとEoRへの制限}{36}{subsection.2.2.7}
-\contentsline {subsubsection}{分子冷却された銀河}{39}{section*.70}
-\contentsline {subsubsection}{初期銀河のX線放射の性質}{39}{section*.71}
-\contentsline {subsubsection}{加熱期の21cm forest}{40}{section*.72}
-\contentsline {subsubsection}{EoRソース}{40}{section*.73}
-\contentsline {subsection}{\numberline {2.2.8}バリオンとダークマターの相対速度}{40}{subsection.2.2.8}
-\contentsline {subsection}{\numberline {2.2.9}EoR/Cosmic Dawn期の宇宙論}{42}{subsection.2.2.9}
-\contentsline {paragraph}{密度揺らぎの情報を用いた宇宙論パラメータへの制限}{42}{section*.74}
-\contentsline {paragraph}{「宇宙論的要素」と「宇宙物理的要素」の分離}{43}{section*.75}
-\contentsline {paragraph}{銀河間ガス温度の情報を用いた新物理の探査}{43}{section*.76}
-\contentsline {paragraph}{バルクフロー}{43}{section*.77}
-\contentsline {paragraph}{その他}{44}{section*.78}
-\contentsline {paragraph}{まとめ}{44}{section*.79}
-\contentsline {subsection}{\numberline {2.2.10}宇宙論的観測と中性水素21\nobreakspace {}cm線の相互相関}{44}{subsection.2.2.10}
-\contentsline {subsubsection}{CMBとの相互相関}{45}{section*.80}
-\contentsline {subsubsection}{高赤方偏移銀河との相互相関}{45}{section*.81}
-\contentsline {subsubsection}{NIRBとの相互相関}{47}{section*.82}
-\contentsline {subsection}{\numberline {2.2.11}平均シグナル}{47}{subsection.2.2.11}
-\contentsline {section}{\numberline {2.3}日本が狙うサイエンス}{49}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}既存の計算手法（21cmFASTを例にして）}{49}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}問題点}{51}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}SKA-JP 再電離班の戦略}{52}{subsection.2.3.3}
-\contentsline {subsubsection}{(1)日本版21 cmFASTコードの構築}{52}{section*.83}
-\contentsline {paragraph}{(2)低周波領域の前景放射のモデル化と除去方法の構築}{55}{section*.84}
-\contentsline {section}{参考文献}{56}{chapter*.85}
-\contentsline {section}{著者一覧}{59}{section*.86}
-\contentsline {chapter}{\numberline {第3章}宇宙論}{60}{chapter.3}
-\contentsline {section}{\numberline {3.1}イントロダクション：標準宇宙論と未解決問題}{60}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}宇宙論の現状}{60}{subsection.3.1.1}
-\contentsline {paragraph}{(i) インフレーションモデルの検証}{61}{section*.87}
-\contentsline {paragraph}{(ii) 暗黒エネルギーの性質の解明及び修正重力理論の可能性の検証}{62}{section*.88}
-\contentsline {paragraph}{(iii) 暗黒物質の正体の特定}{64}{section*.89}
-\contentsline {subsection}{\numberline {3.1.2}宇宙論的観測手法}{64}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}他波長の将来計画}{66}{subsection.3.1.3}
-\contentsline {subsubsection}{マイクロ波背景放射}{66}{section*.90}
-\contentsline {paragraph}{重力波由来のBモード偏光スペクトルの詳細観測}{66}{section*.91}
-\contentsline {paragraph}{重力レンズ由来のBモード偏光観測}{66}{section*.92}
-\contentsline {paragraph}{スニヤエフ・ゼルドビッチ(Sunyaev-Zel'dovich; SZ)効果}{66}{section*.93}
-\contentsline {paragraph}{スペクトル歪みの詳細観測}{66}{section*.94}
-\contentsline {subsubsection}{光赤外}{67}{section*.95}
-\contentsline {subsubsection}{X線}{69}{section*.96}
-\contentsline {subsection}{\numberline {3.1.4}SKA pathfinderによる宇宙論}{70}{subsection.3.1.4}
-\contentsline {subsubsection}{continuum survey}{70}{section*.97}
-\contentsline {subsubsection}{HI survey}{70}{section*.98}
-\contentsline {section}{\numberline {3.2}国際SKAのサイエンス}{70}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}SKAによる宇宙論サーベイ}{70}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}バリオン音響振動}{72}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}赤方偏移空間歪み}{73}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}HI強度マッピング：前景放射}{75}{subsection.3.2.4}
-\contentsline {subsubsection}{特異値分解法(SVD)}{75}{section*.99}
-\contentsline {subsubsection}{カルーネン$\cdot $レーベ分解}{76}{section*.100}
-\contentsline {subsubsection}{独立成分分析(FastICA)}{76}{section*.101}
-\contentsline {subsection}{\numberline {3.2.5}HIトポロジー}{76}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}超地平線スケール宇宙論}{78}{subsection.3.2.6}
-\contentsline {subsubsection}{宇宙論的な大スケールを探査する重要性}{78}{section*.102}
-\contentsline {subsubsection}{宇宙論的な大スケールの観測手法}{80}{section*.103}
-\contentsline {paragraph}{再イオン化期後の強度マッピング}{80}{section*.104}
-\contentsline {paragraph}{再イオン化期における強度マッピング}{80}{section*.105}
-\contentsline {paragraph}{マルチトレーサー法}{80}{section*.106}
-\contentsline {subsection}{\numberline {3.2.7}弱重力レンズ}{81}{subsection.3.2.7}
-\contentsline {subsubsection}{銀河の弱重力レンズ効果の測定}{81}{section*.107}
-\contentsline {subsubsection}{銀河楕円率推定のシミュレーション}{83}{section*.108}
-\contentsline {subsubsection}{中性水素ガスの$21$cm線放射強度における重力レンズ効果}{84}{section*.109}
-\contentsline {subsection}{\numberline {3.2.8}銀河団宇宙論}{84}{subsection.3.2.8}
-\contentsline {subsubsection}{SZ効果と$21$cm線}{85}{section*.110}
-\contentsline {subsubsection}{SKAを用いた銀河団探査}{85}{section*.111}
-\contentsline {subsection}{\numberline {3.2.9}宇宙原理}{86}{subsection.3.2.9}
-\contentsline {subsubsection}{宇宙論的な電波双極子}{87}{section*.112}
-\contentsline {subsubsection}{大角度スケール}{87}{section*.113}
-\contentsline {subsubsection}{コペルニクス原理と一様性}{87}{section*.114}
-\contentsline {section}{\numberline {3.3}日本が狙うサイエンス}{88}{section.3.3}
-\contentsline {section}{参考文献}{97}{chapter*.115}
-\contentsline {section}{著者一覧}{99}{section*.116}
-\contentsline {chapter}{\numberline {第4章}銀河進化}{100}{chapter.4}
-\contentsline {section}{\numberline {4.1}銀河の「進化」とは}{100}{section.4.1}
-\contentsline {section}{\numberline {4.2}銀河進化研究の現状 -- 伝統的方法論とその限界 --}{102}{section.4.2}
-\contentsline {section}{\numberline {4.3}銀河進化研究の現状 -- 銀河におけるHIガス --}{104}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}水素原子と水素分子}{104}{subsection.4.3.1}
-\contentsline {subsubsection}{水素分子の生成}{104}{section*.117}
-\contentsline {subsubsection}{水素分子の解離}{105}{section*.118}
-\contentsline {subsubsection}{銀河における水素分子と水素原子}{106}{section*.119}
-\contentsline {subsection}{\numberline {4.3.2}渦巻銀河のHIガス}{107}{subsection.4.3.2}
-\contentsline {subsubsection}{空間分布}{107}{section*.120}
-\contentsline {subsubsection}{H\tmspace +\thinmuskip {.1667em}{\sc i}ガス質量}{108}{section*.121}
-\contentsline {subsubsection}{力学情報}{109}{section*.122}
-\contentsline {subsubsection}{タリー--フィッシャー関係}{109}{section*.123}
-\contentsline {subsection}{\numberline {4.3.3}早期型銀河のHIガス}{111}{subsection.4.3.3}
-\contentsline {subsubsection}{早期型銀河のH\tmspace +\thinmuskip {.1667em}{\sc i}観測}{111}{section*.124}
-\contentsline {subsubsection}{単一鏡観測}{111}{section*.125}
-\contentsline {subsubsection}{干渉計観測}{112}{section*.126}
-\contentsline {subsubsection}{ATLAS$^{\rm 3D}$サンプルに対するH\tmspace +\thinmuskip {.1667em}{\sc i}サーベイ}{112}{section*.127}
-\contentsline {subsection}{\numberline {4.3.4}矮小銀河のHIガス}{113}{subsection.4.3.4}
-\contentsline {subsubsection}{矮小銀河に対するHIサーベイ}{114}{section*.128}
-\contentsline {subsubsection}{(i) ガスリッチな矮小銀河の存在 (SHIELD)}{114}{section*.129}
-\contentsline {subsubsection}{(ii) 極端な環境下でのクラウド・星形成 (VLA-ANGST, LITTLE THINGS, FIGGS)}{115}{section*.130}
-\contentsline {subsubsection}{(iii) 矮小銀河のタリー・フィッシャー、バリオン タリー・フィッシャー関係}{115}{section*.131}
-\contentsline {subsubsection}{(iv) ダークマター分布}{115}{section*.132}
-\contentsline {subsection}{\numberline {4.3.5}様々な種族にまたがるサーベイ(銀河進化の統計的、統一的理解に向けて)}{115}{subsection.4.3.5}
-\contentsline {subsubsection}{GALEX Arecibo SDSS Survey (GASS)}{115}{section*.133}
-\contentsline {paragraph}{(i) HIガスの割合 \citep {2010MNRAS.403..683C,2012MNRAS.420.1959C}}{116}{section*.134}
-\contentsline {paragraph}{(ii) 星形成効率 \citep {2010MNRAS.408..919S}}{116}{section*.135}
-\contentsline {paragraph}{(iii) 銀河円盤の``inside-out formation'' \citep {2011MNRAS.412.1081W}}{116}{section*.136}
-\contentsline {paragraph}{(iv) バリオン質量--速度--サイズ関係 \citep {2012A&A...544A..65C}}{116}{section*.137}
-\contentsline {paragraph}{(v) 銀河外縁部での金属汚染 \citep {2012ApJ...745...66M}}{117}{section*.138}
-\contentsline {paragraph}{(vi) 異なる星質量ごとでのH I質量関数 \citep {2013ApJ...776...74L}}{117}{section*.139}
-\contentsline {paragraph}{(vii) 環境効果 \citep {2013MNRAS.436...34C}}{117}{section*.140}
-\contentsline {subsubsection}{中間赤方偏移($0.1<z<1.0$)}{117}{section*.141}
-\contentsline {paragraph}{(i) BUDHIESサーベイ \citep {2007ApJ...668L...9V}}{117}{section*.142}
-\contentsline {paragraph}{(ii) CHILESサーベイ \citep {2013ApJ...770L..29F}}{118}{section*.143}
-\contentsline {paragraph}{(iii) スタッキングによる結果}{118}{section*.144}
-\contentsline {subsection}{\numberline {4.3.6}高赤方偏移へ: 水素原子吸収線系による銀河進化の解明}{119}{subsection.4.3.6}
-\contentsline {section}{\numberline {4.4}銀河進化研究の現状 -- 電波領域における多波長・他輝線による銀河の観測的研究 --}{121}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}水素原子以外の電波輝線}{121}{subsection.4.4.1}
-\contentsline {subsubsection}{H$_2$Oメーザー}{121}{section*.145}
-\contentsline {subsubsection}{NH$_3$線}{121}{section*.146}
-\contentsline {subsubsection}{CO吸収線}{122}{section*.147}
-\contentsline {subsection}{\numberline {4.4.2}電波連続波で探査する銀河進化史}{122}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}国際SKAのサイエンス}{123}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}水素原子吸収線系で探る銀河進化}{123}{subsection.4.5.1}
-\contentsline {paragraph}{AGNに附随するガス}{125}{section*.148}
-\contentsline {paragraph}{吸収線系}{125}{section*.149}
-\contentsline {subsection}{\numberline {4.5.2}電波再結合線で探る冷たい中性水素雲}{127}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}電波連続波で探る銀河進化}{127}{subsection.4.5.3}
-\contentsline {section}{\numberline {4.6}日本が狙うサイエンス}{129}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}近傍銀河: 星間物質の性質$\cdot $進化、星形成の統一的理解}{130}{subsection.4.6.1}
-\contentsline {subsection}{\numberline {4.6.2}ガス、ダスト及び星形成を結ぶ拡張スケーリング則の探索と理論化}{132}{subsection.4.6.2}
-\contentsline {subsection}{\numberline {4.6.3}水素原子21 cm吸収線系で探る銀河進化}{134}{subsection.4.6.3}
-\contentsline {section}{参考文献}{138}{chapter*.150}
-\contentsline {section}{著者一覧}{142}{section*.151}
-\contentsline {chapter}{\numberline {第5章}パルサー}{143}{chapter.5}
-\contentsline {section}{\numberline {5.1}パルサー研究の現状と未解決問題}{143}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}パルサーの多様性}{143}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}パルサー磁気圏}{144}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}パルサーによる重力波検出}{145}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}パルサーによる一般相対論検証}{146}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}パルサーを用いた銀河系磁場構造探索}{148}{subsection.5.1.5}
-\contentsline {subsection}{\numberline {5.1.6}Giant Radio Pulses}{150}{subsection.5.1.6}
-\contentsline {section}{\numberline {5.2}国際SKAのサイエンス}{150}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}SKAを用いたパルサー探査}{151}{subsection.5.2.1}
-\contentsline {subsubsection}{複数のアンテナを用いた高感度探査}{151}{section*.152}
-\contentsline {subsubsection}{SKA-Low と SKA-Mid の連携}{152}{section*.153}
-\contentsline {subsubsection}{まとめ}{152}{section*.154}
-\contentsline {subsection}{\numberline {5.2.2}天の川銀河中心のパルサー}{153}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}SKAによる重力波天文学}{154}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Tests of Gravity with Pulsars (パルサーによる重力理論の検証)}{156}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}パルサー磁気圏}{158}{subsection.5.2.5}
-\contentsline {subsubsection}{Introduction}{158}{section*.155}
-\contentsline {subsubsection}{Pulsar life}{158}{section*.156}
-\contentsline {subsubsection}{geometry}{158}{section*.157}
-\contentsline {subsubsection}{3D beam}{159}{section*.158}
-\contentsline {subsubsection}{millisecond pulsar}{160}{section*.159}
-\contentsline {subsubsection}{磁気圏の状態遷移}{160}{section*.160}
-\contentsline {subsection}{\numberline {5.2.6}Structure and the Magnetoionic Interstellar Medium}{160}{subsection.5.2.6}
-\contentsline {section}{\numberline {5.3}日本のサイエンス}{162}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}パルサーによる重力理論の検証}{162}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}パルサーペアを用いた銀河系の磁場構造解析}{163}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}SKAとGiant Radio Pulses}{164}{subsection.5.3.3}
-\contentsline {section}{参考文献}{168}{chapter*.161}
-\contentsline {section}{著者一覧}{170}{section*.162}
-\contentsline {chapter}{\numberline {第6章}宇宙磁場}{171}{chapter.6}
-\contentsline {section}{\numberline {6.1}現状の科学的課題}{171}{section.6.1}
-\contentsline {paragraph}{はじめに}{171}{section*.163}
-\contentsline {subsection}{\numberline {6.1.1}磁場研究の物理量}{171}{subsection.6.1.1}
-\contentsline {subsubsection}{シンクロトロン放射}{171}{section*.164}
-\contentsline {paragraph}{放射の式}{171}{section*.165}
-\contentsline {paragraph}{強度の周波数依存性}{172}{section*.166}
-\contentsline {paragraph}{偏波率}{172}{section*.167}
-\contentsline {paragraph}{偏波角}{172}{section*.168}
-\contentsline {subsubsection}{直線偏波ファラデー回転}{172}{section*.169}
-\contentsline {paragraph}{回転測度RM}{172}{section*.170}
-\contentsline {paragraph}{RMの全天カタログ}{173}{section*.171}
-\contentsline {paragraph}{RMの観測可能範囲}{173}{section*.172}
-\contentsline {subsubsection}{偏波解消}{174}{section*.173}
-\contentsline {paragraph}{原理}{174}{section*.174}
-\contentsline {paragraph}{Burnの法則}{174}{section*.175}
-\contentsline {paragraph}{偏波解消の回避}{175}{section*.176}
-\contentsline {subsubsection}{ファラデートモグラフィー}{175}{section*.177}
-\contentsline {paragraph}{原理}{175}{section*.178}
-\contentsline {paragraph}{ファラデートモグラフィーの実用}{176}{section*.179}
-\contentsline {paragraph}{ファラデートモグラフィーの分解能と範囲}{176}{section*.180}
-\contentsline {subsection}{\numberline {6.1.2}星間・天の川銀河磁場の科学的課題}{177}{subsection.6.1.2}
-\contentsline {subsubsection}{はじめに}{177}{section*.181}
-\contentsline {paragraph}{天の川銀河と星間ガス}{177}{section*.182}
-\contentsline {paragraph}{星間ガスが帯びる磁場}{177}{section*.183}
-\contentsline {paragraph}{星間磁場と宇宙線の関係}{178}{section*.184}
-\contentsline {subsubsection}{星間磁場の理論}{178}{section*.185}
-\contentsline {paragraph}{磁場の起源と2つの不安定性}{178}{section*.186}
-\contentsline {paragraph}{磁気回転不安定性}{178}{section*.187}
-\contentsline {paragraph}{パーカー不安定性}{178}{section*.188}
-\contentsline {subsubsection}{星間磁場の観測}{178}{section*.189}
-\contentsline {paragraph}{パルサー観測}{178}{section*.190}
-\contentsline {paragraph}{背景の系外偏波源観測}{179}{section*.191}
-\contentsline {paragraph}{課題}{179}{section*.192}
-\contentsline {subsection}{\numberline {6.1.3}系外銀河磁場の科学的課題}{179}{subsection.6.1.3}
-\contentsline {subsubsection}{はじめに}{179}{section*.193}
-\contentsline {paragraph}{系外銀河と磁場}{179}{section*.194}
-\contentsline {subsubsection}{系外銀河磁場の理論}{179}{section*.195}
-\contentsline {subsubsection}{近傍の系外銀河磁場の観測}{180}{section*.196}
-\contentsline {paragraph}{大局磁場}{180}{section*.197}
-\contentsline {paragraph}{乱流磁場}{180}{section*.198}
-\contentsline {paragraph}{ハロー磁場}{180}{section*.199}
-\contentsline {paragraph}{銀河形態と磁場}{180}{section*.200}
-\contentsline {paragraph}{磁場とガス力学}{180}{section*.201}
-\contentsline {paragraph}{電波-遠赤外線の相関}{180}{section*.202}
-\contentsline {paragraph}{課題}{181}{section*.203}
-\contentsline {subsubsection}{遠方の系外銀河磁場の観測}{181}{section*.204}
-\contentsline {paragraph}{観測の現状}{181}{section*.205}
-\contentsline {paragraph}{課題}{181}{section*.206}
-\contentsline {subsection}{\numberline {6.1.4}AGN・ジェット磁場の科学的課題}{181}{subsection.6.1.4}
-\contentsline {subsubsection}{はじめに}{181}{section*.207}
-\contentsline {paragraph}{活動銀河中心核(AGN)}{181}{section*.208}
-\contentsline {paragraph}{AGNの分類}{181}{section*.209}
-\contentsline {paragraph}{宇宙ジェット}{182}{section*.210}
-\contentsline {subsubsection}{AGN・ジェット磁場の理論}{182}{section*.211}
-\contentsline {paragraph}{ジェットのメカニズム}{182}{section*.212}
-\contentsline {paragraph}{AGN・ジェットの役割}{182}{section*.213}
-\contentsline {subsubsection}{AGN・ジェット磁場の観測}{182}{section*.214}
-\contentsline {paragraph}{これまでの電波観測}{182}{section*.215}
-\contentsline {paragraph}{課題}{183}{section*.216}
-\contentsline {subsection}{\numberline {6.1.5}銀河団磁場の科学的課題}{183}{subsection.6.1.5}
-\contentsline {subsubsection}{はじめに}{183}{section*.217}
-\contentsline {paragraph}{銀河団と銀河団物質}{183}{section*.218}
-\contentsline {paragraph}{銀河団磁場}{183}{section*.219}
-\contentsline {subsubsection}{銀河団磁場の理論}{183}{section*.220}
-\contentsline {paragraph}{ファラデー回転と磁場のモデル}{183}{section*.221}
-\contentsline {paragraph}{電波放射の起源}{184}{section*.222}
-\contentsline {subsubsection}{銀河団磁場の観測}{184}{section*.223}
-\contentsline {paragraph}{これまでの電波観測}{184}{section*.224}
-\contentsline {paragraph}{課題１：ファラデー回転}{184}{section*.225}
-\contentsline {paragraph}{課題２：シンクロトロン放射}{184}{section*.226}
-\contentsline {paragraph}{課題３：視線上の構造}{184}{section*.227}
-\contentsline {subsection}{\numberline {6.1.6}宇宙大規模構造磁場の科学的課題}{185}{subsection.6.1.6}
-\contentsline {subsubsection}{はじめに}{185}{section*.228}
-\contentsline {paragraph}{中高温銀河間物質}{185}{section*.229}
-\contentsline {paragraph}{銀河間磁場}{185}{section*.230}
-\contentsline {subsubsection}{宇宙大規模構造磁場の理論}{185}{section*.231}
-\contentsline {paragraph}{宇宙論的起源}{185}{section*.232}
-\contentsline {paragraph}{天体起源}{185}{section*.233}
-\contentsline {paragraph}{構造形成起源}{186}{section*.234}
-\contentsline {subsubsection}{宇宙大規模構造磁場の観測}{186}{section*.235}
-\contentsline {paragraph}{可能な方法}{186}{section*.236}
-\contentsline {paragraph}{ファラデー回転}{186}{section*.237}
-\contentsline {paragraph}{シンクロトロン放射}{186}{section*.238}
-\contentsline {paragraph}{課題}{187}{section*.239}
-\contentsline {subsection}{\numberline {6.1.7}宇宙論的磁場の科学的課題}{187}{subsection.6.1.7}
-\contentsline {subsubsection}{はじめに}{187}{section*.240}
-\contentsline {paragraph}{宇宙最初の磁場：初期宇宙起源}{187}{section*.241}
-\contentsline {subsubsection}{宇宙論的磁場の理論}{187}{section*.242}
-\contentsline {paragraph}{インフレーション起源}{187}{section*.243}
-\contentsline {paragraph}{インフレーション起源の問題}{187}{section*.244}
-\contentsline {paragraph}{インフレーション以外の磁場生成起源}{189}{section*.245}
-\contentsline {paragraph}{再結合時の磁場生成}{189}{section*.246}
-\contentsline {paragraph}{今後の理論的課題}{189}{section*.247}
-\contentsline {subsubsection}{宇宙論的磁場の観測}{189}{section*.248}
-\contentsline {paragraph}{これまでの観測}{189}{section*.249}
-\contentsline {paragraph}{課題}{189}{section*.250}
-\contentsline {subsection}{\numberline {6.1.8}ファラデートモグラフィーの科学的課題}{190}{subsection.6.1.8}
-\contentsline {subsubsection}{はじめに}{190}{section*.251}
-\contentsline {paragraph}{ファラデートモグラフィーで何がわかるか？}{190}{section*.252}
-\contentsline {paragraph}{銀河磁場研究への適用}{190}{section*.253}
-\contentsline {paragraph}{銀河間磁場研究への適用}{190}{section*.254}
-\contentsline {paragraph}{２つの逆問題}{190}{section*.255}
-\contentsline {subsubsection}{ファラデートモグラフィーの理論的課題1}{191}{section*.256}
-\contentsline {paragraph}{ファラデースペクトルの再構築}{191}{section*.257}
-\contentsline {paragraph}{逆変換法}{191}{section*.258}
-\contentsline {paragraph}{モデルフィット法}{191}{section*.259}
-\contentsline {paragraph}{比較プロジェクト}{192}{section*.260}
-\contentsline {subsubsection}{ファラデートモグラフィーの理論的課題2}{192}{section*.261}
-\contentsline {paragraph}{ファラデースペクトルの解釈}{192}{section*.262}
-\contentsline {section}{\numberline {6.2}国際SKAの科学的課題}{193}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}国際SKAサイエンスの概要}{193}{subsection.6.2.1}
-\contentsline {subsubsection}{科学的課題}{193}{section*.263}
-\contentsline {paragraph}{論文リスト}{193}{section*.264}
-\contentsline {subsubsection}{観測の見通し}{194}{section*.265}
-\contentsline {paragraph}{観測されたRMグリッド数}{194}{section*.266}
-\contentsline {paragraph}{予想されるRMグリッド数}{194}{section*.267}
-\contentsline {subsection}{\numberline {6.2.2}星間・天の川銀河磁場}{195}{subsection.6.2.2}
-\contentsline {subsubsection}{科学的課題}{195}{section*.268}
-\contentsline {paragraph}{大局磁場}{195}{section*.269}
-\contentsline {paragraph}{円盤磁場}{195}{section*.270}
-\contentsline {paragraph}{乱流磁場}{195}{section*.271}
-\contentsline {paragraph}{ハロー磁場}{195}{section*.272}
-\contentsline {paragraph}{銀河中心磁場}{195}{section*.273}
-\contentsline {paragraph}{星形成領域の磁場}{196}{section*.274}
-\contentsline {paragraph}{超新星残骸の磁場}{196}{section*.275}
-\contentsline {paragraph}{HII領域の磁場}{196}{section*.276}
-\contentsline {paragraph}{星雲の磁場}{196}{section*.277}
-\contentsline {paragraph}{ファラデースクリーン}{196}{section*.278}
-\contentsline {subsubsection}{観測の見通し}{196}{section*.279}
-\contentsline {paragraph}{SKA1の見通し}{196}{section*.280}
-\contentsline {paragraph}{SKA2の見通し}{197}{section*.281}
-\contentsline {subsection}{\numberline {6.2.3}系外銀河磁場}{197}{subsection.6.2.3}
-\contentsline {subsubsection}{科学的課題}{197}{section*.282}
-\contentsline {paragraph}{近傍銀河}{197}{section*.283}
-\contentsline {paragraph}{遠方銀河(深探査)}{197}{section*.284}
-\contentsline {paragraph}{遠方銀河(広帯域観測1)}{197}{section*.285}
-\contentsline {paragraph}{遠方銀河(広帯域観測2)}{198}{figure.6.9}
-\contentsline {subsubsection}{観測の見通し}{198}{section*.287}
-\contentsline {paragraph}{近傍銀河}{198}{section*.288}
-\contentsline {paragraph}{遠方銀河(深探査)}{199}{figure.6.10}
-\contentsline {paragraph}{遠方銀河(広帯域観測1)}{199}{section*.290}
-\contentsline {paragraph}{遠方銀河(広帯域観測2)}{199}{section*.291}
-\contentsline {subsection}{\numberline {6.2.4}AGN・ジェット磁場}{200}{subsection.6.2.4}
-\contentsline {subsubsection}{科学的課題}{200}{section*.292}
-\contentsline {paragraph}{RL-AGN、RQ-AGNと放射}{200}{section*.293}
-\contentsline {paragraph}{ブレーザーと放射}{200}{section*.294}
-\contentsline {paragraph}{RL-クエーサーと放射}{200}{section*.295}
-\contentsline {paragraph}{FRI、FRII電波銀河と放射}{200}{section*.296}
-\contentsline {paragraph}{ジェットの形成と変動}{200}{section*.297}
-\contentsline {paragraph}{ジェットの速度場と粒子加速}{201}{section*.298}
-\contentsline {paragraph}{ジェット磁場のトポロジー}{201}{section*.299}
-\contentsline {paragraph}{フィードバック}{201}{section*.300}
-\contentsline {subsubsection}{観測の見通し}{201}{section*.301}
-\contentsline {paragraph}{SKA1の見通し}{201}{section*.302}
-\contentsline {paragraph}{円偏波の観測}{202}{section*.303}
-\contentsline {paragraph}{深探査1}{202}{section*.304}
-\contentsline {paragraph}{深探査2}{203}{section*.305}
-\contentsline {paragraph}{広帯域観測1}{203}{section*.306}
-\contentsline {paragraph}{広帯域観測2}{204}{section*.307}
-\contentsline {subsection}{\numberline {6.2.5}銀河団磁場}{204}{subsection.6.2.5}
-\contentsline {subsubsection}{科学的課題}{204}{section*.308}
-\contentsline {paragraph}{起源と進化}{204}{section*.309}
-\contentsline {paragraph}{磁場の構造}{204}{section*.310}
-\contentsline {paragraph}{モデルの構築}{204}{section*.311}
-\contentsline {paragraph}{RM構造}{205}{section*.312}
-\contentsline {paragraph}{電波ハロー}{205}{section*.313}
-\contentsline {subsubsection}{観測の見通し}{205}{section*.314}
-\contentsline {paragraph}{SKA1の見通し}{205}{section*.315}
-\contentsline {paragraph}{SKA2の見通し}{206}{section*.316}
-\contentsline {subsection}{\numberline {6.2.6}宇宙大規模構造磁場}{206}{subsection.6.2.6}
-\contentsline {subsubsection}{科学的課題}{206}{section*.317}
-\contentsline {paragraph}{銀河間磁場の理論予測}{206}{section*.318}
-\contentsline {paragraph}{銀河間磁場のRMの理論予測}{206}{figure.6.13}
-\contentsline {subsubsection}{観測の見通し}{207}{section*.320}
-\contentsline {paragraph}{SKA1の深探査}{207}{section*.321}
-\contentsline {paragraph}{統計的なアプローチ}{207}{section*.322}
-\contentsline {paragraph}{ファラデートモグラフィー}{207}{section*.323}
-\contentsline {subsection}{\numberline {6.2.7}宇宙論的磁場}{207}{subsection.6.2.7}
-\contentsline {subsubsection}{科学的課題}{207}{section*.324}
-\contentsline {paragraph}{スタック解析}{207}{section*.325}
-\contentsline {paragraph}{スタック解析の結果}{208}{section*.326}
-\contentsline {subsubsection}{観測の見通し}{208}{section*.327}
-\contentsline {paragraph}{SKA1の見通し}{208}{section*.328}
-\contentsline {subsection}{\numberline {6.2.8}ファラデートモグラフィー}{208}{subsection.6.2.8}
-\contentsline {subsubsection}{科学的課題}{208}{section*.329}
-\contentsline {section}{\numberline {6.3}日本が狙う科学的課題}{209}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}はじめに}{209}{subsection.6.3.1}
-\contentsline {paragraph}{宇宙磁場研究の本質：多様性と普遍性}{209}{section*.330}
-\contentsline {paragraph}{国際SKA宇宙磁場科学検討班の戦略}{209}{section*.331}
-\contentsline {paragraph}{日本SKA宇宙磁場科学検討班の戦略}{209}{section*.332}
-\contentsline {paragraph}{日本の優位性}{209}{section*.333}
-\contentsline {paragraph}{日本が狙う科学的課題}{209}{section*.334}
-\contentsline {paragraph}{日本が参画すべき開発}{210}{section*.335}
-\contentsline {paragraph}{日本の様々な観測計画との強力}{210}{section*.336}
-\contentsline {paragraph}{日本の宇宙磁場研究の科学・技術要求の要約}{210}{section*.337}
-\contentsline {subsection}{\numberline {6.3.2}銀河磁場の起源と進化}{211}{subsection.6.3.2}
-\contentsline {paragraph}{銀河磁場の物理}{211}{section*.338}
-\contentsline {paragraph}{宇宙線の影響と星形成}{211}{section*.339}
-\contentsline {paragraph}{銀極・ハロー磁場構造の観測}{212}{section*.340}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{212}{section*.341}
-\contentsline {subsection}{\numberline {6.3.3}近傍銀河の4次元磁場構造}{212}{subsection.6.3.3}
-\contentsline {paragraph}{銀河の円盤磁場}{212}{section*.342}
-\contentsline {paragraph}{銀河の垂直磁場}{212}{section*.343}
-\contentsline {paragraph}{近傍系外銀河のシンクロトロン放射の観測}{213}{section*.344}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{213}{section*.345}
-\contentsline {paragraph}{他観測とのシナジー効果}{213}{section*.346}
-\contentsline {subsection}{\numberline {6.3.4}遠方銀河の偏波特性}{213}{subsection.6.3.4}
-\contentsline {paragraph}{介在銀河による偏波解消}{213}{section*.347}
-\contentsline {paragraph}{偏波解消の観測}{214}{section*.348}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{214}{section*.349}
-\contentsline {subsection}{\numberline {6.3.5}ジェットの磁場構造}{214}{subsection.6.3.5}
-\contentsline {paragraph}{ジェット構造の初期磁場依存性}{214}{section*.350}
-\contentsline {paragraph}{AGNジェットの観測}{214}{section*.351}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{214}{section*.352}
-\contentsline {subsection}{\numberline {6.3.6}銀河団乱流の形成と進化の解明}{215}{subsection.6.3.6}
-\contentsline {paragraph}{ファラデー回転の観測と乱流磁場}{215}{section*.353}
-\contentsline {paragraph}{X線形態分類}{215}{section*.354}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{215}{section*.355}
-\contentsline {subsection}{\numberline {6.3.7}銀河団電波ハローの多波長観測}{216}{subsection.6.3.7}
-\contentsline {paragraph}{銀河団の多波長観測}{216}{section*.356}
-\contentsline {paragraph}{他波長から得られる情報}{216}{section*.357}
-\contentsline {paragraph}{電波ハローの観測}{216}{section*.358}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{216}{section*.359}
-\contentsline {subsection}{\numberline {6.3.8}銀河団電波レリックの起源の解明}{217}{subsection.6.3.8}
-\contentsline {paragraph}{電波レリックの物理}{217}{section*.360}
-\contentsline {paragraph}{電波レリックの観測1}{217}{section*.361}
-\contentsline {paragraph}{電波レリックの観測2}{217}{section*.362}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{217}{section*.363}
-\contentsline {subsection}{\numberline {6.3.9}宇宙大規模構造の探査}{218}{subsection.6.3.9}
-\contentsline {paragraph}{統計的な推定}{218}{section*.364}
-\contentsline {paragraph}{背景偏波源の観測}{218}{section*.365}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{219}{section*.366}
-\contentsline {subsection}{\numberline {6.3.10}宇宙論的磁場生成}{219}{subsection.6.3.10}
-\contentsline {paragraph}{晴れ上がり期の2次オーダーの密度揺らぎ}{220}{section*.367}
-\contentsline {paragraph}{晴れ上がり期の位相欠陥}{220}{section*.368}
-\contentsline {paragraph}{天体形成時での磁場生成}{220}{section*.369}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{220}{section*.370}
-\contentsline {subsection}{\numberline {6.3.11}宇宙磁場の宇宙論的進化}{222}{subsection.6.3.11}
-\contentsline {paragraph}{RMと赤方偏移}{222}{section*.371}
-\contentsline {paragraph}{成分ごとの進化史}{222}{section*.372}
-\contentsline {paragraph}{背景偏波源の観測}{222}{section*.373}
-\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{222}{section*.374}
-\contentsline {subsection}{\numberline {6.3.12}トモグラフィーの諸問題の改善}{222}{subsection.6.3.12}
-\contentsline {paragraph}{トモグラフィーのコード開発実績}{222}{section*.375}
-\contentsline {paragraph}{レプリカ交換モンテカルロ法}{223}{section*.376}
-\contentsline {paragraph}{使用するモデルの関数形}{223}{section*.377}
-\contentsline {paragraph}{RM CLEANの応用}{223}{section*.378}
-\contentsline {subsection}{\numberline {6.3.13}さらなるシナジーを求めて}{223}{subsection.6.3.13}
-\contentsline {paragraph}{太陽・恒星の偏波解析による磁場の導出}{223}{section*.379}
-\contentsline {paragraph}{最高エネルギー宇宙線の磁場による偏向の解明}{224}{figure.6.18}
-\contentsline {paragraph}{再電離21cm線前景放射の除去}{225}{section*.381}
-\contentsline {paragraph}{宇宙マイクロ波背景放射}{225}{section*.382}
-\contentsline {section}{参考文献}{226}{chapter*.383}
-\contentsline {section}{著者一覧}{230}{section*.384}
-\contentsline {chapter}{\numberline {第7章}近傍宇宙時空計測}{231}{chapter.7}
-\contentsline {section}{\numberline {7.1}次世代高精度位置計測が切り開く天文学研究}{231}{section.7.1}
-\contentsline {subsection}{\numberline {7.1.1}時代が経っても揺るがない天体位置計測継続の重要性}{231}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}高精度位置計測対象電波源の個数増大と多様化}{233}{subsection.7.1.2}
-\contentsline {section}{\numberline {7.2}SKAに向けた電波源高精度位置計測における技術的検討項目}{235}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}VLBI観測装置}{235}{subsection.7.2.1}
-\contentsline {paragraph}{広帯域受信系（フィード及び受信機）}{236}{section*.385}
-\contentsline {paragraph}{アンテナビーム}{236}{section*.386}
-\contentsline {paragraph}{周波数標準装置}{236}{section*.387}
-\contentsline {paragraph}{複数アンテナ受信信号の加算--- phase-up}{236}{section*.388}
-\contentsline {paragraph}{受信信号記録装置}{236}{section*.389}
-\contentsline {paragraph}{高精度天体位置計測用校正データ}{237}{section*.390}
-\contentsline {subsection}{\numberline {7.2.2}VLBI観測局配置}{237}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}データ校正法・電波源位置計測法}{238}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}長波長帯における高精度天体位置計測の実現性}{240}{subsection.7.2.4}
-\contentsline {subsection}{\numberline {7.2.5}測量用校正電波源}{240}{subsection.7.2.5}
-\contentsline {subsection}{\numberline {7.2.6}天球電波座標系}{241}{subsection.7.2.6}
-\contentsline {section}{\numberline {7.3}国際SKAのサイエンス}{242}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}パルサーに対する年周視差・固有運動計測}{242}{subsection.7.3.1}
-\contentsline {subsection}{\numberline {7.3.2}天の川渦状腕内部の詳細構造}{242}{subsection.7.3.2}
-\contentsline {paragraph}{天の川銀河南天域にわたる基本的構造の把握}{243}{section*.391}
-\contentsline {paragraph}{Spiral arm tomography}{243}{section*.392}
-\contentsline {subsection}{\numberline {7.3.3}OHメーザー源に対する位置計測と天の川銀河全体の構造の把握}{244}{subsection.7.3.3}
-\contentsline {subsection}{\numberline {7.3.4}局所銀河群(The Local Group) 中銀河の固有運動}{247}{subsection.7.3.4}
-\contentsline {subsection}{\numberline {7.3.5}高精度天球基準座標系構築で生み出されるサイエンス}{248}{subsection.7.3.5}
-\contentsline {paragraph}{銀河光行差}{248}{section*.393}
-\contentsline {paragraph}{天体位置計測上のマイクロレンズ現象}{248}{section*.394}
-\contentsline {section}{\numberline {7.4}日本が狙うサイエンス}{249}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}天の川銀河の薄い円盤と渦状腕のパターン速度の推定}{249}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}天の川銀河の厚い円盤で見られる物質循環}{250}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}天の川銀河バルジ}{250}{subsection.7.4.3}
-\contentsline {subsection}{\numberline {7.4.4}天の川--マゼラン銀河系の力学進化と物質進化}{252}{subsection.7.4.4}
-\contentsline {subsection}{\numberline {7.4.5}天の川--マゼラン銀河系における電子密度・磁場分布の把握}{255}{subsection.7.4.5}
-\contentsline {subsection}{\numberline {7.4.6}「未同定天体」の位置計測に基づく同定}{256}{subsection.7.4.6}
-\contentsline {subsection}{\numberline {7.4.7}地球外知的生命体探査(SETI)}{257}{subsection.7.4.7}
-\contentsline {section}{参考文献}{258}{chapter*.395}
-\contentsline {section}{著者一覧}{260}{section*.396}
-\contentsline {chapter}{\numberline {第8章}星間物質}{261}{chapter.8}
-\contentsline {section}{\numberline {8.1}未解決のサイエンス}{261}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}星間物質とは}{261}{subsection.8.1.1}
-\contentsline {paragraph}{はじめに}{261}{section*.397}
-\contentsline {subsubsection}{星間物質の構成要素}{261}{section*.398}
-\contentsline {paragraph}{星間ガスの相}{261}{section*.399}
-\contentsline {paragraph}{星間ダスト}{263}{section*.400}
-\contentsline {paragraph}{星間宇宙線と磁場}{263}{section*.401}
-\contentsline {subsubsection}{SKAとH\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{263}{section*.402}
-\contentsline {paragraph}{H\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{263}{section*.403}
-\contentsline {paragraph}{H\tmspace +\thinmuskip {.1667em}\textsc {i}観測の困難}{263}{section*.404}
-\contentsline {paragraph}{SKAとH\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{263}{section*.405}
-\contentsline {subsection}{\numberline {8.1.2}天の川銀河内の星間物質}{264}{subsection.8.1.2}
-\contentsline {subsubsection}{星間物質の多様性}{264}{section*.406}
-\contentsline {paragraph}{星間物質の相転移}{264}{section*.407}
-\contentsline {paragraph}{相転移と小スケールの中性水素原子雲}{264}{section*.408}
-\contentsline {paragraph}{WNM--CNM相転移の観測}{264}{section*.409}
-\contentsline {paragraph}{相転移に伴う雲の構造形成}{264}{section*.410}
-\contentsline {paragraph}{CNM--MM相転移}{265}{section*.411}
-\contentsline {subsubsection}{星間物質の乱流・磁場・宇宙線}{265}{section*.412}
-\contentsline {paragraph}{乱流や磁場の起源と特性}{265}{section*.413}
-\contentsline {paragraph}{星間物質と磁場の大局構造}{265}{section*.414}
-\contentsline {paragraph}{宇宙線の加速メカニズム}{265}{section*.415}
-\contentsline {subsubsection}{ダークガス問題}{267}{section*.416}
-\contentsline {paragraph}{ダスト質量からガス総量を求める経験則}{267}{section*.417}
-\contentsline {paragraph}{OH分子雲探査}{267}{section*.418}
-\contentsline {paragraph}{H\tmspace +\thinmuskip {.1667em}\textsc {i}高分解探査}{267}{section*.419}
-\contentsline {subsection}{\numberline {8.1.3}天の川銀河外の星間物質}{267}{subsection.8.1.3}
-\contentsline {subsubsection}{銀河進化と分子雲形成過程}{267}{section*.420}
-\contentsline {paragraph}{分子雲形成過程とH\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{267}{section*.421}
-\contentsline {paragraph}{分子雲形成過程の現状の理解}{268}{section*.422}
-\contentsline {subsubsection}{系外銀河のH\tmspace +\thinmuskip {.1667em}\textsc {i}サーベイ}{268}{section*.423}
-\contentsline {paragraph}{系外銀河のH\tmspace +\thinmuskip {.1667em}\textsc {i}サーベイの重要性}{268}{section*.424}
-\contentsline {paragraph}{系外銀河のH\tmspace +\thinmuskip {.1667em}\textsc {i}サーベイの現状}{268}{section*.425}
-\contentsline {paragraph}{大小マゼラン銀河}{268}{section*.426}
-\contentsline {subsubsection}{系外銀河のダスト--ガス比}{269}{section*.427}
-\contentsline {paragraph}{ダスト--ガス質量比の観測}{269}{section*.428}
-\contentsline {paragraph}{ダスト--ガス質量比のモデル化}{269}{figure.8.3}
-\contentsline {section}{\numberline {8.2}国際SKAサイエンスブックの紹介}{270}{section.8.2}
-\contentsline {section}{\numberline {8.3}日本が狙うサイエンス}{270}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}星間媒質における中性水素原子雲の役割と観測の重要性}{270}{subsection.8.3.1}
-\contentsline {paragraph}{中性水素原子雲の役割}{270}{section*.430}
-\contentsline {paragraph}{中性水素原子雲の観測の重要性}{270}{section*.431}
-\contentsline {subsection}{\numberline {8.3.2}ALMAや野辺山45mなどのミリ波・サブミリ波との相補性}{270}{subsection.8.3.2}
-\contentsline {paragraph}{ミリ波・サブミリ波による星間物質研究}{270}{section*.432}
-\contentsline {paragraph}{ミリ波・サブミリ波による星間物質研究の例}{272}{section*.433}
-\contentsline {paragraph}{SKAへの期待}{272}{section*.434}
-\contentsline {subsection}{\numberline {8.3.3}臼田64m鏡H\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{272}{subsection.8.3.3}
-\contentsline {paragraph}{国内H\tmspace +\thinmuskip {.1667em}\textsc {i}観測のニーズ}{272}{section*.435}
-\contentsline {paragraph}{臼田H\tmspace +\thinmuskip {.1667em}\textsc {i}パイロット観測}{272}{section*.436}
-\contentsline {subsection}{\numberline {8.3.4}パルサーグループからもたらされる精密情報の活用}{272}{subsection.8.3.4}
-\contentsline {paragraph}{はじめに}{272}{section*.437}
-\contentsline {paragraph}{パルサータイミング}{273}{section*.438}
-\contentsline {paragraph}{パルサー観測から得られる星間物質の観測量}{273}{section*.439}
-\contentsline {paragraph}{パルサーの分布}{273}{section*.440}
-\contentsline {paragraph}{SKA観測に向けた技術的課題}{273}{section*.441}
-\contentsline {subsection}{\numberline {8.3.5}銀河進化グループがもたらす星形成の知見}{273}{subsection.8.3.5}
-\contentsline {paragraph}{星間物質と銀河進化}{273}{section*.442}
-\contentsline {paragraph}{SKAへの期待}{274}{section*.443}
-\contentsline {paragraph}{日本のサイエンスの狙い}{274}{section*.444}
-\contentsline {subsection}{\numberline {8.3.6}宇宙磁場グループが明かす電離ガスの情報}{274}{subsection.8.3.6}
-\contentsline {paragraph}{SKA時代の偏波観測}{274}{section*.445}
-\contentsline {paragraph}{偏波観測サイエンス}{274}{section*.446}
-\contentsline {paragraph}{偏波観測サイエンスとのシナジー}{275}{section*.447}
-\contentsline {subsection}{\numberline {8.3.7}宇宙論グループからの期待}{275}{subsection.8.3.7}
-\contentsline {paragraph}{星間物質と宇宙論}{275}{section*.448}
-\contentsline {paragraph}{前景放射の問題}{275}{section*.449}
-\contentsline {section}{参考文献}{277}{chapter*.450}
-\contentsline {section}{著者一覧}{278}{section*.451}
-\contentsline {chapter}{\numberline {第9章}突発天体}{279}{chapter.9}
-\contentsline {section}{\numberline {9.1}突発天体研究の現状と未解決問題}{279}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}突発天体の研究}{279}{subsection.9.1.1}
-\contentsline {subsubsection}{はじめに}{279}{section*.452}
-\contentsline {paragraph}{呼称}{279}{section*.453}
-\contentsline {paragraph}{突発天体と変動天体}{279}{section*.454}
-\contentsline {paragraph}{既知の突発天体と未知の突発天体}{280}{section*.455}
-\contentsline {paragraph}{SKAを用いた突発天体研究の方向性}{280}{section*.456}
-\contentsline {subsubsection}{突発天体の分類}{280}{section*.457}
-\contentsline {subsubsection}{突発天体・変動天体の相空間}{281}{section*.458}
-\contentsline {subsection}{\numberline {9.1.2}超新星}{282}{subsection.9.1.2}
-\contentsline {subsection}{\numberline {9.1.3}ガンマ線バースト}{283}{subsection.9.1.3}
-\contentsline {subsubsection}{GRB Afterglows}{284}{section*.459}
-\contentsline {subsubsection}{Orphan GRB Afterglows}{284}{section*.460}
-\contentsline {subsection}{\numberline {9.1.4}ブラックホールによる星の潮汐崩壊}{284}{subsection.9.1.4}
-\contentsline {subsection}{\numberline {9.1.5}Fast Radio Bursts (FRBs)}{285}{subsection.9.1.5}
-\contentsline {subsection}{\numberline {9.1.6}未知の突発天体}{285}{subsection.9.1.6}
-\contentsline {subsubsection}{種類1: 銀河系内の短時間変動天体}{285}{section*.461}
-\contentsline {paragraph}{Crab Nanoshots}{286}{section*.462}
-\contentsline {paragraph}{RRATs}{286}{section*.463}
-\contentsline {subsubsection}{種類2: 銀河系外の短時間変動天体}{286}{section*.464}
-\contentsline {subsubsection}{種類3: 銀河系内の長時間変動天体}{286}{section*.465}
-\contentsline {subsubsection}{種類4: 銀河系外の長時間変動天体}{287}{section*.466}
-\contentsline {section}{\numberline {9.2}国際SKAのサイエンス}{287}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}SKAによる突発天体探査}{287}{subsection.9.2.1}
-\contentsline {subsubsection}{SKAへの要求 (1): 他の観測と共存する突発天体探査システム}{288}{section*.467}
-\contentsline {subsubsection}{SKAへの要求 (2): 突発天体発見時の自動的な追観測システム}{289}{section*.468}
-\contentsline {subsubsection}{まとめ}{290}{section*.469}
-\contentsline {subsection}{\numberline {9.2.2}ガンマ線バースト}{290}{subsection.9.2.2}
-\contentsline {paragraph}{GRB電波残光の観測の現状}{290}{section*.470}
-\contentsline {paragraph}{GRB電波残光のSKA観測の見込み}{290}{section*.471}
-\contentsline {subsection}{\numberline {9.2.3}太陽質量コンパクト天体からのインコヒーレントな突発的電波放射}{290}{subsection.9.2.3}
-\contentsline {paragraph}{太陽質量コンパクト天体と電波放射}{290}{section*.472}
-\contentsline {paragraph}{電波観測から分かること}{290}{section*.473}
-\contentsline {paragraph}{感度への期待}{291}{section*.474}
-\contentsline {paragraph}{SKA観測の見通し}{291}{section*.475}
-\contentsline {subsection}{\numberline {9.2.4}ジェットを伴う潮汐崩壊現象の強い狩人としてのSKA}{291}{subsection.9.2.4}
-\contentsline {paragraph}{潮汐崩壊現象}{291}{section*.476}
-\contentsline {paragraph}{潮汐崩壊現象の観測}{291}{section*.477}
-\contentsline {paragraph}{SKAへの見通し}{291}{section*.478}
-\contentsline {subsection}{\numberline {9.2.5}宇宙論的距離の早い突発現象}{292}{subsection.9.2.5}
-\contentsline {paragraph}{早い突発現象の活用}{292}{section*.479}
-\contentsline {paragraph}{SKAへの見込み}{292}{section*.480}
-\contentsline {subsection}{\numberline {9.2.6}ガンマ線バーストを用いた宇宙論へのSKAの貢献}{292}{subsection.9.2.6}
-\contentsline {paragraph}{GRB宇宙論}{292}{section*.481}
-\contentsline {paragraph}{SKAへの見込み}{292}{section*.482}
-\contentsline {subsection}{\numberline {9.2.7}活動銀河核の時間領域研究}{292}{subsection.9.2.7}
-\contentsline {paragraph}{AGNの時間領域研究の背景}{292}{section*.483}
-\contentsline {paragraph}{SKAへの見込み}{293}{section*.484}
-\contentsline {subsection}{\numberline {9.2.8}コア崩壊型超新星とIa型超新星}{293}{subsection.9.2.8}
-\contentsline {paragraph}{コア崩壊超新星}{293}{section*.485}
-\contentsline {paragraph}{Ia型超新星}{293}{section*.486}
-\contentsline {subsection}{\numberline {9.2.9}新星と共生連星からの熱電波放射}{293}{subsection.9.2.9}
-\contentsline {paragraph}{星系からの突発現象}{293}{section*.487}
-\contentsline {paragraph}{新星の観測}{293}{section*.488}
-\contentsline {paragraph}{共生連星の観測}{294}{section*.489}
-\contentsline {paragraph}{SKAへの期待}{294}{section*.490}
-\contentsline {subsection}{\numberline {9.2.10}超新星と超新星残骸の研究}{294}{subsection.9.2.10}
-\contentsline {paragraph}{超新星の種類}{294}{section*.491}
-\contentsline {paragraph}{Ia型からの電波を捉える}{294}{section*.492}
-\contentsline {paragraph}{可視光で見えないII型を見つける}{294}{section*.493}
-\contentsline {paragraph}{超新星残骸のSKA観測}{294}{section*.494}
-\contentsline {subsection}{\numberline {9.2.11}系内外のブラックホールX線トランジェントの早期検出と網羅}{295}{subsection.9.2.11}
-\contentsline {paragraph}{SKAへの期待}{295}{section*.495}
-\contentsline {subsection}{\numberline {9.2.12}未知の未知}{295}{subsection.9.2.12}
-\contentsline {subsubsection}{未知追究の哲学}{295}{section*.496}
-\contentsline {subsubsection}{未知の探査 (EoU) のための要求}{296}{section*.497}
-\contentsline {paragraph}{要求 1: Einstein@Home と同様のプロジェクト}{296}{section*.498}
-\contentsline {paragraph}{要求 2: Virtual Observatory への貢献}{296}{section*.499}
-\contentsline {subsubsection}{まとめ}{296}{section*.500}
-\contentsline {section}{\numberline {9.3}日本が狙うサイエンス}{297}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}系外超新星}{298}{subsection.9.3.1}
-\contentsline {subsubsection}{(1) 観測数の飛躍的増加によりもたらされる統計的理解}{298}{section*.501}
-\contentsline {subsubsection}{(2) まだ検出されていない電波放射の弱い超新星の研究}{299}{section*.502}
-\contentsline {subsubsection}{(3) 可視光では観測できない激しい星形成を起こしている銀河での超新星の検出と研究}{299}{section*.503}
-\contentsline {subsubsection}{(4) 可視光観測とのシナジーによる近傍超新星の包括的研究}{299}{section*.504}
-\contentsline {subsubsection}{(5) 強い衝撃波における相対論的電子加速機構、電子注入問題}{300}{section*.505}
-\contentsline {subsection}{\numberline {9.3.2}超新星残骸における粒子加速の現場、および星間物質と磁場の相互作用}{300}{subsection.9.3.2}
-\contentsline {paragraph}{(1) サンプル数の増大}{301}{section*.506}
-\contentsline {paragraph}{(2) 残骸の真の構造}{301}{section*.507}
-\contentsline {paragraph}{(3) 粒子加速と磁場}{301}{section*.508}
-\contentsline {paragraph}{(4) 星間物質との相互作用}{301}{section*.509}
-\contentsline {subsection}{\numberline {9.3.3}電波によるガンマ線バーストの即応追観測}{301}{subsection.9.3.3}
-\contentsline {subsubsection}{SKAへの期待と要求}{302}{section*.510}
-\contentsline {subsubsection}{日本の独自性とまとめ}{302}{section*.511}
-\contentsline {subsection}{\numberline {9.3.4}マグネター磁気圏の解明}{303}{subsection.9.3.4}
-\contentsline {subsection}{\numberline {9.3.5}死んだ電波銀河のシェルからの放射}{303}{subsection.9.3.5}
-\contentsline {subsection}{\numberline {9.3.6}重力波--電波マルチメッセンジャー観測}{305}{subsection.9.3.6}
-\contentsline {subsection}{\numberline {9.3.7}FRBの偏波の可能性と宇宙磁場}{306}{subsection.9.3.7}
-\contentsline {subsection}{\numberline {9.3.8}未知の突発天体の探査}{306}{subsection.9.3.8}
-\contentsline {subsubsection}{従来の探査結果}{306}{section*.512}
-\contentsline {subsubsection}{従来の探査結果の検証}{307}{section*.513}
-\contentsline {paragraph}{検証の方法}{307}{section*.514}
-\contentsline {paragraph}{検証のためのSKAへの要求}{308}{section*.515}
-\contentsline {subsubsection}{未知の探査}{309}{section*.516}
-\contentsline {subsubsection}{まとめ}{309}{section*.517}
-\contentsline {subsection}{\numberline {9.3.9}突発天体研究のためのSKAへの要求}{309}{subsection.9.3.9}
-\contentsline {subsubsection}{アンテナの選択}{310}{section*.518}
-\contentsline {subsubsection}{装置要求}{310}{section*.519}
-\contentsline {paragraph}{周波数範囲}{310}{section*.520}
-\contentsline {paragraph}{感度}{310}{section*.521}
-\contentsline {paragraph}{時間分解能}{310}{section*.522}
-\contentsline {paragraph}{偏波}{311}{section*.523}
-\contentsline {subsubsection}{まとめ}{311}{section*.524}
-\contentsline {section}{参考文献}{312}{chapter*.525}
-\contentsline {section}{著者一覧}{314}{section*.526}
-\contentsline {chapter}{\numberline {第10章}星惑星形成}{315}{chapter.10}
-\contentsline {section}{\numberline {10.1}セクション１}{315}{section.10.1}
-\contentsline {section}{\numberline {10.2}セクション２}{315}{section.10.2}
-\contentsline {section}{\numberline {10.3}セクション３}{315}{section.10.3}
-\contentsline {section}{参考文献}{316}{chapter*.527}
-\contentsline {section}{著者一覧}{317}{section*.528}
-\contentsline {chapter}{\numberline {第11章}惑星}{318}{chapter.11}
-\contentsline {section}{\numberline {11.1}セクション１}{318}{section.11.1}
-\contentsline {section}{\numberline {11.2}セクション２}{318}{section.11.2}
-\contentsline {section}{\numberline {11.3}セクション３}{318}{section.11.3}
-\contentsline {section}{参考文献}{319}{chapter*.529}
-\contentsline {section}{著者一覧}{320}{section*.530}
-\contentsline {chapter}{\numberline {第12章}まとめ}{321}{chapter.12}
-\contentsline {section}{\numberline {12.1}要求のまとめ}{321}{section.12.1}
-\contentsline {paragraph}{はじめに}{321}{section*.531}
-\contentsline {paragraph}{高感度の要求と解決手段}{321}{section*.532}
-\contentsline {paragraph}{高角度分解の要求と解決手段}{321}{section*.533}
-\contentsline {paragraph}{広視野の要求と解決手段}{321}{section*.534}
-\contentsline {paragraph}{広帯域の要求と解決手段}{322}{section*.535}
-\contentsline {paragraph}{日本の活動}{322}{section*.536}
-\contentsline {paragraph}{結語}{322}{section*.537}
-\contentsline {section}{\numberline {12.2}課題のまとめ}{322}{section.12.2}
-\contentsline {paragraph}{はじめに}{322}{section*.538}
-\contentsline {paragraph}{科学検討課題}{322}{section*.539}
-\contentsline {paragraph}{技術開発課題}{322}{section*.540}
-\contentsline {paragraph}{結語}{324}{section*.541}
+\contentsline {chapter}{\numberline {第1章}序章}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}SKA計画の概要}{1}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}はじめに}{1}{subsection.1.1.1}% 
+\contentsline {paragraph}{概要}{1}{section*.2}% 
+\contentsline {subsection}{\numberline {1.1.2}科学的な動機}{1}{subsection.1.1.2}% 
+\contentsline {paragraph}{センチ波・メートル波とは}{1}{section*.3}% 
+\contentsline {paragraph}{センチ波・メートル波の可能性}{1}{section*.4}% 
+\contentsline {paragraph}{SKAの科学目標}{2}{section*.5}% 
+\contentsline {subsection}{\numberline {1.1.3}科学要求と技術要求}{2}{subsection.1.1.3}% 
+\contentsline {paragraph}{科学要求}{2}{section*.6}% 
+\contentsline {paragraph}{技術要求}{3}{section*.7}% 
+\contentsline {paragraph}{要求の実現にむけて}{3}{section*.8}% 
+\contentsline {section}{\numberline {1.2}国際的なSKA計画の歩み}{4}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}組織}{4}{subsection.1.2.1}% 
+\contentsline {paragraph}{参加国}{4}{section*.9}% 
+\contentsline {paragraph}{SKA機構}{4}{section*.10}% 
+\contentsline {paragraph}{Science Working Groups (SWG)とFocus groups (FG)}{5}{section*.11}% 
+\contentsline {paragraph}{Work Package Consortia (WPC)}{5}{section*.12}% 
+\contentsline {subsection}{\numberline {1.2.2}建設地}{6}{subsection.1.2.2}% 
+\contentsline {paragraph}{建設地の決定}{6}{section*.13}% 
+\contentsline {paragraph}{アフリカの計画}{6}{section*.14}% 
+\contentsline {paragraph}{オセアニアの計画}{6}{section*.15}% 
+\contentsline {subsection}{\numberline {1.2.3}スケジュール(SKA1とSKA2)}{6}{subsection.1.2.3}% 
+\contentsline {paragraph}{建設スケジュール}{6}{section*.16}% 
+\contentsline {paragraph}{Re-Baselining Submissions (RBS)}{6}{section*.17}% 
+\contentsline {paragraph}{国際SKAサイエンスブック2015}{7}{section*.18}% 
+\contentsline {paragraph}{優先的な科学目標}{7}{section*.19}% 
+\contentsline {subsection}{\numberline {1.2.4}今後について}{8}{subsection.1.2.4}% 
+\contentsline {paragraph}{主要科学観測計画}{8}{section*.20}% 
+\contentsline {paragraph}{仮デザイン審査(PDR)を経て詳細設計へ}{8}{section*.21}% 
+\contentsline {section}{\numberline {1.3}我が国のSKA計画の歩み}{8}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}これまでの活動状況}{8}{subsection.1.3.1}% 
+\contentsline {paragraph}{我が国の参加の意義}{8}{section*.22}% 
+\contentsline {paragraph}{日本SKAコンソーシアム}{8}{section*.23}% 
+\contentsline {paragraph}{科学検討班}{9}{section*.24}% 
+\contentsline {subsection}{\numberline {1.3.2}本書について}{9}{subsection.1.3.2}% 
+\contentsline {paragraph}{編纂の経緯}{9}{section*.25}% 
+\contentsline {paragraph}{本書の範囲}{9}{section*.26}% 
+\contentsline {paragraph}{各章の内容}{9}{section*.27}% 
+\contentsline {chapter}{\numberline {第2章}宇宙再電離}{11}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}未解決のサイエンス}{11}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}宇宙晴れ上がりから暗黒時代}{11}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}暗黒時代の終焉と再電離期の始まり}{11}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}21cm線}{12}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.4}熱進化の歴史 ～大局的なシグナル～}{13}{subsection.2.1.4}% 
+\contentsline {subsubsection}{(1) $z\gtrsim 100$, $T_{{\rm K}}=T_{{\rm S}}\le T_{\gamma }$ (衝突によるカップリング期)}{13}{section*.28}% 
+\contentsline {subsubsection}{(2) $35\lesssim z\lesssim 100$, $T_{\rm K}<T_{{\rm S}}<T_{\gamma }$ (衝突によるカップリングが切れる頃)}{13}{section*.29}% 
+\contentsline {subsubsection}{(3) $z\sim 35$, $T_{\rm K}<T_{{\rm S}}\sim T_{\gamma }$ (衝突によるカップリングが切れた後)}{13}{section*.30}% 
+\contentsline {subsubsection}{(4) $25\lesssim z \lesssim 35$, $T_{\rm K}<T_{{\rm S}}<T_{\gamma }→T_{\rm K}\simeq T_{{\rm S}}<T_{\gamma }$ (Wouthuysen-Field カップリング期)}{13}{section*.31}% 
+\contentsline {subsubsection}{(5) $16\lesssim z \lesssim 25$, $T_{\rm K}=T_{{\rm S}}<T_{\gamma }→T_{\rm K}=T_{{\rm S}}>T_{\gamma }$ (X線による加熱期)}{15}{section*.32}% 
+\contentsline {subsubsection}{(6) $7\lesssim z \lesssim 16$, $T_{\rm K}=T_{{\rm S}}\gg T_{\gamma }$ (再電離期)}{15}{section*.33}% 
+\contentsline {subsection}{\numberline {2.1.5}WF効果, X線加熱, 再電離のソース}{15}{subsection.2.1.5}% 
+\contentsline {subsubsection}{(1)種族III星 $\&$ 種族II星}{15}{section*.34}% 
+\contentsline {subsubsection}{(2)Mini-quasar $\&$ AGN}{15}{section*.35}% 
+\contentsline {subsubsection}{(3) X-ray binaries}{16}{section*.36}% 
+\contentsline {subsection}{\numberline {2.1.6}輝度温度を通した観測}{16}{subsection.2.1.6}% 
+\contentsline {subsubsection}{パワースペクトル}{16}{section*.37}% 
+\contentsline {subsubsection}{他の観測量}{16}{section*.38}% 
+\contentsline {subsection}{\numberline {2.1.7}21cm線シグナルに対する前景放射}{19}{subsection.2.1.7}% 
+\contentsline {paragraph}{銀河系放射}{19}{section*.39}% 
+\contentsline {paragraph}{系外電波天体}{20}{section*.40}% 
+\contentsline {paragraph}{計算コスト}{20}{section*.41}% 
+\contentsline {subsection}{\numberline {2.1.8}現在の制限}{20}{subsection.2.1.8}% 
+\contentsline {subsubsection}{ガン-ピーターソンの谷}{20}{section*.42}% 
+\contentsline {subsubsection}{CMB散乱の光学的厚み}{21}{section*.43}% 
+\contentsline {subsubsection}{IGM温度}{21}{section*.44}% 
+\contentsline {subsubsection}{ガンマ線バースト}{21}{section*.45}% 
+\contentsline {subsubsection}{高赤方編移銀河}{21}{section*.46}% 
+\contentsline {subsubsection}{近赤外線}{21}{section*.47}% 
+\contentsline {subsubsection}{X線}{21}{section*.48}% 
+\contentsline {subsubsection}{SKAパスファインダー}{22}{section*.49}% 
+\contentsline {subsubsection}{GMRT}{22}{section*.50}% 
+\contentsline {subsubsection}{MWA}{22}{section*.51}% 
+\contentsline {subsubsection}{PAPER}{22}{section*.52}% 
+\contentsline {subsubsection}{LOFAR}{22}{section*.53}% 
+\contentsline {section}{\numberline {2.2}国際SKAのサイエンス}{22}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}再電離の物理}{22}{subsection.2.2.1}% 
+\contentsline {subsubsection}{導入}{22}{section*.54}% 
+\contentsline {subsubsection}{電離過程への洞察}{23}{section*.55}% 
+\contentsline {subsubsection}{原始銀河内において再電離に関連する諸過程}{24}{section*.56}% 
+\contentsline {subsubsection}{銀河間物質での電離過程}{24}{section*.57}% 
+\contentsline {subsection}{\numberline {2.2.2}再電離期のモデリングとSKAへ向けたシミュレーション}{25}{subsection.2.2.2}% 
+\contentsline {subsubsection}{現存するモデリングの要旨}{26}{section*.58}% 
+\contentsline {subsubsection}{SKAへ向けたシミュレーション}{27}{section*.59}% 
+\contentsline {subsection}{\numberline {2.2.3}初代銀河、Lyman-$\alpha $とX線強度の揺らぎ、スピン温度}{27}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.2.4}SKA1-lowによる再電離期の電離領域の撮像}{30}{subsection.2.2.4}% 
+\contentsline {subsubsection}{導入}{30}{section*.60}% 
+\contentsline {subsubsection}{準数値的再電離計算}{31}{section*.61}% 
+\contentsline {subsubsection}{電離領域と銀河形成}{31}{section*.62}% 
+\contentsline {subsubsection}{シミュレーション結果のSKA1-lowによる模擬観測}{31}{section*.63}% 
+\contentsline {subsubsection}{まとめ}{31}{section*.64}% 
+\contentsline {subsection}{\numberline {2.2.5}撮像観測}{33}{subsection.2.2.5}% 
+\contentsline {subsubsection}{撮像による解析}{34}{section*.65}% 
+\contentsline {subsubsection}{撮像によるサイエンス}{35}{section*.66}% 
+\contentsline {subsection}{\numberline {2.2.6}21cm forest}{35}{subsection.2.2.6}% 
+\contentsline {paragraph}{観測されるスペクトル}{36}{section*.67}% 
+\contentsline {paragraph}{シミュレーション結果}{36}{section*.68}% 
+\contentsline {paragraph}{要約および議論}{36}{section*.69}% 
+\contentsline {subsection}{\numberline {2.2.7}HIデータを用いたCDとEoRへの制限}{36}{subsection.2.2.7}% 
+\contentsline {subsubsection}{分子冷却された銀河}{39}{section*.70}% 
+\contentsline {subsubsection}{初期銀河のX線放射の性質}{39}{section*.71}% 
+\contentsline {subsubsection}{加熱期の21cm forest}{40}{section*.72}% 
+\contentsline {subsubsection}{EoRソース}{40}{section*.73}% 
+\contentsline {subsection}{\numberline {2.2.8}バリオンとダークマターの相対速度}{40}{subsection.2.2.8}% 
+\contentsline {subsection}{\numberline {2.2.9}EoR/Cosmic Dawn期の宇宙論}{42}{subsection.2.2.9}% 
+\contentsline {paragraph}{密度揺らぎの情報を用いた宇宙論パラメータへの制限}{42}{section*.74}% 
+\contentsline {paragraph}{「宇宙論的要素」と「宇宙物理的要素」の分離}{43}{section*.75}% 
+\contentsline {paragraph}{銀河間ガス温度の情報を用いた新物理の探査}{43}{section*.76}% 
+\contentsline {paragraph}{バルクフロー}{43}{section*.77}% 
+\contentsline {paragraph}{その他}{44}{section*.78}% 
+\contentsline {paragraph}{まとめ}{44}{section*.79}% 
+\contentsline {subsection}{\numberline {2.2.10}宇宙論的観測と中性水素21\nobreakspace {}cm線の相互相関}{44}{subsection.2.2.10}% 
+\contentsline {subsubsection}{CMBとの相互相関}{45}{section*.80}% 
+\contentsline {subsubsection}{高赤方偏移銀河との相互相関}{45}{section*.81}% 
+\contentsline {subsubsection}{NIRBとの相互相関}{47}{section*.82}% 
+\contentsline {subsection}{\numberline {2.2.11}平均シグナル}{47}{subsection.2.2.11}% 
+\contentsline {section}{\numberline {2.3}日本が狙うサイエンス}{49}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}既存の計算手法（21cmFASTを例にして）}{49}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}問題点}{51}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}SKA-JP 再電離班の戦略}{52}{subsection.2.3.3}% 
+\contentsline {subsubsection}{(1)日本版21 cmFASTコードの構築}{52}{section*.83}% 
+\contentsline {paragraph}{(2)低周波領域の前景放射のモデル化と除去方法の構築}{55}{section*.84}% 
+\contentsline {section}{参考文献}{56}{chapter*.85}% 
+\contentsline {section}{著者一覧}{59}{section*.86}% 
+\contentsline {chapter}{\numberline {第3章}宇宙論}{60}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}イントロダクション：標準宇宙論と未解決問題}{60}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}宇宙論の現状}{60}{subsection.3.1.1}% 
+\contentsline {paragraph}{(i) インフレーションモデルの検証}{61}{section*.87}% 
+\contentsline {paragraph}{(ii) 暗黒エネルギーの性質の解明及び修正重力理論の可能性の検証}{62}{section*.88}% 
+\contentsline {paragraph}{(iii) 暗黒物質の正体の特定}{64}{section*.89}% 
+\contentsline {subsection}{\numberline {3.1.2}宇宙論的観測手法}{64}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}他波長の将来計画}{66}{subsection.3.1.3}% 
+\contentsline {subsubsection}{マイクロ波背景放射}{66}{section*.90}% 
+\contentsline {paragraph}{重力波由来のBモード偏光スペクトルの詳細観測}{66}{section*.91}% 
+\contentsline {paragraph}{重力レンズ由来のBモード偏光観測}{66}{section*.92}% 
+\contentsline {paragraph}{スニヤエフ・ゼルドビッチ(Sunyaev-Zel'dovich; SZ)効果}{66}{section*.93}% 
+\contentsline {paragraph}{スペクトル歪みの詳細観測}{66}{section*.94}% 
+\contentsline {subsubsection}{光赤外}{67}{section*.95}% 
+\contentsline {subsubsection}{X線}{69}{section*.96}% 
+\contentsline {subsection}{\numberline {3.1.4}SKA pathfinderによる宇宙論}{70}{subsection.3.1.4}% 
+\contentsline {subsubsection}{continuum survey}{70}{section*.97}% 
+\contentsline {subsubsection}{HI survey}{70}{section*.98}% 
+\contentsline {section}{\numberline {3.2}国際SKAのサイエンス}{70}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}SKAによる宇宙論サーベイ}{70}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}バリオン音響振動}{72}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}赤方偏移空間歪み}{73}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.4}HI強度マッピング：前景放射}{75}{subsection.3.2.4}% 
+\contentsline {subsubsection}{特異値分解法(SVD)}{75}{section*.99}% 
+\contentsline {subsubsection}{カルーネン$\cdot $レーベ分解}{76}{section*.100}% 
+\contentsline {subsubsection}{独立成分分析(FastICA)}{76}{section*.101}% 
+\contentsline {subsection}{\numberline {3.2.5}HIトポロジー}{76}{subsection.3.2.5}% 
+\contentsline {subsection}{\numberline {3.2.6}超地平線スケール宇宙論}{78}{subsection.3.2.6}% 
+\contentsline {subsubsection}{宇宙論的な大スケールを探査する重要性}{78}{section*.102}% 
+\contentsline {subsubsection}{宇宙論的な大スケールの観測手法}{80}{section*.103}% 
+\contentsline {paragraph}{再イオン化期後の強度マッピング}{80}{section*.104}% 
+\contentsline {paragraph}{再イオン化期における強度マッピング}{80}{section*.105}% 
+\contentsline {paragraph}{マルチトレーサー法}{80}{section*.106}% 
+\contentsline {subsection}{\numberline {3.2.7}弱重力レンズ}{81}{subsection.3.2.7}% 
+\contentsline {subsubsection}{銀河の弱重力レンズ効果の測定}{81}{section*.107}% 
+\contentsline {subsubsection}{銀河楕円率推定のシミュレーション}{83}{section*.108}% 
+\contentsline {subsubsection}{中性水素ガスの$21$cm線放射強度における重力レンズ効果}{84}{section*.109}% 
+\contentsline {subsection}{\numberline {3.2.8}銀河団宇宙論}{84}{subsection.3.2.8}% 
+\contentsline {subsubsection}{SZ効果と$21$cm線}{85}{section*.110}% 
+\contentsline {subsubsection}{SKAを用いた銀河団探査}{85}{section*.111}% 
+\contentsline {subsection}{\numberline {3.2.9}宇宙原理}{86}{subsection.3.2.9}% 
+\contentsline {subsubsection}{宇宙論的な電波双極子}{87}{section*.112}% 
+\contentsline {subsubsection}{大角度スケール}{87}{section*.113}% 
+\contentsline {subsubsection}{コペルニクス原理と一様性}{87}{section*.114}% 
+\contentsline {section}{\numberline {3.3}日本が狙うサイエンス}{88}{section.3.3}% 
+\contentsline {section}{参考文献}{97}{chapter*.115}% 
+\contentsline {section}{著者一覧}{99}{section*.116}% 
+\contentsline {chapter}{\numberline {第4章}銀河進化}{100}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}銀河の「進化」とは}{100}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}銀河進化研究の現状 -- 伝統的方法論とその限界 --}{102}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}銀河進化研究の現状 -- 銀河におけるHIガス --}{104}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}水素原子と水素分子}{104}{subsection.4.3.1}% 
+\contentsline {subsubsection}{水素分子の生成}{104}{section*.117}% 
+\contentsline {subsubsection}{水素分子の解離}{105}{section*.118}% 
+\contentsline {subsubsection}{銀河における水素分子と水素原子}{106}{section*.119}% 
+\contentsline {subsection}{\numberline {4.3.2}渦巻銀河のHIガス}{107}{subsection.4.3.2}% 
+\contentsline {subsubsection}{空間分布}{107}{section*.120}% 
+\contentsline {subsubsection}{H\tmspace +\thinmuskip {.1667em}{\sc i}ガス質量}{108}{section*.121}% 
+\contentsline {subsubsection}{力学情報}{109}{section*.122}% 
+\contentsline {subsubsection}{タリー--フィッシャー関係}{109}{section*.123}% 
+\contentsline {subsection}{\numberline {4.3.3}早期型銀河のHIガス}{111}{subsection.4.3.3}% 
+\contentsline {subsubsection}{早期型銀河のH\tmspace +\thinmuskip {.1667em}{\sc i}観測}{111}{section*.124}% 
+\contentsline {subsubsection}{単一鏡観測}{111}{section*.125}% 
+\contentsline {subsubsection}{干渉計観測}{112}{section*.126}% 
+\contentsline {subsubsection}{ATLAS$^{\rm 3D}$サンプルに対するH\tmspace +\thinmuskip {.1667em}{\sc i}サーベイ}{112}{section*.127}% 
+\contentsline {subsection}{\numberline {4.3.4}矮小銀河のHIガス}{113}{subsection.4.3.4}% 
+\contentsline {subsubsection}{矮小銀河に対するHIサーベイ}{114}{section*.128}% 
+\contentsline {subsubsection}{(i) ガスリッチな矮小銀河の存在 (SHIELD)}{114}{section*.129}% 
+\contentsline {subsubsection}{(ii) 極端な環境下でのクラウド・星形成 (VLA-ANGST, LITTLE THINGS, FIGGS)}{115}{section*.130}% 
+\contentsline {subsubsection}{(iii) 矮小銀河のタリー・フィッシャー、バリオン タリー・フィッシャー関係}{115}{section*.131}% 
+\contentsline {subsubsection}{(iv) ダークマター分布}{115}{section*.132}% 
+\contentsline {subsection}{\numberline {4.3.5}様々な種族にまたがるサーベイ(銀河進化の統計的、統一的理解に向けて)}{115}{subsection.4.3.5}% 
+\contentsline {subsubsection}{GALEX Arecibo SDSS Survey (GASS)}{115}{section*.133}% 
+\contentsline {paragraph}{(i) HIガスの割合 \citep {2010MNRAS.403..683C,2012MNRAS.420.1959C}}{116}{section*.134}% 
+\contentsline {paragraph}{(ii) 星形成効率 \citep {2010MNRAS.408..919S}}{116}{section*.135}% 
+\contentsline {paragraph}{(iii) 銀河円盤の``inside-out formation'' \citep {2011MNRAS.412.1081W}}{116}{section*.136}% 
+\contentsline {paragraph}{(iv) バリオン質量--速度--サイズ関係 \citep {2012A&A...544A..65C}}{116}{section*.137}% 
+\contentsline {paragraph}{(v) 銀河外縁部での金属汚染 \citep {2012ApJ...745...66M}}{117}{section*.138}% 
+\contentsline {paragraph}{(vi) 異なる星質量ごとでのH I質量関数 \citep {2013ApJ...776...74L}}{117}{section*.139}% 
+\contentsline {paragraph}{(vii) 環境効果 \citep {2013MNRAS.436...34C}}{117}{section*.140}% 
+\contentsline {subsubsection}{中間赤方偏移($0.1<z<1.0$)}{117}{section*.141}% 
+\contentsline {paragraph}{(i) BUDHIESサーベイ \citep {2007ApJ...668L...9V}}{117}{section*.142}% 
+\contentsline {paragraph}{(ii) CHILESサーベイ \citep {2013ApJ...770L..29F}}{118}{section*.143}% 
+\contentsline {paragraph}{(iii) スタッキングによる結果}{118}{section*.144}% 
+\contentsline {subsection}{\numberline {4.3.6}高赤方偏移へ: 水素原子吸収線系による銀河進化の解明}{119}{subsection.4.3.6}% 
+\contentsline {section}{\numberline {4.4}銀河進化研究の現状 -- 電波領域における多波長・他輝線による銀河の観測的研究 --}{121}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}水素原子以外の電波輝線}{121}{subsection.4.4.1}% 
+\contentsline {subsubsection}{H$_2$Oメーザー}{121}{section*.145}% 
+\contentsline {subsubsection}{NH$_3$線}{121}{section*.146}% 
+\contentsline {subsubsection}{CO吸収線}{122}{section*.147}% 
+\contentsline {subsection}{\numberline {4.4.2}電波連続波で探査する銀河進化史}{122}{subsection.4.4.2}% 
+\contentsline {section}{\numberline {4.5}国際SKAのサイエンス}{125}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}水素原子吸収線系で探る銀河進化}{125}{subsection.4.5.1}% 
+\contentsline {paragraph}{AGNに附随するガス}{125}{section*.148}% 
+\contentsline {paragraph}{吸収線系}{125}{section*.149}% 
+\contentsline {subsection}{\numberline {4.5.2}電波再結合線で探る冷たい中性水素雲}{126}{subsection.4.5.2}% 
+\contentsline {subsection}{\numberline {4.5.3}電波連続波で探る銀河進化}{127}{subsection.4.5.3}% 
+\contentsline {section}{\numberline {4.6}日本が狙うサイエンス}{130}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}近傍銀河: 星間物質の性質$\cdot $進化、星形成の統一的理解}{130}{subsection.4.6.1}% 
+\contentsline {subsection}{\numberline {4.6.2}ガス、ダスト及び星形成を結ぶ拡張スケーリング則の探索と理論化}{132}{subsection.4.6.2}% 
+\contentsline {subsection}{\numberline {4.6.3}水素原子21 cm吸収線系で探る銀河進化}{135}{subsection.4.6.3}% 
+\contentsline {section}{参考文献}{138}{chapter*.150}% 
+\contentsline {section}{著者一覧}{142}{section*.151}% 
+\contentsline {chapter}{\numberline {第5章}パルサー}{143}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}パルサー研究の現状と未解決問題}{143}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}パルサーの多様性}{143}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}パルサー磁気圏}{144}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}パルサーによる重力波検出}{145}{subsection.5.1.3}% 
+\contentsline {subsection}{\numberline {5.1.4}パルサーによる一般相対論検証}{146}{subsection.5.1.4}% 
+\contentsline {subsection}{\numberline {5.1.5}パルサーを用いた銀河系磁場構造探索}{148}{subsection.5.1.5}% 
+\contentsline {subsection}{\numberline {5.1.6}Giant Radio Pulses}{150}{subsection.5.1.6}% 
+\contentsline {section}{\numberline {5.2}国際SKAのサイエンス}{150}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}SKAを用いたパルサー探査}{151}{subsection.5.2.1}% 
+\contentsline {subsubsection}{複数のアンテナを用いた高感度探査}{151}{section*.152}% 
+\contentsline {subsubsection}{SKA-Low と SKA-Mid の連携}{152}{section*.153}% 
+\contentsline {subsubsection}{まとめ}{152}{section*.154}% 
+\contentsline {subsection}{\numberline {5.2.2}天の川銀河中心のパルサー}{153}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.3}SKAによる重力波天文学}{154}{subsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5.2.4}Tests of Gravity with Pulsars (パルサーによる重力理論の検証)}{156}{subsection.5.2.4}% 
+\contentsline {subsection}{\numberline {5.2.5}パルサー磁気圏}{158}{subsection.5.2.5}% 
+\contentsline {subsubsection}{Introduction}{158}{section*.155}% 
+\contentsline {subsubsection}{Pulsar life}{158}{section*.156}% 
+\contentsline {subsubsection}{geometry}{158}{section*.157}% 
+\contentsline {subsubsection}{3D beam}{159}{section*.158}% 
+\contentsline {subsubsection}{millisecond pulsar}{160}{section*.159}% 
+\contentsline {subsubsection}{磁気圏の状態遷移}{160}{section*.160}% 
+\contentsline {subsection}{\numberline {5.2.6}Structure and the Magnetoionic Interstellar Medium}{160}{subsection.5.2.6}% 
+\contentsline {section}{\numberline {5.3}日本のサイエンス}{162}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}パルサーによる重力理論の検証}{162}{subsection.5.3.1}% 
+\contentsline {subsection}{\numberline {5.3.2}パルサーペアを用いた銀河系の磁場構造解析}{163}{subsection.5.3.2}% 
+\contentsline {subsection}{\numberline {5.3.3}SKAとGiant Radio Pulses}{164}{subsection.5.3.3}% 
+\contentsline {section}{参考文献}{168}{chapter*.161}% 
+\contentsline {section}{著者一覧}{170}{section*.162}% 
+\contentsline {chapter}{\numberline {第6章}宇宙磁場}{171}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}現状の科学的課題}{171}{section.6.1}% 
+\contentsline {paragraph}{はじめに}{171}{section*.163}% 
+\contentsline {subsection}{\numberline {6.1.1}磁場研究の物理量}{171}{subsection.6.1.1}% 
+\contentsline {subsubsection}{シンクロトロン放射}{171}{section*.164}% 
+\contentsline {paragraph}{放射の式}{171}{section*.165}% 
+\contentsline {paragraph}{強度の周波数依存性}{172}{section*.166}% 
+\contentsline {paragraph}{偏波率}{172}{section*.167}% 
+\contentsline {paragraph}{偏波角}{172}{section*.168}% 
+\contentsline {subsubsection}{直線偏波ファラデー回転}{172}{section*.169}% 
+\contentsline {paragraph}{回転測度RM}{172}{section*.170}% 
+\contentsline {paragraph}{RMの全天カタログ}{173}{section*.171}% 
+\contentsline {paragraph}{RMの観測可能範囲}{173}{section*.172}% 
+\contentsline {subsubsection}{偏波解消}{174}{section*.173}% 
+\contentsline {paragraph}{原理}{174}{section*.174}% 
+\contentsline {paragraph}{Burnの法則}{174}{section*.175}% 
+\contentsline {paragraph}{偏波解消の回避}{175}{section*.176}% 
+\contentsline {subsubsection}{ファラデートモグラフィー}{175}{section*.177}% 
+\contentsline {paragraph}{原理}{175}{section*.178}% 
+\contentsline {paragraph}{ファラデートモグラフィーの実用}{176}{section*.179}% 
+\contentsline {paragraph}{ファラデートモグラフィーの分解能と範囲}{176}{section*.180}% 
+\contentsline {subsection}{\numberline {6.1.2}星間・天の川銀河磁場の科学的課題}{177}{subsection.6.1.2}% 
+\contentsline {subsubsection}{はじめに}{177}{section*.181}% 
+\contentsline {paragraph}{天の川銀河と星間ガス}{177}{section*.182}% 
+\contentsline {paragraph}{星間ガスが帯びる磁場}{177}{section*.183}% 
+\contentsline {paragraph}{星間磁場と宇宙線の関係}{178}{section*.184}% 
+\contentsline {subsubsection}{星間磁場の理論}{178}{section*.185}% 
+\contentsline {paragraph}{磁場の起源と2つの不安定性}{178}{section*.186}% 
+\contentsline {paragraph}{磁気回転不安定性}{178}{section*.187}% 
+\contentsline {paragraph}{パーカー不安定性}{178}{section*.188}% 
+\contentsline {subsubsection}{星間磁場の観測}{178}{section*.189}% 
+\contentsline {paragraph}{パルサー観測}{178}{section*.190}% 
+\contentsline {paragraph}{背景の系外偏波源観測}{179}{section*.191}% 
+\contentsline {paragraph}{課題}{179}{section*.192}% 
+\contentsline {subsection}{\numberline {6.1.3}系外銀河磁場の科学的課題}{179}{subsection.6.1.3}% 
+\contentsline {subsubsection}{はじめに}{179}{section*.193}% 
+\contentsline {paragraph}{系外銀河と磁場}{179}{section*.194}% 
+\contentsline {subsubsection}{系外銀河磁場の理論}{179}{section*.195}% 
+\contentsline {subsubsection}{近傍の系外銀河磁場の観測}{180}{section*.196}% 
+\contentsline {paragraph}{大局磁場}{180}{section*.197}% 
+\contentsline {paragraph}{乱流磁場}{180}{section*.198}% 
+\contentsline {paragraph}{ハロー磁場}{180}{section*.199}% 
+\contentsline {paragraph}{銀河形態と磁場}{180}{section*.200}% 
+\contentsline {paragraph}{磁場とガス力学}{180}{section*.201}% 
+\contentsline {paragraph}{電波-遠赤外線の相関}{180}{section*.202}% 
+\contentsline {paragraph}{課題}{181}{section*.203}% 
+\contentsline {subsubsection}{遠方の系外銀河磁場の観測}{181}{section*.204}% 
+\contentsline {paragraph}{観測の現状}{181}{section*.205}% 
+\contentsline {paragraph}{課題}{181}{section*.206}% 
+\contentsline {subsection}{\numberline {6.1.4}AGN・ジェット磁場の科学的課題}{181}{subsection.6.1.4}% 
+\contentsline {subsubsection}{はじめに}{181}{section*.207}% 
+\contentsline {paragraph}{活動銀河中心核(AGN)}{181}{section*.208}% 
+\contentsline {paragraph}{AGNの分類}{181}{section*.209}% 
+\contentsline {paragraph}{宇宙ジェット}{182}{section*.210}% 
+\contentsline {subsubsection}{AGN・ジェット磁場の理論}{182}{section*.211}% 
+\contentsline {paragraph}{ジェットのメカニズム}{182}{section*.212}% 
+\contentsline {paragraph}{AGN・ジェットの役割}{182}{section*.213}% 
+\contentsline {subsubsection}{AGN・ジェット磁場の観測}{182}{section*.214}% 
+\contentsline {paragraph}{これまでの電波観測}{182}{section*.215}% 
+\contentsline {paragraph}{課題}{183}{section*.216}% 
+\contentsline {subsection}{\numberline {6.1.5}銀河団磁場の科学的課題}{183}{subsection.6.1.5}% 
+\contentsline {subsubsection}{はじめに}{183}{section*.217}% 
+\contentsline {paragraph}{銀河団と銀河団物質}{183}{section*.218}% 
+\contentsline {paragraph}{銀河団磁場}{183}{section*.219}% 
+\contentsline {subsubsection}{銀河団磁場の理論}{183}{section*.220}% 
+\contentsline {paragraph}{ファラデー回転と磁場のモデル}{183}{section*.221}% 
+\contentsline {paragraph}{電波放射の起源}{184}{section*.222}% 
+\contentsline {subsubsection}{銀河団磁場の観測}{184}{section*.223}% 
+\contentsline {paragraph}{これまでの電波観測}{184}{section*.224}% 
+\contentsline {paragraph}{課題１：ファラデー回転}{184}{section*.225}% 
+\contentsline {paragraph}{課題２：シンクロトロン放射}{184}{section*.226}% 
+\contentsline {paragraph}{課題３：視線上の構造}{184}{section*.227}% 
+\contentsline {subsection}{\numberline {6.1.6}宇宙大規模構造磁場の科学的課題}{185}{subsection.6.1.6}% 
+\contentsline {subsubsection}{はじめに}{185}{section*.228}% 
+\contentsline {paragraph}{中高温銀河間物質}{185}{section*.229}% 
+\contentsline {paragraph}{銀河間磁場}{185}{section*.230}% 
+\contentsline {subsubsection}{宇宙大規模構造磁場の理論}{185}{section*.231}% 
+\contentsline {paragraph}{宇宙論的起源}{185}{section*.232}% 
+\contentsline {paragraph}{天体起源}{185}{section*.233}% 
+\contentsline {paragraph}{構造形成起源}{186}{section*.234}% 
+\contentsline {subsubsection}{宇宙大規模構造磁場の観測}{186}{section*.235}% 
+\contentsline {paragraph}{可能な方法}{186}{section*.236}% 
+\contentsline {paragraph}{ファラデー回転}{186}{section*.237}% 
+\contentsline {paragraph}{シンクロトロン放射}{186}{section*.238}% 
+\contentsline {paragraph}{課題}{187}{section*.239}% 
+\contentsline {subsection}{\numberline {6.1.7}宇宙論的磁場の科学的課題}{187}{subsection.6.1.7}% 
+\contentsline {subsubsection}{はじめに}{187}{section*.240}% 
+\contentsline {paragraph}{宇宙最初の磁場：初期宇宙起源}{187}{section*.241}% 
+\contentsline {subsubsection}{宇宙論的磁場の理論}{187}{section*.242}% 
+\contentsline {paragraph}{インフレーション起源}{187}{section*.243}% 
+\contentsline {paragraph}{インフレーション起源の問題}{187}{section*.244}% 
+\contentsline {paragraph}{インフレーション以外の磁場生成起源}{189}{section*.245}% 
+\contentsline {paragraph}{再結合時の磁場生成}{189}{section*.246}% 
+\contentsline {paragraph}{今後の理論的課題}{189}{section*.247}% 
+\contentsline {subsubsection}{宇宙論的磁場の観測}{189}{section*.248}% 
+\contentsline {paragraph}{これまでの観測}{189}{section*.249}% 
+\contentsline {paragraph}{課題}{189}{section*.250}% 
+\contentsline {subsection}{\numberline {6.1.8}ファラデートモグラフィーの科学的課題}{190}{subsection.6.1.8}% 
+\contentsline {subsubsection}{はじめに}{190}{section*.251}% 
+\contentsline {paragraph}{ファラデートモグラフィーで何がわかるか？}{190}{section*.252}% 
+\contentsline {paragraph}{銀河磁場研究への適用}{190}{section*.253}% 
+\contentsline {paragraph}{銀河間磁場研究への適用}{190}{section*.254}% 
+\contentsline {paragraph}{２つの逆問題}{190}{section*.255}% 
+\contentsline {subsubsection}{ファラデートモグラフィーの理論的課題1}{191}{section*.256}% 
+\contentsline {paragraph}{ファラデースペクトルの再構築}{191}{section*.257}% 
+\contentsline {paragraph}{逆変換法}{191}{section*.258}% 
+\contentsline {paragraph}{モデルフィット法}{191}{section*.259}% 
+\contentsline {paragraph}{比較プロジェクト}{192}{section*.260}% 
+\contentsline {subsubsection}{ファラデートモグラフィーの理論的課題2}{192}{section*.261}% 
+\contentsline {paragraph}{ファラデースペクトルの解釈}{192}{section*.262}% 
+\contentsline {section}{\numberline {6.2}国際SKAの科学的課題}{193}{section.6.2}% 
+\contentsline {subsection}{\numberline {6.2.1}国際SKAサイエンスの概要}{193}{subsection.6.2.1}% 
+\contentsline {subsubsection}{科学的課題}{193}{section*.263}% 
+\contentsline {paragraph}{論文リスト}{193}{section*.264}% 
+\contentsline {subsubsection}{観測の見通し}{194}{section*.265}% 
+\contentsline {paragraph}{観測されたRMグリッド数}{194}{section*.266}% 
+\contentsline {paragraph}{予想されるRMグリッド数}{194}{section*.267}% 
+\contentsline {subsection}{\numberline {6.2.2}星間・天の川銀河磁場}{195}{subsection.6.2.2}% 
+\contentsline {subsubsection}{科学的課題}{195}{section*.268}% 
+\contentsline {paragraph}{大局磁場}{195}{section*.269}% 
+\contentsline {paragraph}{円盤磁場}{195}{section*.270}% 
+\contentsline {paragraph}{乱流磁場}{195}{section*.271}% 
+\contentsline {paragraph}{ハロー磁場}{195}{section*.272}% 
+\contentsline {paragraph}{銀河中心磁場}{195}{section*.273}% 
+\contentsline {paragraph}{星形成領域の磁場}{196}{section*.274}% 
+\contentsline {paragraph}{超新星残骸の磁場}{196}{section*.275}% 
+\contentsline {paragraph}{HII領域の磁場}{196}{section*.276}% 
+\contentsline {paragraph}{星雲の磁場}{196}{section*.277}% 
+\contentsline {paragraph}{ファラデースクリーン}{196}{section*.278}% 
+\contentsline {subsubsection}{観測の見通し}{196}{section*.279}% 
+\contentsline {paragraph}{SKA1の見通し}{196}{section*.280}% 
+\contentsline {paragraph}{SKA2の見通し}{197}{section*.281}% 
+\contentsline {subsection}{\numberline {6.2.3}系外銀河磁場}{197}{subsection.6.2.3}% 
+\contentsline {subsubsection}{科学的課題}{197}{section*.282}% 
+\contentsline {paragraph}{近傍銀河}{197}{section*.283}% 
+\contentsline {paragraph}{遠方銀河(深探査)}{197}{section*.284}% 
+\contentsline {paragraph}{遠方銀河(広帯域観測1)}{197}{section*.285}% 
+\contentsline {paragraph}{遠方銀河(広帯域観測2)}{198}{figure.6.9}% 
+\contentsline {subsubsection}{観測の見通し}{198}{section*.287}% 
+\contentsline {paragraph}{近傍銀河}{198}{section*.288}% 
+\contentsline {paragraph}{遠方銀河(深探査)}{199}{figure.6.10}% 
+\contentsline {paragraph}{遠方銀河(広帯域観測1)}{199}{section*.290}% 
+\contentsline {paragraph}{遠方銀河(広帯域観測2)}{199}{section*.291}% 
+\contentsline {subsection}{\numberline {6.2.4}AGN・ジェット磁場}{200}{subsection.6.2.4}% 
+\contentsline {subsubsection}{科学的課題}{200}{section*.292}% 
+\contentsline {paragraph}{RL-AGN、RQ-AGNと放射}{200}{section*.293}% 
+\contentsline {paragraph}{ブレーザーと放射}{200}{section*.294}% 
+\contentsline {paragraph}{RL-クエーサーと放射}{200}{section*.295}% 
+\contentsline {paragraph}{FRI、FRII電波銀河と放射}{200}{section*.296}% 
+\contentsline {paragraph}{ジェットの形成と変動}{200}{section*.297}% 
+\contentsline {paragraph}{ジェットの速度場と粒子加速}{201}{section*.298}% 
+\contentsline {paragraph}{ジェット磁場のトポロジー}{201}{section*.299}% 
+\contentsline {paragraph}{フィードバック}{201}{section*.300}% 
+\contentsline {subsubsection}{観測の見通し}{201}{section*.301}% 
+\contentsline {paragraph}{SKA1の見通し}{201}{section*.302}% 
+\contentsline {paragraph}{円偏波の観測}{202}{section*.303}% 
+\contentsline {paragraph}{深探査1}{202}{section*.304}% 
+\contentsline {paragraph}{深探査2}{203}{section*.305}% 
+\contentsline {paragraph}{広帯域観測1}{203}{section*.306}% 
+\contentsline {paragraph}{広帯域観測2}{204}{section*.307}% 
+\contentsline {subsection}{\numberline {6.2.5}銀河団磁場}{204}{subsection.6.2.5}% 
+\contentsline {subsubsection}{科学的課題}{204}{section*.308}% 
+\contentsline {paragraph}{起源と進化}{204}{section*.309}% 
+\contentsline {paragraph}{磁場の構造}{204}{section*.310}% 
+\contentsline {paragraph}{モデルの構築}{204}{section*.311}% 
+\contentsline {paragraph}{RM構造}{205}{section*.312}% 
+\contentsline {paragraph}{電波ハロー}{205}{section*.313}% 
+\contentsline {subsubsection}{観測の見通し}{205}{section*.314}% 
+\contentsline {paragraph}{SKA1の見通し}{205}{section*.315}% 
+\contentsline {paragraph}{SKA2の見通し}{206}{section*.316}% 
+\contentsline {subsection}{\numberline {6.2.6}宇宙大規模構造磁場}{206}{subsection.6.2.6}% 
+\contentsline {subsubsection}{科学的課題}{206}{section*.317}% 
+\contentsline {paragraph}{銀河間磁場の理論予測}{206}{section*.318}% 
+\contentsline {paragraph}{銀河間磁場のRMの理論予測}{206}{figure.6.13}% 
+\contentsline {subsubsection}{観測の見通し}{207}{section*.320}% 
+\contentsline {paragraph}{SKA1の深探査}{207}{section*.321}% 
+\contentsline {paragraph}{統計的なアプローチ}{207}{section*.322}% 
+\contentsline {paragraph}{ファラデートモグラフィー}{207}{section*.323}% 
+\contentsline {subsection}{\numberline {6.2.7}宇宙論的磁場}{207}{subsection.6.2.7}% 
+\contentsline {subsubsection}{科学的課題}{207}{section*.324}% 
+\contentsline {paragraph}{スタック解析}{207}{section*.325}% 
+\contentsline {paragraph}{スタック解析の結果}{208}{section*.326}% 
+\contentsline {subsubsection}{観測の見通し}{208}{section*.327}% 
+\contentsline {paragraph}{SKA1の見通し}{208}{section*.328}% 
+\contentsline {subsection}{\numberline {6.2.8}ファラデートモグラフィー}{208}{subsection.6.2.8}% 
+\contentsline {subsubsection}{科学的課題}{208}{section*.329}% 
+\contentsline {section}{\numberline {6.3}日本が狙う科学的課題}{209}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}はじめに}{209}{subsection.6.3.1}% 
+\contentsline {paragraph}{宇宙磁場研究の本質：多様性と普遍性}{209}{section*.330}% 
+\contentsline {paragraph}{国際SKA宇宙磁場科学検討班の戦略}{209}{section*.331}% 
+\contentsline {paragraph}{日本SKA宇宙磁場科学検討班の戦略}{209}{section*.332}% 
+\contentsline {paragraph}{日本の優位性}{209}{section*.333}% 
+\contentsline {paragraph}{日本が狙う科学的課題}{209}{section*.334}% 
+\contentsline {paragraph}{日本が参画すべき開発}{210}{section*.335}% 
+\contentsline {paragraph}{日本の様々な観測計画との強力}{210}{section*.336}% 
+\contentsline {paragraph}{日本の宇宙磁場研究の科学・技術要求の要約}{210}{section*.337}% 
+\contentsline {subsection}{\numberline {6.3.2}銀河磁場の起源と進化}{211}{subsection.6.3.2}% 
+\contentsline {paragraph}{銀河磁場の物理}{211}{section*.338}% 
+\contentsline {paragraph}{宇宙線の影響と星形成}{211}{section*.339}% 
+\contentsline {paragraph}{銀極・ハロー磁場構造の観測}{212}{section*.340}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{212}{section*.341}% 
+\contentsline {subsection}{\numberline {6.3.3}近傍銀河の4次元磁場構造}{212}{subsection.6.3.3}% 
+\contentsline {paragraph}{銀河の円盤磁場}{212}{section*.342}% 
+\contentsline {paragraph}{銀河の垂直磁場}{212}{section*.343}% 
+\contentsline {paragraph}{近傍系外銀河のシンクロトロン放射の観測}{213}{section*.344}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{213}{section*.345}% 
+\contentsline {paragraph}{他観測とのシナジー効果}{213}{section*.346}% 
+\contentsline {subsection}{\numberline {6.3.4}遠方銀河の偏波特性}{213}{subsection.6.3.4}% 
+\contentsline {paragraph}{介在銀河による偏波解消}{213}{section*.347}% 
+\contentsline {paragraph}{偏波解消の観測}{214}{section*.348}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{214}{section*.349}% 
+\contentsline {subsection}{\numberline {6.3.5}ジェットの磁場構造}{214}{subsection.6.3.5}% 
+\contentsline {paragraph}{ジェット構造の初期磁場依存性}{214}{section*.350}% 
+\contentsline {paragraph}{AGNジェットの観測}{214}{section*.351}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{214}{section*.352}% 
+\contentsline {subsection}{\numberline {6.3.6}銀河団乱流の形成と進化の解明}{215}{subsection.6.3.6}% 
+\contentsline {paragraph}{ファラデー回転の観測と乱流磁場}{215}{section*.353}% 
+\contentsline {paragraph}{X線形態分類}{215}{section*.354}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{215}{section*.355}% 
+\contentsline {subsection}{\numberline {6.3.7}銀河団電波ハローの多波長観測}{216}{subsection.6.3.7}% 
+\contentsline {paragraph}{銀河団の多波長観測}{216}{section*.356}% 
+\contentsline {paragraph}{他波長から得られる情報}{216}{section*.357}% 
+\contentsline {paragraph}{電波ハローの観測}{216}{section*.358}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{216}{section*.359}% 
+\contentsline {subsection}{\numberline {6.3.8}銀河団電波レリックの起源の解明}{217}{subsection.6.3.8}% 
+\contentsline {paragraph}{電波レリックの物理}{217}{section*.360}% 
+\contentsline {paragraph}{電波レリックの観測1}{217}{section*.361}% 
+\contentsline {paragraph}{電波レリックの観測2}{217}{section*.362}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{217}{section*.363}% 
+\contentsline {subsection}{\numberline {6.3.9}宇宙大規模構造の探査}{218}{subsection.6.3.9}% 
+\contentsline {paragraph}{統計的な推定}{218}{section*.364}% 
+\contentsline {paragraph}{背景偏波源の観測}{218}{section*.365}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{219}{section*.366}% 
+\contentsline {subsection}{\numberline {6.3.10}宇宙論的磁場生成}{219}{subsection.6.3.10}% 
+\contentsline {paragraph}{晴れ上がり期の2次オーダーの密度揺らぎ}{220}{section*.367}% 
+\contentsline {paragraph}{晴れ上がり期の位相欠陥}{220}{section*.368}% 
+\contentsline {paragraph}{天体形成時での磁場生成}{220}{section*.369}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{220}{section*.370}% 
+\contentsline {subsection}{\numberline {6.3.11}宇宙磁場の宇宙論的進化}{222}{subsection.6.3.11}% 
+\contentsline {paragraph}{RMと赤方偏移}{222}{section*.371}% 
+\contentsline {paragraph}{成分ごとの進化史}{222}{section*.372}% 
+\contentsline {paragraph}{背景偏波源の観測}{222}{section*.373}% 
+\contentsline {paragraph}{偏波解消とトモグラフィーへの期待}{222}{section*.374}% 
+\contentsline {subsection}{\numberline {6.3.12}トモグラフィーの諸問題の改善}{222}{subsection.6.3.12}% 
+\contentsline {paragraph}{トモグラフィーのコード開発実績}{222}{section*.375}% 
+\contentsline {paragraph}{レプリカ交換モンテカルロ法}{223}{section*.376}% 
+\contentsline {paragraph}{使用するモデルの関数形}{223}{section*.377}% 
+\contentsline {paragraph}{RM CLEANの応用}{223}{section*.378}% 
+\contentsline {subsection}{\numberline {6.3.13}さらなるシナジーを求めて}{223}{subsection.6.3.13}% 
+\contentsline {paragraph}{太陽・恒星の偏波解析による磁場の導出}{223}{section*.379}% 
+\contentsline {paragraph}{最高エネルギー宇宙線の磁場による偏向の解明}{224}{figure.6.18}% 
+\contentsline {paragraph}{再電離21cm線前景放射の除去}{225}{section*.381}% 
+\contentsline {paragraph}{宇宙マイクロ波背景放射}{225}{section*.382}% 
+\contentsline {section}{参考文献}{226}{chapter*.383}% 
+\contentsline {section}{著者一覧}{230}{section*.384}% 
+\contentsline {chapter}{\numberline {第7章}近傍宇宙時空計測}{231}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}次世代高精度位置計測が切り開く天文学研究}{231}{section.7.1}% 
+\contentsline {subsection}{\numberline {7.1.1}時代が経っても揺るがない天体位置計測継続の重要性}{231}{subsection.7.1.1}% 
+\contentsline {subsection}{\numberline {7.1.2}高精度位置計測対象電波源の個数増大と多様化}{233}{subsection.7.1.2}% 
+\contentsline {section}{\numberline {7.2}SKAに向けた電波源高精度位置計測における技術的検討項目}{235}{section.7.2}% 
+\contentsline {subsection}{\numberline {7.2.1}VLBI観測装置}{235}{subsection.7.2.1}% 
+\contentsline {paragraph}{広帯域受信系（フィード及び受信機）}{236}{section*.385}% 
+\contentsline {paragraph}{アンテナビーム}{236}{section*.386}% 
+\contentsline {paragraph}{周波数標準装置}{236}{section*.387}% 
+\contentsline {paragraph}{複数アンテナ受信信号の加算--- phase-up}{236}{section*.388}% 
+\contentsline {paragraph}{受信信号記録装置}{236}{section*.389}% 
+\contentsline {paragraph}{高精度天体位置計測用校正データ}{237}{section*.390}% 
+\contentsline {subsection}{\numberline {7.2.2}VLBI観測局配置}{237}{subsection.7.2.2}% 
+\contentsline {subsection}{\numberline {7.2.3}データ校正法・電波源位置計測法}{238}{subsection.7.2.3}% 
+\contentsline {subsection}{\numberline {7.2.4}長波長帯における高精度天体位置計測の実現性}{240}{subsection.7.2.4}% 
+\contentsline {subsection}{\numberline {7.2.5}測量用校正電波源}{240}{subsection.7.2.5}% 
+\contentsline {subsection}{\numberline {7.2.6}天球電波座標系}{241}{subsection.7.2.6}% 
+\contentsline {section}{\numberline {7.3}国際SKAのサイエンス}{242}{section.7.3}% 
+\contentsline {subsection}{\numberline {7.3.1}パルサーに対する年周視差・固有運動計測}{242}{subsection.7.3.1}% 
+\contentsline {subsection}{\numberline {7.3.2}天の川渦状腕内部の詳細構造}{242}{subsection.7.3.2}% 
+\contentsline {paragraph}{天の川銀河南天域にわたる基本的構造の把握}{243}{section*.391}% 
+\contentsline {paragraph}{Spiral arm tomography}{243}{section*.392}% 
+\contentsline {subsection}{\numberline {7.3.3}OHメーザー源に対する位置計測と天の川銀河全体の構造の把握}{244}{subsection.7.3.3}% 
+\contentsline {subsection}{\numberline {7.3.4}局所銀河群(The Local Group) 中銀河の固有運動}{247}{subsection.7.3.4}% 
+\contentsline {subsection}{\numberline {7.3.5}高精度天球基準座標系構築で生み出されるサイエンス}{248}{subsection.7.3.5}% 
+\contentsline {paragraph}{銀河光行差}{248}{section*.393}% 
+\contentsline {paragraph}{天体位置計測上のマイクロレンズ現象}{248}{section*.394}% 
+\contentsline {section}{\numberline {7.4}日本が狙うサイエンス}{249}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}天の川銀河の薄い円盤と渦状腕のパターン速度の推定}{249}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}天の川銀河の厚い円盤で見られる物質循環}{250}{subsection.7.4.2}% 
+\contentsline {subsection}{\numberline {7.4.3}天の川銀河バルジ}{250}{subsection.7.4.3}% 
+\contentsline {subsection}{\numberline {7.4.4}天の川--マゼラン銀河系の力学進化と物質進化}{252}{subsection.7.4.4}% 
+\contentsline {subsection}{\numberline {7.4.5}天の川--マゼラン銀河系における電子密度・磁場分布の把握}{255}{subsection.7.4.5}% 
+\contentsline {subsection}{\numberline {7.4.6}「未同定天体」の位置計測に基づく同定}{256}{subsection.7.4.6}% 
+\contentsline {subsection}{\numberline {7.4.7}地球外知的生命体探査(SETI)}{257}{subsection.7.4.7}% 
+\contentsline {section}{参考文献}{258}{chapter*.395}% 
+\contentsline {section}{著者一覧}{260}{section*.396}% 
+\contentsline {chapter}{\numberline {第8章}星間物質}{261}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}未解決のサイエンス}{261}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}星間物質とは}{261}{subsection.8.1.1}% 
+\contentsline {paragraph}{はじめに}{261}{section*.397}% 
+\contentsline {subsubsection}{星間物質の構成要素}{261}{section*.398}% 
+\contentsline {paragraph}{星間ガスの相}{261}{section*.399}% 
+\contentsline {paragraph}{星間ダスト}{263}{section*.400}% 
+\contentsline {paragraph}{星間宇宙線と磁場}{263}{section*.401}% 
+\contentsline {subsubsection}{SKAとH\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{263}{section*.402}% 
+\contentsline {paragraph}{H\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{263}{section*.403}% 
+\contentsline {paragraph}{H\tmspace +\thinmuskip {.1667em}\textsc {i}観測の困難}{263}{section*.404}% 
+\contentsline {paragraph}{SKAとH\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{263}{section*.405}% 
+\contentsline {subsection}{\numberline {8.1.2}天の川銀河内の星間物質}{264}{subsection.8.1.2}% 
+\contentsline {subsubsection}{星間物質の多様性}{264}{section*.406}% 
+\contentsline {paragraph}{星間物質の相転移}{264}{section*.407}% 
+\contentsline {paragraph}{相転移と小スケールの中性水素原子雲}{264}{section*.408}% 
+\contentsline {paragraph}{WNM--CNM相転移の観測}{264}{section*.409}% 
+\contentsline {paragraph}{相転移に伴う雲の構造形成}{264}{section*.410}% 
+\contentsline {paragraph}{CNM--MM相転移}{265}{section*.411}% 
+\contentsline {subsubsection}{星間物質の乱流・磁場・宇宙線}{265}{section*.412}% 
+\contentsline {paragraph}{乱流や磁場の起源と特性}{265}{section*.413}% 
+\contentsline {paragraph}{星間物質と磁場の大局構造}{265}{section*.414}% 
+\contentsline {paragraph}{宇宙線の加速メカニズム}{265}{section*.415}% 
+\contentsline {subsubsection}{ダークガス問題}{267}{section*.416}% 
+\contentsline {paragraph}{ダスト質量からガス総量を求める経験則}{267}{section*.417}% 
+\contentsline {paragraph}{OH分子雲探査}{267}{section*.418}% 
+\contentsline {paragraph}{H\tmspace +\thinmuskip {.1667em}\textsc {i}高分解探査}{267}{section*.419}% 
+\contentsline {subsection}{\numberline {8.1.3}天の川銀河外の星間物質}{267}{subsection.8.1.3}% 
+\contentsline {subsubsection}{銀河進化と分子雲形成過程}{267}{section*.420}% 
+\contentsline {paragraph}{分子雲形成過程とH\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{267}{section*.421}% 
+\contentsline {paragraph}{分子雲形成過程の現状の理解}{268}{section*.422}% 
+\contentsline {subsubsection}{系外銀河のH\tmspace +\thinmuskip {.1667em}\textsc {i}サーベイ}{268}{section*.423}% 
+\contentsline {paragraph}{系外銀河のH\tmspace +\thinmuskip {.1667em}\textsc {i}サーベイの重要性}{268}{section*.424}% 
+\contentsline {paragraph}{系外銀河のH\tmspace +\thinmuskip {.1667em}\textsc {i}サーベイの現状}{268}{section*.425}% 
+\contentsline {paragraph}{大小マゼラン銀河}{268}{section*.426}% 
+\contentsline {subsubsection}{系外銀河のダスト--ガス比}{269}{section*.427}% 
+\contentsline {paragraph}{ダスト--ガス質量比の観測}{269}{section*.428}% 
+\contentsline {paragraph}{ダスト--ガス質量比のモデル化}{269}{figure.8.3}% 
+\contentsline {section}{\numberline {8.2}国際SKAサイエンスブックの紹介}{270}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}日本が狙うサイエンス}{270}{section.8.3}% 
+\contentsline {subsection}{\numberline {8.3.1}星間媒質における中性水素原子雲の役割と観測の重要性}{270}{subsection.8.3.1}% 
+\contentsline {paragraph}{中性水素原子雲の役割}{270}{section*.430}% 
+\contentsline {paragraph}{中性水素原子雲の観測の重要性}{270}{section*.431}% 
+\contentsline {subsection}{\numberline {8.3.2}ALMAや野辺山45mなどのミリ波・サブミリ波との相補性}{270}{subsection.8.3.2}% 
+\contentsline {paragraph}{ミリ波・サブミリ波による星間物質研究}{270}{section*.432}% 
+\contentsline {paragraph}{ミリ波・サブミリ波による星間物質研究の例}{272}{section*.433}% 
+\contentsline {paragraph}{SKAへの期待}{272}{section*.434}% 
+\contentsline {subsection}{\numberline {8.3.3}臼田64m鏡H\tmspace +\thinmuskip {.1667em}\textsc {i}観測}{272}{subsection.8.3.3}% 
+\contentsline {paragraph}{国内H\tmspace +\thinmuskip {.1667em}\textsc {i}観測のニーズ}{272}{section*.435}% 
+\contentsline {paragraph}{臼田H\tmspace +\thinmuskip {.1667em}\textsc {i}パイロット観測}{272}{section*.436}% 
+\contentsline {subsection}{\numberline {8.3.4}パルサーグループからもたらされる精密情報の活用}{272}{subsection.8.3.4}% 
+\contentsline {paragraph}{はじめに}{272}{section*.437}% 
+\contentsline {paragraph}{パルサータイミング}{273}{section*.438}% 
+\contentsline {paragraph}{パルサー観測から得られる星間物質の観測量}{273}{section*.439}% 
+\contentsline {paragraph}{パルサーの分布}{273}{section*.440}% 
+\contentsline {paragraph}{SKA観測に向けた技術的課題}{273}{section*.441}% 
+\contentsline {subsection}{\numberline {8.3.5}銀河進化グループがもたらす星形成の知見}{273}{subsection.8.3.5}% 
+\contentsline {paragraph}{星間物質と銀河進化}{273}{section*.442}% 
+\contentsline {paragraph}{SKAへの期待}{274}{section*.443}% 
+\contentsline {paragraph}{日本のサイエンスの狙い}{274}{section*.444}% 
+\contentsline {subsection}{\numberline {8.3.6}宇宙磁場グループが明かす電離ガスの情報}{274}{subsection.8.3.6}% 
+\contentsline {paragraph}{SKA時代の偏波観測}{274}{section*.445}% 
+\contentsline {paragraph}{偏波観測サイエンス}{274}{section*.446}% 
+\contentsline {paragraph}{偏波観測サイエンスとのシナジー}{275}{section*.447}% 
+\contentsline {subsection}{\numberline {8.3.7}宇宙論グループからの期待}{275}{subsection.8.3.7}% 
+\contentsline {paragraph}{星間物質と宇宙論}{275}{section*.448}% 
+\contentsline {paragraph}{前景放射の問題}{275}{section*.449}% 
+\contentsline {section}{参考文献}{277}{chapter*.450}% 
+\contentsline {section}{著者一覧}{278}{section*.451}% 
+\contentsline {chapter}{\numberline {第9章}突発天体}{279}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}突発天体研究の現状と未解決問題}{279}{section.9.1}% 
+\contentsline {subsection}{\numberline {9.1.1}突発天体の研究}{279}{subsection.9.1.1}% 
+\contentsline {subsubsection}{はじめに}{279}{section*.452}% 
+\contentsline {paragraph}{呼称}{279}{section*.453}% 
+\contentsline {paragraph}{突発天体と変動天体}{279}{section*.454}% 
+\contentsline {paragraph}{既知の突発天体と未知の突発天体}{280}{section*.455}% 
+\contentsline {paragraph}{SKAを用いた突発天体研究の方向性}{280}{section*.456}% 
+\contentsline {subsubsection}{突発天体の分類}{280}{section*.457}% 
+\contentsline {subsubsection}{突発天体・変動天体の相空間}{281}{section*.458}% 
+\contentsline {subsection}{\numberline {9.1.2}超新星}{282}{subsection.9.1.2}% 
+\contentsline {subsection}{\numberline {9.1.3}ガンマ線バースト}{283}{subsection.9.1.3}% 
+\contentsline {subsubsection}{GRB Afterglows}{284}{section*.459}% 
+\contentsline {subsubsection}{Orphan GRB Afterglows}{284}{section*.460}% 
+\contentsline {subsection}{\numberline {9.1.4}ブラックホールによる星の潮汐崩壊}{284}{subsection.9.1.4}% 
+\contentsline {subsection}{\numberline {9.1.5}Fast Radio Bursts (FRBs)}{285}{subsection.9.1.5}% 
+\contentsline {subsection}{\numberline {9.1.6}未知の突発天体}{285}{subsection.9.1.6}% 
+\contentsline {subsubsection}{種類1: 銀河系内の短時間変動天体}{285}{section*.461}% 
+\contentsline {paragraph}{Crab Nanoshots}{286}{section*.462}% 
+\contentsline {paragraph}{RRATs}{286}{section*.463}% 
+\contentsline {subsubsection}{種類2: 銀河系外の短時間変動天体}{286}{section*.464}% 
+\contentsline {subsubsection}{種類3: 銀河系内の長時間変動天体}{286}{section*.465}% 
+\contentsline {subsubsection}{種類4: 銀河系外の長時間変動天体}{287}{section*.466}% 
+\contentsline {section}{\numberline {9.2}国際SKAのサイエンス}{287}{section.9.2}% 
+\contentsline {subsection}{\numberline {9.2.1}SKAによる突発天体探査}{287}{subsection.9.2.1}% 
+\contentsline {subsubsection}{SKAへの要求 (1): 他の観測と共存する突発天体探査システム}{288}{section*.467}% 
+\contentsline {subsubsection}{SKAへの要求 (2): 突発天体発見時の自動的な追観測システム}{289}{section*.468}% 
+\contentsline {subsubsection}{まとめ}{290}{section*.469}% 
+\contentsline {subsection}{\numberline {9.2.2}ガンマ線バースト}{290}{subsection.9.2.2}% 
+\contentsline {paragraph}{GRB電波残光の観測の現状}{290}{section*.470}% 
+\contentsline {paragraph}{GRB電波残光のSKA観測の見込み}{290}{section*.471}% 
+\contentsline {subsection}{\numberline {9.2.3}太陽質量コンパクト天体からのインコヒーレントな突発的電波放射}{290}{subsection.9.2.3}% 
+\contentsline {paragraph}{太陽質量コンパクト天体と電波放射}{290}{section*.472}% 
+\contentsline {paragraph}{電波観測から分かること}{290}{section*.473}% 
+\contentsline {paragraph}{感度への期待}{291}{section*.474}% 
+\contentsline {paragraph}{SKA観測の見通し}{291}{section*.475}% 
+\contentsline {subsection}{\numberline {9.2.4}ジェットを伴う潮汐崩壊現象の強い狩人としてのSKA}{291}{subsection.9.2.4}% 
+\contentsline {paragraph}{潮汐崩壊現象}{291}{section*.476}% 
+\contentsline {paragraph}{潮汐崩壊現象の観測}{291}{section*.477}% 
+\contentsline {paragraph}{SKAへの見通し}{291}{section*.478}% 
+\contentsline {subsection}{\numberline {9.2.5}宇宙論的距離の早い突発現象}{292}{subsection.9.2.5}% 
+\contentsline {paragraph}{早い突発現象の活用}{292}{section*.479}% 
+\contentsline {paragraph}{SKAへの見込み}{292}{section*.480}% 
+\contentsline {subsection}{\numberline {9.2.6}ガンマ線バーストを用いた宇宙論へのSKAの貢献}{292}{subsection.9.2.6}% 
+\contentsline {paragraph}{GRB宇宙論}{292}{section*.481}% 
+\contentsline {paragraph}{SKAへの見込み}{292}{section*.482}% 
+\contentsline {subsection}{\numberline {9.2.7}活動銀河核の時間領域研究}{292}{subsection.9.2.7}% 
+\contentsline {paragraph}{AGNの時間領域研究の背景}{292}{section*.483}% 
+\contentsline {paragraph}{SKAへの見込み}{293}{section*.484}% 
+\contentsline {subsection}{\numberline {9.2.8}コア崩壊型超新星とIa型超新星}{293}{subsection.9.2.8}% 
+\contentsline {paragraph}{コア崩壊超新星}{293}{section*.485}% 
+\contentsline {paragraph}{Ia型超新星}{293}{section*.486}% 
+\contentsline {subsection}{\numberline {9.2.9}新星と共生連星からの熱電波放射}{293}{subsection.9.2.9}% 
+\contentsline {paragraph}{星系からの突発現象}{293}{section*.487}% 
+\contentsline {paragraph}{新星の観測}{293}{section*.488}% 
+\contentsline {paragraph}{共生連星の観測}{294}{section*.489}% 
+\contentsline {paragraph}{SKAへの期待}{294}{section*.490}% 
+\contentsline {subsection}{\numberline {9.2.10}超新星と超新星残骸の研究}{294}{subsection.9.2.10}% 
+\contentsline {paragraph}{超新星の種類}{294}{section*.491}% 
+\contentsline {paragraph}{Ia型からの電波を捉える}{294}{section*.492}% 
+\contentsline {paragraph}{可視光で見えないII型を見つける}{294}{section*.493}% 
+\contentsline {paragraph}{超新星残骸のSKA観測}{294}{section*.494}% 
+\contentsline {subsection}{\numberline {9.2.11}系内外のブラックホールX線トランジェントの早期検出と網羅}{295}{subsection.9.2.11}% 
+\contentsline {paragraph}{SKAへの期待}{295}{section*.495}% 
+\contentsline {subsection}{\numberline {9.2.12}未知の未知}{295}{subsection.9.2.12}% 
+\contentsline {subsubsection}{未知追究の哲学}{295}{section*.496}% 
+\contentsline {subsubsection}{未知の探査 (EoU) のための要求}{296}{section*.497}% 
+\contentsline {paragraph}{要求 1: Einstein@Home と同様のプロジェクト}{296}{section*.498}% 
+\contentsline {paragraph}{要求 2: Virtual Observatory への貢献}{296}{section*.499}% 
+\contentsline {subsubsection}{まとめ}{296}{section*.500}% 
+\contentsline {section}{\numberline {9.3}日本が狙うサイエンス}{297}{section.9.3}% 
+\contentsline {subsection}{\numberline {9.3.1}系外超新星}{298}{subsection.9.3.1}% 
+\contentsline {subsubsection}{(1) 観測数の飛躍的増加によりもたらされる統計的理解}{298}{section*.501}% 
+\contentsline {subsubsection}{(2) まだ検出されていない電波放射の弱い超新星の研究}{299}{section*.502}% 
+\contentsline {subsubsection}{(3) 可視光では観測できない激しい星形成を起こしている銀河での超新星の検出と研究}{299}{section*.503}% 
+\contentsline {subsubsection}{(4) 可視光観測とのシナジーによる近傍超新星の包括的研究}{299}{section*.504}% 
+\contentsline {subsubsection}{(5) 強い衝撃波における相対論的電子加速機構、電子注入問題}{300}{section*.505}% 
+\contentsline {subsection}{\numberline {9.3.2}超新星残骸における粒子加速の現場、および星間物質と磁場の相互作用}{300}{subsection.9.3.2}% 
+\contentsline {paragraph}{(1) サンプル数の増大}{301}{section*.506}% 
+\contentsline {paragraph}{(2) 残骸の真の構造}{301}{section*.507}% 
+\contentsline {paragraph}{(3) 粒子加速と磁場}{301}{section*.508}% 
+\contentsline {paragraph}{(4) 星間物質との相互作用}{301}{section*.509}% 
+\contentsline {subsection}{\numberline {9.3.3}電波によるガンマ線バーストの即応追観測}{301}{subsection.9.3.3}% 
+\contentsline {subsubsection}{SKAへの期待と要求}{302}{section*.510}% 
+\contentsline {subsubsection}{日本の独自性とまとめ}{302}{section*.511}% 
+\contentsline {subsection}{\numberline {9.3.4}マグネター磁気圏の解明}{303}{subsection.9.3.4}% 
+\contentsline {subsection}{\numberline {9.3.5}死んだ電波銀河のシェルからの放射}{303}{subsection.9.3.5}% 
+\contentsline {subsection}{\numberline {9.3.6}重力波--電波マルチメッセンジャー観測}{305}{subsection.9.3.6}% 
+\contentsline {subsection}{\numberline {9.3.7}FRBの偏波の可能性と宇宙磁場}{306}{subsection.9.3.7}% 
+\contentsline {subsection}{\numberline {9.3.8}未知の突発天体の探査}{306}{subsection.9.3.8}% 
+\contentsline {subsubsection}{従来の探査結果}{306}{section*.512}% 
+\contentsline {subsubsection}{従来の探査結果の検証}{307}{section*.513}% 
+\contentsline {paragraph}{検証の方法}{307}{section*.514}% 
+\contentsline {paragraph}{検証のためのSKAへの要求}{308}{section*.515}% 
+\contentsline {subsubsection}{未知の探査}{309}{section*.516}% 
+\contentsline {subsubsection}{まとめ}{309}{section*.517}% 
+\contentsline {subsection}{\numberline {9.3.9}突発天体研究のためのSKAへの要求}{309}{subsection.9.3.9}% 
+\contentsline {subsubsection}{アンテナの選択}{310}{section*.518}% 
+\contentsline {subsubsection}{装置要求}{310}{section*.519}% 
+\contentsline {paragraph}{周波数範囲}{310}{section*.520}% 
+\contentsline {paragraph}{感度}{310}{section*.521}% 
+\contentsline {paragraph}{時間分解能}{310}{section*.522}% 
+\contentsline {paragraph}{偏波}{311}{section*.523}% 
+\contentsline {subsubsection}{まとめ}{311}{section*.524}% 
+\contentsline {section}{参考文献}{312}{chapter*.525}% 
+\contentsline {section}{著者一覧}{314}{section*.526}% 
+\contentsline {chapter}{\numberline {第10章}星惑星形成}{315}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}セクション１}{315}{section.10.1}% 
+\contentsline {section}{\numberline {10.2}セクション２}{315}{section.10.2}% 
+\contentsline {section}{\numberline {10.3}セクション３}{315}{section.10.3}% 
+\contentsline {section}{参考文献}{316}{chapter*.527}% 
+\contentsline {section}{著者一覧}{317}{section*.528}% 
+\contentsline {chapter}{\numberline {第11章}惑星}{318}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}セクション１}{318}{section.11.1}% 
+\contentsline {section}{\numberline {11.2}セクション２}{318}{section.11.2}% 
+\contentsline {section}{\numberline {11.3}セクション３}{318}{section.11.3}% 
+\contentsline {section}{参考文献}{319}{chapter*.529}% 
+\contentsline {section}{著者一覧}{320}{section*.530}% 
+\contentsline {chapter}{\numberline {第12章}まとめ}{321}{chapter.12}% 
+\contentsline {section}{\numberline {12.1}要求のまとめ}{321}{section.12.1}% 
+\contentsline {paragraph}{はじめに}{321}{section*.531}% 
+\contentsline {paragraph}{高感度の要求と解決手段}{321}{section*.532}% 
+\contentsline {paragraph}{高角度分解の要求と解決手段}{321}{section*.533}% 
+\contentsline {paragraph}{広視野の要求と解決手段}{321}{section*.534}% 
+\contentsline {paragraph}{広帯域の要求と解決手段}{322}{section*.535}% 
+\contentsline {paragraph}{日本の活動}{322}{section*.536}% 
+\contentsline {paragraph}{結語}{322}{section*.537}% 
+\contentsline {section}{\numberline {12.2}課題のまとめ}{322}{section.12.2}% 
+\contentsline {paragraph}{はじめに}{322}{section*.538}% 
+\contentsline {paragraph}{科学検討課題}{322}{section*.539}% 
+\contentsline {paragraph}{技術開発課題}{322}{section*.540}% 
+\contentsline {paragraph}{結語}{324}{section*.541}% 

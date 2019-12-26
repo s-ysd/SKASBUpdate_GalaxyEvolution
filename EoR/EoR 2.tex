@@ -1,0 +1,44 @@
+\documentclass[a4j,twoside,11pt,dvips]{jreport}
+\renewcommand{\bibname}{参考文献}
+\usepackage[usenames]{color}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{times}
+\usepackage[square,sort,comma,numbers]{natbib}
+%\usepackage{natbib}
+\usepackage{multicol}
+%---added by 市來-----------%
+\usepackage{aas_macros}
+%---------------------------%
+\usepackage{url}
+\usepackage{amsmath,amssymb,amsfonts}
+%\usepackage[dvipdfm,colorlinks=false,bookmarks=true,bookmarksnumbered=false,pdfborder={0 0 0},bookmarkstype=toc]{hyperref}
+\setlength{\textheight}{230mm}
+\setlength{\textwidth}{160mm}
+\setlength{\topmargin}{0mm}
+\setlength{\oddsidemargin}{0mm}
+\setlength{\evensidemargin}{0mm}
+\setlength{\columnseprule}{1pt}
+\setlength{\columnsep}{18mm}
+\setlength\bibsep{1pt}
+\pagestyle{headings}
+\def\dfrac#1#2{{\displaystyle\frac{#1}{#2}}}
+\makeatletter
+\def\la{\mathrel{\mathpalette\gl@align<}}
+\def\ga{\mathrel{\mathpalette\gl@align>}}
+\def\gl@align#1#2{\lower.6ex\vbox{\baselineskip\z@skip\lineskip\z@\ialign{$\m@th#1\hfil##\hfil$\crcr#2\crcr\sim\crcr}}}
+\def\del{\partial}
+\makeatother
+%\AtBeginDvi{\special{pdf:tounicode EUC-UCS2}}
+%\AtBeginShipoutFirst{\special{pdf:tounicode 90ms-RKSJ-UCS2}}
+
+\begin{document}
+
+\setcounter{chapter}{3} %dummy
+\input{EoR.author.tex}
+\input{EoR.s1.tex}
+\input{EoR.s2.tex}
+\input{EoR.s3.tex}
+\input{EoR.bib.tex}
+
+\end{document}

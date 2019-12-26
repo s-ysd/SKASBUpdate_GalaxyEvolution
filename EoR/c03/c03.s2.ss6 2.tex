@@ -1,0 +1,106 @@
+\subsection{21cm forest}
+\label{c03.s2.ss6}
+
+21cm線を用いた再電離期探査の一つとして、トモグラフィーやパワースペクトル
+とは別のアプローチである``21cm forest''がある
+ \citep{2002ApJ...579....1F, 2006MNRAS.370.1867F}。これは、高赤方
+偏移の電波天体からのスペクトルが、銀河間ガス（IGM）や天体によって吸収を
+受け、吸収線として観測されることを用いる。すなわち、高密度の中性水素が存
+在する場所では、電波源からの元々のフラックスは中性水素による吸収線として
+観測され、吸収線の深さから中性水素の密度や、ガスの温度状態を調べる事がで
+きるのである。 
+吸収の度合いを表す物理量である光学的厚みは式(\ref{eq:optical})で表される。
+% $n_{{\rm H}}$は水素の数密度、$\delta$はガスの超過密度、$x_{{\rm HI}}$は
+% 平均中性水素率、$T_{{\rm S}}$はスピン温度を表す。また、
+% $A_{21}=2.85\times 10^{-15}s^{-1}$はアインシュタインA係数、$H$はハッブル
+% パラメータ、$dv_{||}/dr_{||}$はガスの視線方向の速度勾配である。 
+% \begin{eqnarray}
+% \tau_{21cm}(z)&=&\frac{3}{32\pi}\frac{h_{p}c^{3}A_{21cm}}{k_{{\rm B}}\nu_{0}^{2}}\frac{n_{{\rm H}}}{T_{{\rm S}}(1+z)dv_{||}/dr_{||}} \notag\\
+% &=&9.6\times 10^{-3}x_{{\rm HI}}(1+\delta)\left(\frac{1+z}{10} \right)^{3/2}\left(1-\frac{T_{{\rm CMB}}}{T_{{\rm S}}}\right)\left[\frac{H(z)/(1+z)}{dv_{||}/dr_{||}}\right]
+% \label{eq:optical}
+% \end{eqnarray}
+電波天体自身の持つスペクトルを$S_{{\rm in}}$とすると、吸収を受けた後のス
+ペクトル$S_{{\rm abs}}$は$S_{{\rm abs}}=(1-e^{-\tau_{21cm}})S_{{\rm
+in}}$と表される。 
+
+
+\paragraph{観測されるスペクトル}
+実際に観測されるスペクトルには、観測機器のノイズが乗ってくる。観測される
+ビジビリティは 
+\begin{equation}
+V_{v}({\bold u})=\sum_{i}^{N_{sources}}I_{\nu}({\bold s})e^{-2\pi i {\bold u}\cdot{\bold s}}+n_{s}
+\label{eq:visibility}
+\end{equation}
+である。${\bold u}=(u,v,w)$はある時刻での基線の座標を表し、$I_{\nu}$は観
+測する電波源の強度、${\bold s}=(l,m,n)$は観測方向と電波源の方向の余弦を
+表している。また、$n_{s}$は付加的なノイズであり、 
+\begin{equation}
+n_{s}=\frac{1}{\eta_{s}}\frac{SEFD}{\sqrt{N(N-1)t_{int}\Delta\nu}}
+\label{eq:noise}
+\end{equation}
+と表される。$\eta_{s}$はシステム効率, $\Delta \nu$は,バンド幅 $t_{int}$
+は積分時間でNはステーションの数である。また、SEFDは{\rm sys}tem
+equivalent flux densityで、 
+\begin{equation}
+{\rm SEFD}=\frac{2k_{{\rm B}}T_{{\rm sys}}}{N_{{\rm dip}}\eta_{\alpha}A_{\rm eff}}
+\label{eq:noise2}
+\end{equation}
+である。ここで、$T_{{\rm sys}}$はシステム温度と呼ばれ、電子機器のノイズ＋空から
+のノイズ、$N_{{\rm dip}}$は１つのステーションあたりのダイポールア
+ンテナの数で、$\eta_{\alpha}$はダイポール効率, $A_{\rm eff}$は１つのダイ
+ポールアンテナあたりの実効面積を表している。 
+
+
+\paragraph{シミュレーション結果}
+図\ref{fig:forest1}, \ref{fig:forest2}, \ref{fig:forest3}に21cm forestの
+シミュレーション結果を示す。これらの図は$z$=10,7.6,14の場合でのLOFAR、
+SKAを想定した場合の21cm吸収線を電波源のフラックス別で比較している。これ
+らの結果より言えることとして、今回想定した赤方偏移の場合では、LOFARでは
+強い吸収線を観測する事ができるということである。また、SKA1のスペックだと
+ノイズの影響が小さく、ノイズも含んだ実際に観測されるフラックス$S_{{\rm
+obs}}$は、$S_{{\rm obs}}\sim S_{{\rm abs}}$で観測する事が出来る。また、
+中性水素がより多く残っている高赤方偏移ほど、吸収は強く現れる。 
+\begin{figure}[htbp]
+   \centering 
+   \includegraphics[scale=0.7]{EoR/c03/c03.s2.f11.eps}
+   \caption{$z$=10での結果。$S_{{\rm in}}$は電波源本来のスペクトルを表しており、$S_{{\rm abs}}$は21cm吸収線のシミュレーション結果を、$S_{{\rm obs}}$は観測によるノイズも乗せた21cm吸収線の結果を表している。また、$\sigma_{i}=S_{i}-S_{{\rm in}}$である。左二つのパネルは電波源のフラックスが50mJyの場合でのLOFARを想定したノイズ（左）、SKA1を想定したノイズ（右）である。また、右のパネルはSKA1を想定したときでフラックスが10mJyの場合の結果である。$\Delta \nu=10{\rm kHz}$}
+\label{fig:forest1}
+\end{figure}
+\begin{figure}[htbp]
+   \centering 
+   \includegraphics[scale=0.7]{EoR/c03/c03.s2.f12.eps}
+   \caption{$z$=7.6でのシミュレーション結果。線の説明は、図\ref{fig:forest1}の場合と同じ。$\Delta \nu=5{\rm kHz}$}
+\label{fig:forest2}
+\end{figure}
+
+\begin{figure}[htbp]
+   \centering 
+   \includegraphics[scale=0.7]{EoR/c03/c03.s2.f13.eps}
+   \caption{$z$=14でのシミュレーション結果。線の説明は、図\ref{fig:forest1}の場合と同じ。$\Delta \nu=20{\rm kHz}$}
+\label{fig:forest3}
+\end{figure}
+
+\paragraph{要約および議論}
+\begin{itemize}
+ \item 背景天体光の吸収線に注目した21cm forestはトモグラフィーやパワースペク
+トラムと相補的に再電離期のにおける銀河間ガスの温度状態などの性質を探る事
+が出来る。
+\item 現在のシミュレーション結果だと、LOFARによる観測でも吸収線を見る事は可
+能。ただし、$\sim {\rm kHz}$の振動数分解能が必要。
+\item 銀河間ガスによる吸収よりも、コラプスした天体による吸収の方が強い吸収を
+引き起こす。
+\item そもそも背景天体が高赤方偏移で存在している事が必要条件であり、現在、
+$z\sim 4$で観測されている電波源の数密度をより高赤方偏移に外挿して予想さ
+れる全天での電波源の数は$8\times 10^{2}-3\times 10^{4}$個程度（図
+\ref{fig:forest4}）
+ \citep{2002ApJ...577...22C,2009ApJ...704.1396X}。 
+\end{itemize}
+\begin{figure}[htbp]
+   \centering 
+   \includegraphics[scale=0.7]{EoR/c03/c03.s2.f14.eps}
+   \caption{SKA1-low（黒線）とSKA2-low（青点線）での電波源の数密度（全天
+ 観測した場合）の理論予測。左側はクェーサーの個数の赤方偏移進化がなだら
+ かな場合で、右側は高赤方偏移では数密度が小さいが低赤方偏移に行くに連れ
+ て数密度が急激に上昇する場合を表している。} 
+\label{fig:forest4}
+\end{figure}

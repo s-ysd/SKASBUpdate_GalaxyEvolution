@@ -1,0 +1,58 @@
+%%
+%% Chapter: Transients
+%%
+{ %% Localize 'newcommand', etc.
+%%
+%% コマンド類
+%%
+\renewcommand{\floatpagefraction}{0.7}
+%%
+\newcommand{\skasur}[1]{SKA#1-SUR} %% SKA-survey, -sur, -SUR のような表記ゆれ是正のため
+\newcommand{\skamid}[1]{SKA#1-MID}
+\newcommand{\skalow}[1]{SKA#1-LOW}
+\newcommand{\skalowmidsur}[1]{SKA#1-LOW/MID/SUR}
+\newcommand{\skamidsur}[1]{SKA#1-MID/SUR}
+\newcommand{\Eqref}[1]{式~(\ref{#1})}
+\newcommand{\Tabref}[1]{表~\ref{#1}}
+\newcommand{\Figref}[1]{図~\ref{#1}}
+\newcommand{\Chapref}[1]{第~\ref{#1} 章}
+\newcommand{\Secref}[1]{第~\ref{#1} 節}
+%%
+\newcommand{\im}{\text{i}\mspace{+1mu}} % 虚数単位
+\newcommand{\e}{\text{e}}               % 自然対数の底
+\newcommand{\td}{\text{d}}              % 全微分記号の d (dxとかのd)
+\newcommand{\uph}{\mbox{$^\text{h}$}}   % ^h
+\newcommand{\upm}{\mbox{$^\text{m}$}}   % ^m
+\newcommand{\ups}{\mbox{$^\text{s}$}}   % ^s
+\newcommand{\arcdeg}{\mbox{$^\circ$}}   % ^\circ
+\newcommand{\arcmin}{\mbox{$'$}}        % '
+%\newcommand{\arcsec}{\mbox{$''$}}       % ''
+\newcommand{\sqdeg}{\text{deg}^{2}}     % deg^2
+\newcommand{\persqdeg}{\text{deg}^{-2}} % deg^-2
+\newcommand{\persky}{\text{sky}^{-1}}   % sky^-1
+\newcommand{\peryr}{\text{year}^{-1}}   % yr^-1
+\newcommand{\perday}{\text{day}^{-1}}   % day^-1
+\newenvironment{tablenotes}{\begin{center}\begin{minipage}{0.8\hsize}\small 注---}{\end{minipage}\end{center}} % 表の注釈
+\newenvironment{tablecomments}[1]{\begin{center}\begin{minipage}{0.8\hsize}\small $^{#1}$~}{\end{minipage}\end{center}} % 表の注釈
+
+
+%%
+%% 前口上
+%%
+この章では電波帯域における突発天体、つまり急激な光度変動を起こす天体現象の科学研究を、SKAを用いてどのように推進すべきか検討した結果を報告する。
+またその研究を推進するために、SKAに対して要求するべき装置や性能を提案する。
+まずはじめに、\Secref{transients.s1}で突発天体研究における現状と未解決問題について紹介する。
+その後、\Secref{transients.s2}と\Secref{transients.s3}においてその未解決問題について詳述し、その問題を解決するためSKAに要求する装置と性能、また既存の観測施設に対するSKAの優位性を述べる。
+このうち、国際的に進める研究については\Secref{transients.s2}で、日本独自の研究については\Secref{transients.s3}で述べる。
+
+
+%%
+%% Sections
+%%
+\input{transients/transients.s1.tex}
+\input{transients/transients.s2.tex}
+\input{transients/transients.s3.tex}
+\input{transients/transients.bib.tex}
+\input{transients/transients.author.tex}
+
+} % End of localization: my newcommand can not be used below.
