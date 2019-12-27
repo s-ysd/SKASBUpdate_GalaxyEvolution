@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2019.10.30)  27 DEC 2019 10:51
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.euc) (TeX Live 2019) (preloaded format=platex 2019.10.30)  27 DEC 2019 15:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -304,6 +304,9 @@ Package natbib Warning: Citation `2014ApJ...780...13I' multiply defined.
 
 
 Package natbib Warning: Citation `2006PhR...433..181F' multiply defined.
+
+
+Package natbib Warning: Citation `2005ApJ...635L..13S' multiply defined.
 
 
 Package natbib Warning: Citation `2006ApJ...652....6Y' multiply defined.
@@ -818,77 +821,78 @@ LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
 LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
 (Font)              using `JY1/mc/m/n' instead on input line 155.
 
+[133]
 File: galaxy/KS_relation.eps Graphic file (type eps)
-<galaxy/KS_relation.eps> [133] [134] [135]
+ <galaxy/KS_relation.eps> [134] [135]
 File: galaxy/Inttau_v3.eps Graphic file (type eps)
- <galaxy/Inttau_v3.eps> [136]) (./galaxy/galaxy.bib.tex [137] [138
+ <galaxy/Inttau_v3.eps> [136] [137]) (./galaxy/galaxy.bib.tex [138] [139
 
-] [139] [140]) (./galaxy/galaxy.author.tex [141]) [142]
+] [140] [141]) (./galaxy/galaxy.author.tex [142]) [143]
 第 5 章
 (./pulsar/pulsar.s1.tex
 File: pulsar/ppdotdiagram.ps Graphic file (type eps)
- <pulsar/ppdotdiagram.ps> [143
+ <pulsar/ppdotdiagram.ps> [144
 
-] [144] [145] [146]
+] [145] [146] [147]
 File: pulsar/binary_pulsar.eps Graphic file (type eps)
- <pulsar/binary_pulsar.eps> [147] [148] [149]
+ <pulsar/binary_pulsar.eps> [148] [149] [150]
 File: pulsar/nanoshot2.epsi Graphic file (type eps)
- <pulsar/nanoshot2.epsi>) (./pulsar/pulsar.s2.tex [150] [151]
+ <pulsar/nanoshot2.epsi>) (./pulsar/pulsar.s2.tex [151] [152]
 File: pulsar/pulsar.keane.fig1.eps Graphic file (type eps)
- <pulsar/pulsar.keane.fig1.eps> [152] [153]
+ <pulsar/pulsar.keane.fig1.eps> [153] [154]
 File: pulsar/FIG_GW_SMBH.eps Graphic file (type eps)
- <pulsar/FIG_GW_SMBH.eps> [154] [155]
+ <pulsar/FIG_GW_SMBH.eps> [155] [156]
 File: pulsar/fig_Kramer.ps Graphic file (type eps)
- <pulsar/fig_Kramer.ps> [156] [157] [158]
+ <pulsar/fig_Kramer.ps> [157] [158] [159]
 File: pulsar/kumamoto.eps Graphic file (type eps)
- <pulsar/kumamoto.eps> [159] [160]) (./pulsar/pulsar.s3.tex [161] [162]
+ <pulsar/kumamoto.eps> [160] [161]) (./pulsar/pulsar.s3.tex [162] [163]
 File: pulsar/drm-l.eps Graphic file (type eps)
  <pulsar/drm-l.eps>
 File: pulsar/BSS-drml.eps Graphic file (type eps)
  <pulsar/BSS-drml.eps>
 File: pulsar/UPl350.eps Graphic file (type eps)
- <pulsar/UPl350.eps> [163] [164] [165] [166]) (./pulsar/pulsar.bib.tex [167] [168
+ <pulsar/UPl350.eps> [164] [165] [166] [167]) (./pulsar/pulsar.bib.tex [168] [169
 
-]) (./pulsar/pulsar.author.tex [169]) [170]
+]) (./pulsar/pulsar.author.tex [170]) [171]
 第 6 章
-(./magnetism/magnetism.s1.tex [171
+(./magnetism/magnetism.s1.tex [172
 
 ]
 File: magnetism/c06.s1.ss1.f1.eps Graphic file (type eps)
- <magnetism/c06.s1.ss1.f1.eps> [172] [173] [174]
+ <magnetism/c06.s1.ss1.f1.eps> [173] [174] [175]
 File: magnetism/c06.s1.ss1.f2.eps Graphic file (type eps)
- <magnetism/c06.s1.ss1.f2.eps> [175]
+ <magnetism/c06.s1.ss1.f2.eps> [176]
 File: magnetism/c06.s1.ss1.f3.eps Graphic file (type eps)
- <magnetism/c06.s1.ss1.f3.eps> [176] [177] [178] [179] [180] [181] [182] [183] [184] [185] [186]
+ <magnetism/c06.s1.ss1.f3.eps> [177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187]
 File: magnetism/c06.s1.ss6.f1.eps Graphic file (type eps)
  <magnetism/c06.s1.ss6.f1.eps>
 File: magnetism/c06.s1.ss7.f1.eps Graphic file (type eps)
- <magnetism/c06.s1.ss7.f1.eps> [187] [188] [189]
+ <magnetism/c06.s1.ss7.f1.eps> [188] [189] [190]
 File: magnetism/c06.s1.ss8.f1.eps Graphic file (type eps)
- <magnetism/c06.s1.ss8.f1.eps> [190] [191]
+ <magnetism/c06.s1.ss8.f1.eps> [191] [192]
 File: magnetism/c06.s1.ss8.f2.eps Graphic file (type eps)
- <magnetism/c06.s1.ss8.f2.eps>) (./magnetism/magnetism.s2.tex [192] [193]
+ <magnetism/c06.s1.ss8.f2.eps>) (./magnetism/magnetism.s2.tex [193] [194]
 File: magnetism/c06.s2.ss1.f1.eps Graphic file (type eps)
- <magnetism/c06.s2.ss1.f1.eps> [194] [195] [196] [197]
+ <magnetism/c06.s2.ss1.f1.eps> [195] [196] [197] [198]
 File: magnetism/c06.s2.ss3.f1.eps Graphic file (type eps)
  <magnetism/c06.s2.ss3.f1.eps>
 File: magnetism/c06.s2.ss3.f2.eps Graphic file (type eps)
- <magnetism/c06.s2.ss3.f2.eps> [198] [199] [200] [201]
+ <magnetism/c06.s2.ss3.f2.eps> [199] [200] [201] [202]
 File: magnetism/c06.s2.ss4.f1.eps Graphic file (type eps)
- <magnetism/c06.s2.ss4.f1.eps> [202]
+ <magnetism/c06.s2.ss4.f1.eps> [203]
 File: magnetism/c06.s2.ss4.f2.eps Graphic file (type eps)
- <magnetism/c06.s2.ss4.f2.eps> [203] [204]
+ <magnetism/c06.s2.ss4.f2.eps> [204] [205]
 Overfull \hbox (4.97595pt too wide) in paragraph at lines 304--305
  []\JY1/gt/m/n/10.95 電波ハロ ー[] \JY1/mc/m/sl/10.95 電波ハロ ーの大きさは \OT1/ptm/m/n/10.95 Mpc \JY1/mc/m/sl/10.95 にもなるが 、 表面輝度は小さく \OT1/ptm/m/n/10.95 (1.4 GHz \JY1/mc/m/sl/10.95 で $\OMS/cmsy/m/n/10.95 ^^X \OML/cmm/m/it/10.95 ^^V\OT1/cmr/m/n/10.95 Jy []arcsec[]$\OT1/ptm/m/n/10.95 )\JY1/mc/m/sl/10.95 、
  []
 
-[205]
+[206]
 File: magnetism/c06.s2.ss6.f1.eps Graphic file (type eps)
- <magnetism/c06.s2.ss6.f1.eps> [206] [207]) (./magnetism/magnetism.s3.tex [208] [209] [210] [211] [212] [213] [214] [215] [216] [217]
+ <magnetism/c06.s2.ss6.f1.eps> [207] [208]) (./magnetism/magnetism.s3.tex [209] [210] [211] [212] [213] [214] [215] [216] [217] [218]
 File: magnetism/c06.s3.ss9.f1.eps Graphic file (type eps)
- <magnetism/c06.s3.ss9.f1.eps> [218]
+ <magnetism/c06.s3.ss9.f1.eps> [219]
 File: magnetism/c06.s3.ss9.f2.eps Graphic file (type eps)
- <magnetism/c06.s3.ss9.f2.eps> [219]
+ <magnetism/c06.s3.ss9.f2.eps> [220]
 File: magnetism/c06.s3.ss10.f1a.eps Graphic file (type eps)
  <magnetism/c06.s3.ss10.f1a.eps>
 File: magnetism/c06.s3.ss10.f1b.eps Graphic file (type eps)
@@ -898,23 +902,23 @@ Overfull \hbox (2.0805pt too wide) in paragraph at lines 259--268
  []
 
 File: magnetism/c06.s3.ss11.f1.eps Graphic file (type eps)
-<magnetism/c06.s3.ss11.f1.eps> [220] [221] [222] [223]
+<magnetism/c06.s3.ss11.f1.eps> [221] [222] [223] [224]
 File: magnetism/c06.s3.ss13.f1.eps Graphic file (type eps)
- <magnetism/c06.s3.ss13.f1.eps> [224]) (./magnetism/magnetism.bib.tex [225]
+ <magnetism/c06.s3.ss13.f1.eps> [225]) (./magnetism/magnetism.bib.tex [226]
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
 []\OT1/ptm/m/n/9 Banfield, J. et al. 2014, MN-RAS, ac-cepted
  []
 
-[226
+[227
 
-] [227]
+] [228]
 Underfull \hbox (badness 10000) in paragraph at lines 313--314
 []\OT1/ptm/m/n/9 Saga, S., Shi-raishi, M., & Ichiki, K. 2014,
  []
 
-[228]) (./magnetism/magnetism.author.tex [229]) [230]
+[229]) (./magnetism/magnetism.author.tex [230]) [231]
 第 7 章
-(./astrometry/astrometry.tex [231
+(./astrometry/astrometry.tex [232
 
 ]
 File: astrometry/Pleiades_distance_2014.eps Graphic file (type eps)
@@ -923,20 +927,20 @@ Underfull \hbox (badness 2020) in paragraph at lines 87--87
 [][][]\JY1/mc/m/sc/9 上記プレアデス星団までの距離についても 、 \OT1/ptm/m/n/9 Gaia \JY1/mc/m/sc/9 の元で再検証されるはずである 。 ただし 、 \OT1/ptm/m/n/9 Ba-sic An-
  []
 
-[232]
+[233]
 File: astrometry/SKA_astrometry_scheme_J.eps Graphic file (type eps)
- <astrometry/SKA_astrometry_scheme_J.eps> [233]
+ <astrometry/SKA_astrometry_scheme_J.eps> [234]
 Overfull \hbox (5.33368pt too wide) in paragraph at lines 165--175
 []\JY1/mc/m/sl/10.95 一方 、 輝度温度が低い熱的放射源も高精度天体位置計測の対象として考慮すべきである 。 $\OML/cmm/m/it/10.95 B[] \OMS/cmsy/m/n/10.95 ^^T$\OT1/ptm/m/n/10.95 100
  []
 
-[234]
+[235]
 File: astrometry/VLBI_calibration.eps Graphic file (type eps)
- <astrometry/VLBI_calibration.eps> [235] [236]
+ <astrometry/VLBI_calibration.eps> [236] [237]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[237]
+[238]
 File: astrometry/SKASA_stations_2011.eps Graphic file (type eps)
  <astrometry/SKASA_stations_2011.eps>
 File: astrometry/SKA_and_GVN.eps Graphic file (type eps)
@@ -945,7 +949,7 @@ Overfull \hbox (2.08049pt too wide) in paragraph at lines 350--355
 [][] [] 
  []
 
-[238] [239]
+[239] [240]
 Overfull \hbox (4.22629pt too wide) in paragraph at lines 412--418
 \JY1/mc/m/sl/10.95 く、 シミ ュ レ ーシ ョ ンソフトウ ェ アの整備を進めているところである 。 具体的には 、 \OT1/ptm/m/n/10.95 ARIS(Astronomical
  []
@@ -953,9 +957,9 @@ Overfull \hbox (4.22629pt too wide) in paragraph at lines 412--418
 File: astrometry/135_Memo_QSOs.eps Graphic file (type eps)
 <astrometry/135_Memo_QSOs.eps>
 File: astrometry/SKA_calibrators.eps Graphic file (type eps)
- <astrometry/SKA_calibrators.eps> [240] [241]
+ <astrometry/SKA_calibrators.eps> [241] [242]
 File: astrometry/SKA_pulsars_simulation_2011.eps Graphic file (type eps)
- <astrometry/SKA_pulsars_simulation_2011.eps> [242]
+ <astrometry/SKA_pulsars_simulation_2011.eps> [243]
 File: astrometry/Reid_2014.eps Graphic file (type eps)
  <astrometry/Reid_2014.eps>
 File: astrometry/Barros_2013_RotCurv.eps Graphic file (type eps)
@@ -969,13 +973,13 @@ Overfull \hbox (18.38737pt too wide) in paragraph at lines 555--570
 [][]$[]$[]   []$[]$[] 
  []
 
-[243]
+[244]
 File: astrometry/OH_spectra_Etoka.eps Graphic file (type eps)
  <astrometry/OH_spectra_Etoka.eps>
 File: astrometry/OH_LF_Etoka.eps Graphic file (type eps)
  <astrometry/OH_LF_Etoka.eps>
 File: astrometry/GASKAP_field.eps Graphic file (type eps)
- <astrometry/GASKAP_field.eps> [244] [245] [246] [247] [248] [249] [250]
+ <astrometry/GASKAP_field.eps> [245] [246] [247] [248] [249] [250] [251]
 File: astrometry/CMZ.eps Graphic file (type eps)
  <astrometry/CMZ.eps>
 File: astrometry/JASMINE_field_lb.eps Graphic file (type eps)
@@ -986,15 +990,15 @@ Overfull \hbox (4.16118pt too wide) in paragraph at lines 913--926
 [][]$[]$[]   []$[]$[] 
  []
 
-[251]
+[252]
 File: astrometry/bekki_MCs.eps Graphic file (type eps)
- <astrometry/bekki_MCs.eps> [252] [253] [254] [255] [256] [257] [258
+ <astrometry/bekki_MCs.eps> [253] [254] [255] [256] [257] [258] [259
 
-] [259]) [260]
+] [260]) [261]
 第 8 章
-(./ISM/ISM.s1.tex [261
+(./ISM/ISM.s1.tex [262
 
-] [262]
+] [263]
 
 LaTeX Font Warning: Font shape `JT1/mc/bx/sc' undefined
 (Font)              using `JT1/mc/bx/n' instead on input line 69.
@@ -1009,13 +1013,13 @@ LaTeX Font Info:    Font shape `JT1/mc/bx/sc' in size <10.95> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 74.
 LaTeX Font Info:    Font shape `JY1/mc/bx/sc' in size <10.95> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 74.
-[263] [264]
+[264] [265]
 File: ISM/c08.s1.ss2.f1.eps Graphic file (type eps)
  <ISM/c08.s1.ss2.f1.eps>
 File: ISM/c08.s1.ss2.f2.eps Graphic file (type eps)
- <ISM/c08.s1.ss2.f2.eps> [265] [266] [267] [268]
+ <ISM/c08.s1.ss2.f2.eps> [266] [267] [268] [269]
 File: ISM/c08.s1.ss3.f1.eps Graphic file (type eps)
- <ISM/c08.s1.ss3.f1.eps>) (./ISM/ISM.s2.tex [269]
+ <ISM/c08.s1.ss3.f1.eps>) (./ISM/ISM.s2.tex [270]
 Underfull \hbox (badness 1286) in paragraph at lines 65--66
 []\OT1/ptm/m/n/10 Synergies be-tween SKA and ALMA: ob-ser-va-tions of Nearby
  []
@@ -1023,24 +1027,24 @@ Underfull \hbox (badness 1286) in paragraph at lines 65--66
 
 LaTeX Warning: Float too large for page by 29.00171pt on input line 76.
 
-) (./ISM/ISM.s3.tex [270] [271]
+) (./ISM/ISM.s3.tex [271] [272]
 LaTeX Font Info:    Font shape `JT1/mc/bx/sc' in size <12> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `JY1/mc/bx/sc' in size <12> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/sc' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/sc' tried instead on input line 42.
- [272] [273] [274]
+ [273] [274] [275]
 File: ISM/c08.s3.ss6.f1.eps Graphic file (type eps)
- <ISM/c08.s3.ss6.f1.eps>) (./ISM/ISM.bib.tex [275] [276]) (./ISM/ISM.author.tex [277
+ <ISM/c08.s3.ss6.f1.eps>) (./ISM/ISM.bib.tex [276] [277]) (./ISM/ISM.author.tex [278
 
-]) [278]
+]) [279]
 第 9 章
-(./transients/transients.tex (./transients/transients.s1.tex (./transients/transients.s1.introduction.tex [279
+(./transients/transients.tex (./transients/transients.s1.tex (./transients/transients.s1.introduction.tex [280
 
 ]
 File: transients/transients.phasespace.eps Graphic file (type eps)
- <transients/transients.phasespace.eps> [280] [281]) (./transients/transients.s1.sn.tex
+ <transients/transients.phasespace.eps> [281] [282]) (./transients/transients.s1.sn.tex
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 15.
@@ -1053,54 +1057,54 @@ Overfull \hbox (2.08049pt too wide) in paragraph at lines 16--24
 [][]$[]$[] []$[]$[] 
  []
 
-[282]) (./transients/transients.s1.grb.tex [283]
+[283]) (./transients/transients.s1.grb.tex [284]
 File: transients/transients.GRB-afterglow.eps Graphic file (type eps)
- <transients/transients.GRB-afterglow.eps>) (./transients/transients.s1.tde.tex) (./transients/transients.s1.frb.tex [284]) (./transients/transients.s1.unknowns.tex [285] [286])) (./transients/transients.s2.tex
+ <transients/transients.GRB-afterglow.eps>) (./transients/transients.s1.tde.tex) (./transients/transients.s1.frb.tex [285]) (./transients/transients.s1.unknowns.tex [286] [287])) (./transients/transients.s2.tex
 Overfull \hbox (8.57497pt too wide) in paragraph at lines 11--37
  [][][][] 
  []
 
-(./transients/transients.s2.fender.tex [287]
+(./transients/transients.s2.fender.tex [288]
 File: transients/transients.s2.fender.commensal.eps Graphic file (type eps)
- <transients/transients.s2.fender.commensal.eps> [288] [289]) (./transients/transients.s2.akahori.tex [290] [291] [292] [293] [294]) (./transients/transients.s2.wilkinson.tex [295] [296])) (./transients/transients.s3.tex (./transients/transients.s3.sn.tex [297] [298] [299]) (./transients/transients.s3.snr.tex [300]) (./transients/transients.s3.grb.tex [301] [302]) (./transients/transients.s3.magnetars.tex) (./transients/transients.s3.agn.tex [303]
+ <transients/transients.s2.fender.commensal.eps> [289] [290]) (./transients/transients.s2.akahori.tex [291] [292] [293] [294] [295]) (./transients/transients.s2.wilkinson.tex [296] [297])) (./transients/transients.s3.tex (./transients/transients.s3.sn.tex [298] [299] [300]) (./transients/transients.s3.snr.tex [301]) (./transients/transients.s3.grb.tex [302] [303]) (./transients/transients.s3.magnetars.tex) (./transients/transients.s3.agn.tex [304]
 File: transients/transients.s3.agn.fig1.eps Graphic file (type eps)
  <transients/transients.s3.agn.fig1.eps>) (./transients/transients.s3.gw.tex
 File: transients/transients.s3.gw.nasu.eps Graphic file (type eps)
- <transients/transients.s3.gw.nasu.eps> [304]) (./transients/transients.s3.frb.magnetism.tex [305]) (./transients/transients.s3.unknowns.tex
+ <transients/transients.s3.gw.nasu.eps> [305]) (./transients/transients.s3.frb.magnetism.tex [306]) (./transients/transients.s3.unknowns.tex
 File: transients/transients.s3.unknowns.rate.eps Graphic file (type eps)
- <transients/transients.s3.unknowns.rate.eps> [306]
+ <transients/transients.s3.unknowns.rate.eps> [307]
 LaTeX Font Info:    Try loading font information for U+euf on input line 55.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-) [307] [308]) (./transients/transients.s3.requirements.tex [309] [310])) (./transients/transients.bib.tex [311] [312
+) [308] [309]) (./transients/transients.s3.requirements.tex [310] [311])) (./transients/transients.bib.tex [312] [313
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 403--406
 [][]$\OT1/pcr/m/n/9 http : / / www . defense . gov / transcripts /
  []
 
-) (./transients/transients.author.tex [313])) [314]
+) (./transients/transients.author.tex [314])) [315]
 第 10 章
-(./star-formation/star-formation.s1.tex) (./star-formation/star-formation.s2.tex) (./star-formation/star-formation.s3.tex) (./star-formation/star-formation.bib.tex [315
+(./star-formation/star-formation.s1.tex) (./star-formation/star-formation.s2.tex) (./star-formation/star-formation.s3.tex) (./star-formation/star-formation.bib.tex [316
 
-]) (./star-formation/star-formation.author.tex [316
+]) (./star-formation/star-formation.author.tex [317
 
-]) [317]
+]) [318]
 第 11 章
-(./planets/planets.s1.tex) (./planets/planets.s2.tex) (./planets/planets.s3.tex) (./planets/planets.bib.tex [318
+(./planets/planets.s1.tex) (./planets/planets.s2.tex) (./planets/planets.s3.tex) (./planets/planets.bib.tex [319
 
-]) (./planets/planets.author.tex [319
+]) (./planets/planets.author.tex [320
 
-]) [320]
+]) [321]
 第 12 章
-(./conclusion/conclusion.s1.tex [321
+(./conclusion/conclusion.s1.tex [322
 
-]) (./conclusion/conclusion.s2.tex [322] [323])
+]) (./conclusion/conclusion.s2.tex [323] [324])
 
 Package natbib Warning: There were multiply defined citations.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 143.
-[324]
+[325]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
  (./SKAJP_Science_Book_2020.aux
 
@@ -1120,12 +1124,12 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 143.
  ) 
 Here is how much of TeX's memory you used:
- 8579 strings out of 493223
- 131919 string characters out of 6144414
- 304037 words of memory out of 5000000
- 12035 multiletter control sequences out of 15000+600000
+ 8589 strings out of 493223
+ 132130 string characters out of 6144414
+ 304364 words of memory out of 5000000
+ 12045 multiletter control sequences out of 15000+600000
  47914 words of font info for 156 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 28i,15n,27p,2040b,1074s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,15n,27p,2040b,1077s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on SKAJP_Science_Book_2020.dvi (332 pages, 2265636 bytes).
+Output written on SKAJP_Science_Book_2020.dvi (333 pages, 2275568 bytes).

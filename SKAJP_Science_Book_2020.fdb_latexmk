@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1577411508 "SKAJP_Science_Book_2020.dvi" "SKAJP_Science_Book_2020.pdf" "SKAJP_Science_Book_2020" 1577411532
-  "SKAJP_Science_Book_2020.dvi" 1577411508 2265636 d9ece25389b1c05d5c427192d870f95b "latex"
+["dvipdf"] 1577428265 "SKAJP_Science_Book_2020.dvi" "SKAJP_Science_Book_2020.pdf" "SKAJP_Science_Book_2020" 1577428299
+  "SKAJP_Science_Book_2020.dvi" 1577428265 2275568 67f06d47108d60b3e9a430c5ac030fb7 "latex"
   (generated)
   "SKAJP_Science_Book_2020.pdf"
-["latex"] 1577411505 "SKAJP_Science_Book_2020.tex" "SKAJP_Science_Book_2020.dvi" "SKAJP_Science_Book_2020" 1577411532
+["latex"] 1577428262 "SKAJP_Science_Book_2020.tex" "SKAJP_Science_Book_2020.dvi" "SKAJP_Science_Book_2020" 1577428299
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -187,9 +187,9 @@
   "ISM/c08.s1.ss2.f2.eps" 1576806379 2378534 0435d740c6990c0dc31da1d0690b772d ""
   "ISM/c08.s1.ss3.f1.eps" 1576806379 1358154 41cc8ab626f8c4e980ddf67f874791ab ""
   "ISM/c08.s3.ss6.f1.eps" 1576806379 1467290 d79f2c0c9e5e6b47eb5fdce756f29da2 ""
-  "SKAJP_Science_Book_2020.aux" 1577411508 327186 7c108fd29e5eb2827541066b88e602f0 "latex"
-  "SKAJP_Science_Book_2020.tex" 1576806379 3501 8e3f53b59fbaf2c0ac936f4ba0843940 ""
-  "SKAJP_Science_Book_2020.toc" 1577411508 65252 77f4d399fd4fd64ffafdfa409553312a "latex"
+  "SKAJP_Science_Book_2020.aux" 1577428264 328218 deb19810228be546dbfa5a360d399478 "latex"
+  "SKAJP_Science_Book_2020.tex" 1577428261 3501 8e3f53b59fbaf2c0ac936f4ba0843940 ""
+  "SKAJP_Science_Book_2020.toc" 1577428265 65252 000a3a1fd2b716bd0fbba23977151c4f "latex"
   "aas_macros.sty" 1576806379 4947 333770839c1e3175588b60a907276411 ""
   "astrometry/135_Memo_QSOs.eps" 1576806379 439614 808a0048567824f533397aa8d07273eb ""
   "astrometry/Barros_2013_RotCurv.eps" 1576806379 3309329 18cae6371e68f65fd3bc6f96c28cbbb0 ""
@@ -243,10 +243,10 @@
   "galaxy/Leroy08.eps" 1576806379 1676842 1f0d429b84534f8880573403c172df2b ""
   "galaxy/Sancisi.eps" 1576806379 588499 af263aa1baf54c82ce324707ae709bd8 ""
   "galaxy/galaxy.author.tex" 1576806379 360 f9ab4673211ade809206f5ab8ab3a51a ""
-  "galaxy/galaxy.bib.tex" 1577411514 26980 0875ce3cbb03808adce1f93d3e718302 ""
-  "galaxy/galaxy.s1.5.tex" 1577411500 13901 88f54edce9ba8e19e39d194ffa0e1a4d ""
-  "galaxy/galaxy.s1.tex" 1577407952 92447 9f82130da56591f11b67c69d516c0a61 ""
-  "galaxy/galaxy.s2.tex" 1577407959 18159 ac7f83eb699e2f40f5901e2351aef7ed ""
+  "galaxy/galaxy.bib.tex" 1577428206 27978 c7f2de36fe22de0460164b81df37a8a8 ""
+  "galaxy/galaxy.s1.5.tex" 1577411667 13901 88f54edce9ba8e19e39d194ffa0e1a4d ""
+  "galaxy/galaxy.s1.tex" 1577411667 92447 9f82130da56591f11b67c69d516c0a61 ""
+  "galaxy/galaxy.s2.tex" 1577428208 21903 7412b649a6c2878d21f10005adde1c32 ""
   "galaxy/galaxy.s3.tex" 1577407961 29837 5f8950883ce102555568059ea0fd7a6a ""
   "galaxy/h2form.eps" 1576806379 877085 0e110efa8ac3aaf10d06c232887ab3ba ""
   "galaxy/lagos_HI_H2a.eps" 1576806379 13893 6bd98084ca20129e1b9eba713064a6d3 ""
@@ -346,7 +346,7 @@
   "transients/transients.s3.unknowns.tex" 1576806379 14934 0069bade85b8de4ce7c644033e8f00df ""
   "transients/transients.tex" 1576806379 2787 274ac047694e4f4d75b476b90b10d621 ""
   (generated)
-  "SKAJP_Science_Book_2020.log"
   "SKAJP_Science_Book_2020.aux"
-  "SKAJP_Science_Book_2020.toc"
+  "SKAJP_Science_Book_2020.log"
   "SKAJP_Science_Book_2020.dvi"
+  "SKAJP_Science_Book_2020.toc"
